@@ -1,0 +1,112 @@
+{"k": "1-NSC-Steve_STEVE", "l": "simp_chinese", "t": 1710577980, "v0": "$ORD$ Steve", "v1": "$ORD$ 史蒂夫"}
+{"k": "BASIC_T_BEAM", "l": "simp_chinese", "t": 1710575022, "v0": "Prototype Perdition Beam", "v1": "毁灭光束原型"}
+{"k": "BASIC_T_BEAM_DESC", "l": "simp_chinese", "t": 1710575084, "v0": "The earliest working example of a Titanic-class weapon, it lacks the raw devastating power of a true Perdition Beam. That said, it requires no strategic resources to function.", "v1": "它是泰坦早期的武器，缺乏真正毁灭光束的原始毁灭性力量。也就是说，它不需要战略资源就能发挥作用。"}
+{"k": "BATTERY_STARBASE_SECTION", "l": "simp_chinese", "t": 1710578033, "v0": "Medium Section", "v1": "中型"}
+{"k": "BATTLECRUISER", "l": "simp_chinese", "t": 1710575094, "v0": "Battlecruiser", "v1": "战列巡洋舰"}
+{"k": "BATTLECRUISER_ANTIMATTER_REACTOR", "l": "simp_chinese", "t": 1710578021, "v0": "$ANTIMATTER_REACTOR$", "v1": "$ANTIMATTER_REACTOR$"}
+{"k": "BATTLECRUISER_BOW_G8", "l": "simp_chinese", "t": 1710578223, "v0": "Torpedo Bow", "v1": "鱼雷舰艏"}
+{"k": "BATTLECRUISER_BOW_L4", "l": "simp_chinese", "t": 1710578249, "v0": "Artillery Bow", "v1": "火炮舰艏"}
+{"k": "BATTLECRUISER_BOW_P6M6", "l": "simp_chinese", "t": 1710578275, "v0": "Gunship Bow", "v1": "机枪舰艏"}
+{"k": "BATTLECRUISER_BOW_S6M6", "l": "simp_chinese", "t": 1710578288, "v0": "Volley Bow", "v1": "截击舰艏"}
+{"k": "BATTLECRUISER_CLOAK", "l": "simp_chinese", "t": 1710578300, "v0": "Battlecruiser Heavy Cloaking Device", "v1": "战列巡洋舰重型隐形装置"}
+{"k": "BATTLECRUISER_CLOAKING", "l": "simp_chinese", "t": 1710578306, "v0": "Battlecruiser Heavy Cloaking Device", "v1": "战列巡洋舰重型隐形装置"}
+{"k": "BATTLECRUISER_CLOAKING_DESC", "l": "simp_chinese", "t": 1710578316, "v0": "A large cloaking device for the Battlecruiser.", "v1": "战列巡洋舰的大型隐形装置。"}
+{"k": "BATTLECRUISER_COLD_FUSION_REACTOR", "l": "simp_chinese", "t": 1710578326, "v0": "$COLD_FUSION_REACTOR$", "v1": "$COLD_FUSION_REACTOR$"}
+{"k": "BATTLECRUISER_DARK_MATTER_REACTOR", "l": "simp_chinese", "t": 1710578330, "v0": "$DARK_MATTER_REACTOR$", "v1": "$DARK_MATTER_REACTOR$"}
+{"k": "BATTLECRUISER_FISSION_REACTOR", "l": "simp_chinese", "t": 1710578337, "v0": "$FISSION_REACTOR$", "v1": "$FISSION_REACTOR$"}
+{"k": "BATTLECRUISER_FUSION_REACTOR", "l": "simp_chinese", "t": 1710578340, "v0": "$FUSION_REACTOR$", "v1": "$FUSION_REACTOR$"}
+{"k": "BATTLECRUISER_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710578348, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "BATTLECRUISER_MID1_G3L2", "l": "simp_chinese", "t": 1710578365, "v0": "Bombardment Core", "v1": "轰炸核心"}
+{"k": "BATTLECRUISER_MID1_G6", "l": "simp_chinese", "t": 1710578373, "v0": "Torpedo Core", "v1": "鱼雷核心"}
+{"k": "BATTLECRUISER_MID1_M2L3", "l": "simp_chinese", "t": 1710578404, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "BATTLECRUISER_MID1_M9", "l": "simp_chinese", "t": 1710578469, "v0": "Broadside Core", "v1": "平台核心"}
+{"k": "BATTLECRUISER_MID1_S6M6", "l": "simp_chinese", "t": 1710578477, "v0": "Volley Core", "v1": "截击核心"}
+{"k": "BATTLECRUISER_MID2_G3L2", "l": "simp_chinese", "t": 1710578485, "v0": "Bombardment Core", "v1": "轰炸核心"}
+{"k": "BATTLECRUISER_MID2_G6", "l": "simp_chinese", "t": 1710578500, "v0": "Torpedo Core", "v1": "鱼雷核心"}
+{"k": "BATTLECRUISER_MID2_M2L3", "l": "simp_chinese", "t": 1710578507, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "BATTLECRUISER_MID2_M9", "l": "simp_chinese", "t": 1710578513, "v0": "Broadside Core", "v1": "平台核心"}
+{"k": "BATTLECRUISER_MID2_S6M6", "l": "simp_chinese", "t": 1710578520, "v0": "Volley Core", "v1": "截击核心"}
+{"k": "BATTLECRUISER_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710578575, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "BATTLECRUISER_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710578654, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "BATTLECRUISER_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710578668, "v0": "Optimized Dark Matter Reactor", "v1": "优化的暗物质反应堆"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_1", "l": "simp_chinese", "t": 1710578675, "v0": "$SHIP_THRUSTER_1$", "v1": "$SHIP_THRUSTER_1$"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "t": 1710578679, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": "$SHIP_THRUSTER_1_DESC$"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_2", "l": "simp_chinese", "t": 1710578684, "v0": "$SHIP_THRUSTER_2$", "v1": "$SHIP_THRUSTER_2$"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_3", "l": "simp_chinese", "t": 1710578695, "v0": "$SHIP_THRUSTER_3$", "v1": "$SHIP_THRUSTER_3$"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_3_DESC", "l": "simp_chinese", "t": 1710578698, "v0": "$SHIP_THRUSTER_3_DESC$", "v1": "$SHIP_THRUSTER_3_DESC$"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_4", "l": "simp_chinese", "t": 1710578702, "v0": "$SHIP_THRUSTER_4$", "v1": "$SHIP_THRUSTER_4$"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "t": 1710578705, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": "$SHIP_THRUSTER_4_DESC$"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_5", "l": "simp_chinese", "t": 1710578709, "v0": "$SHIP_THRUSTER_5$", "v1": "$SHIP_THRUSTER_5$"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "t": 1710578712, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": "$SHIP_THRUSTER_5_DESC$"}
+{"k": "BATTLECRUISER_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710578721, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "BATTLECRUISER_STERN_G6", "l": "simp_chinese", "t": 1710578765, "v0": "Missile Stern", "v1": "导弹舰艉"}
+{"k": "BATTLECRUISER_STERN_M8", "l": "simp_chinese", "t": 1710578775, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "BATTLECRUISER_STERN_S8P8", "l": "simp_chinese", "t": 1710578781, "v0": "Interceptor Stern", "v1": "拦截舰艉"}
+{"k": "BATTLECRUISER_TORPEDO_1", "l": "simp_chinese", "t": 1710578792, "v0": "Minuteman Torpedo", "v1": "民兵鱼雷"}
+{"k": "BATTLECRUISER_ZERO_POINT_REACTOR", "l": "simp_chinese", "t": 1710578803, "v0": "$ZERO_POINT_REACTOR$", "v1": "$ZERO_POINT_REACTOR$"}
+{"k": "BATTLESHIP_BOW_G4M10P4", "l": "simp_chinese", "t": 1710578826, "v0": "Fullisade Bow", "v1": "Fullisade舰艏"}
+{"k": "BATTLESHIP_BOW_L7", "l": "simp_chinese", "t": 1710578835, "v0": "Artillery Bow", "v1": "火炮舰艏"}
+{"k": "BATTLESHIP_BOW_S6M4L4", "l": "simp_chinese", "t": 1710578842, "v0": "Salvo Bow", "v1": "齐射舰艏"}
+{"k": "BATTLESHIP_BOW_SF", "l": "simp_chinese", "t": 1710578854, "v0": "Spitfire Bow", "v1": "Spitfire舰艏"}
+{"k": "BATTLESHIP_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710578860, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "Battlecruiser", "l": "simp_chinese", "t": 1710577675, "v0": "Battlecruiser", "v1": "战列巡洋舰"}
+{"k": "Battlecruiser_plural", "l": "simp_chinese", "t": 1710577689, "v0": "Battlecruisers", "v1": "战列巡洋舰"}
+{"k": "CARRIER", "l": "simp_chinese", "t": 1710575391, "v0": "Carrier", "v1": "母舰"}
+{"k": "Carrier", "l": "simp_chinese", "t": 1710575409, "v0": "Carrier", "v1": "母舰"}
+{"k": "Carrier_plural", "l": "simp_chinese", "t": 1710577701, "v0": "Carriers", "v1": "母舰"}
+{"k": "DREADNOUGHT", "l": "simp_chinese", "t": 1710575427, "v0": "Dreadnought", "v1": "无畏舰"}
+{"k": "Dreadnought", "l": "simp_chinese", "t": 1710577725, "v0": "Dreadnought", "v1": "无畏舰"}
+{"k": "Dreadnought_plural", "l": "simp_chinese", "t": 1710577727, "v0": "Dreadnoughts", "v1": "无畏舰"}
+{"k": "EXPLORATIONSHIP", "l": "simp_chinese", "t": 1710575463, "v0": "Explorer", "v1": "侦察舰"}
+{"k": "FLAGSHIP", "l": "simp_chinese", "t": 1710575489, "v0": "Flagship", "v1": "旗舰"}
+{"k": "FLAGSHIP_BLACK_HOLE_REACTOR_1", "l": "simp_chinese", "t": 1710577803, "v0": "Black Hole Reactor", "v1": "黑洞反应堆"}
+{"k": "FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC", "l": "simp_chinese", "t": 1710577811, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
+{"k": "FLAGSHIP_BLACK_HOLE_REACTOR_2", "l": "simp_chinese", "t": 1710577819, "v0": "Black Hole Reactor II", "v1": "黑洞反应堆 II"}
+{"k": "FLAGSHIP_BLACK_HOLE_REACTOR_2_DESC", "l": "simp_chinese", "t": 1710577824, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
+{"k": "FLAGSHIP_BLACK_HOLE_REACTOR_3", "l": "simp_chinese", "t": 1710577830, "v0": "Black Hole Reactor III", "v1": "黑洞反应堆 III"}
+{"k": "FLAGSHIP_BLACK_HOLE_REACTOR_3_DESC", "l": "simp_chinese", "t": 1710577834, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
+{"k": "NSC_NAME_STEVE", "l": "simp_chinese", "t": 1710575505, "v0": "Steve", "v1": "史蒂夫"}
+{"k": "ai_behaviour", "l": "simp_chinese", "t": 1710575600, "v0": "AI Tactic", "v1": "智能战术"}
+{"k": "ai_behaviour_DESC", "l": "simp_chinese", "t": 1710575595, "v0": "AI Tactic slot.", "v1": "智能战术槽位"}
+{"k": "ai_behaviour_charge", "l": "simp_chinese", "t": 1710575628, "v0": "Charge Tactic", "v1": "冲锋"}
+{"k": "ai_behaviour_charge_DESC", "l": "simp_chinese", "t": 1710575648, "v0": "Ships will try to close the distance to the enemy fleet as directly as possible and engage in point blank range.", "v1": "舰艇将尝试尽可能直接地拉近与敌方舰队的距离并进行近距离交战。"}
+{"k": "ai_behaviour_default", "l": "simp_chinese", "t": 1710575654, "v0": "Default Behavior", "v1": "默认"}
+{"k": "ai_behaviour_flank_100", "l": "simp_chinese", "t": 1710575705, "v0": "Flanking Tactic (100)", "v1": "环绕（100）"}
+{"k": "ai_behaviour_flank_100_DESC", "l": "simp_chinese", "t": 1710575786, "v0": "Ships will circle the enemy fleet at a set distance (100) while firing their weapons.", "v1": "舰船将以距离（100）环绕敌方舰队并开火。"}
+{"k": "ai_behaviour_flank_30", "l": "simp_chinese", "t": 1710575801, "v0": "Flanking Tactic (30)", "v1": "环绕（30）"}
+{"k": "ai_behaviour_flank_30_DESC", "l": "simp_chinese", "t": 1710575792, "v0": "Ships will circle the enemy fleet at a set distance (30) while firing their weapons.", "v1": "舰船将以距离（30）环绕敌方舰队并开火。"}
+{"k": "ai_behaviour_flank_60", "l": "simp_chinese", "t": 1710575807, "v0": "Flanking Tactic (60)", "v1": "环绕（60）"}
+{"k": "ai_behaviour_flank_60_DESC", "l": "simp_chinese", "t": 1710575814, "v0": "Ships will circle the enemy fleet at a set distance (60) while firing their weapons.", "v1": "舰船将以距离（60）环绕敌方舰队并开火。"}
+{"k": "ai_behaviour_flank_80", "l": "simp_chinese", "t": 1710575824, "v0": "Flanking Tactic (80)", "v1": "环绕（80）"}
+{"k": "ai_behaviour_flank_80_DESC", "l": "simp_chinese", "t": 1710575832, "v0": "Ships will circle the enemy fleet at a set distance (80) while firing their weapons.", "v1": "舰船将以距离（80）环绕敌方舰队并开火。"}
+{"k": "ai_behaviour_follow", "l": "simp_chinese", "t": 1710575852, "v0": "Escort Tactic", "v1": "跟随"}
+{"k": "ai_behaviour_follow_DESC", "l": "simp_chinese", "t": 1710575886, "v0": "Ships will follow rest of the fleet. Balanced default behaviour.", "v1": "舰船将跟随舰队的其他部分"}
+{"k": "ai_behaviour_hitnrun_100", "l": "simp_chinese", "t": 1710575900, "v0": "Hit and Run Tactic (100)", "v1": "放风筝（100）"}
+{"k": "ai_behaviour_hitnrun_100_DESC", "l": "simp_chinese", "t": 1710575996, "v0": "Ships will move up to the shown distance (100) and then fall back before their next attack run.", "v1": "舰船将移动到距离（100）的位置并开火，随后在敌方再次开火前撤退。"}
+{"k": "ai_behaviour_hitnrun_30", "l": "simp_chinese", "t": 1710576007, "v0": "Hit and Run Tactic (30)", "v1": "放风筝（30）"}
+{"k": "ai_behaviour_hitnrun_30_DESC", "l": "simp_chinese", "t": 1710576011, "v0": "Ships will move up to the shown distance (30) and then fall back before their next attack run.", "v1": "舰船将移动到距离（30）的位置并开火，随后在敌方再次开火前撤退。"}
+{"k": "ai_behaviour_hitnrun_60", "l": "simp_chinese", "t": 1710576016, "v0": "Hit and Run Tactic (60)", "v1": "放风筝（60）"}
+{"k": "ai_behaviour_hitnrun_60_DESC", "l": "simp_chinese", "t": 1710576023, "v0": "Ships will move up to the shown distance (60) and then fall back before their next attack run.", "v1": "舰船将移动到距离（60）的位置并开火，随后在敌方再次开火前撤退。"}
+{"k": "ai_behaviour_hitnrun_80", "l": "simp_chinese", "t": 1710576029, "v0": "Hit and Run Tactic (80)", "v1": "放风筝（80）"}
+{"k": "ai_behaviour_hitnrun_80_DESC", "l": "simp_chinese", "t": 1710576033, "v0": "Ships will move up to the shown distance (80) and then fall back before their next attack run.", "v1": "舰船将移动到距离（80）的位置并开火，随后在敌方再次开火前撤退。"}
+{"k": "ai_behaviour_stationary_100", "l": "simp_chinese", "t": 1710576045, "v0": "Artillery Tactic (Range: 100)", "v1": "炮击（100）"}
+{"k": "ai_behaviour_stationary_100_DESC", "l": "simp_chinese", "t": 1710576088, "v0": "Ships will move up to the shown distance (100) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（100）的位置，保持该位置并开火"}
+{"k": "ai_behaviour_stationary_110", "l": "simp_chinese", "t": 1710576105, "v0": "Artillery Tactic (Range: 110)", "v1": "炮击（110）"}
+{"k": "ai_behaviour_stationary_110_DESC", "l": "simp_chinese", "t": 1710576109, "v0": "Ships will move up to the shown distance (110) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（110）的位置，保持该位置并开火"}
+{"k": "ai_behaviour_stationary_120", "l": "simp_chinese", "t": 1710576116, "v0": "Artillery Tactic (Range: 120)", "v1": "炮击（120）"}
+{"k": "ai_behaviour_stationary_120_DESC", "l": "simp_chinese", "t": 1710576120, "v0": "Ships will move up to the shown distance (120) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（120）的位置，保持该位置并开火"}
+{"k": "ai_behaviour_stationary_200", "l": "simp_chinese", "t": 1710576124, "v0": "Standoff Tactic (Range: 200)", "v1": "炮击（200）"}
+{"k": "ai_behaviour_stationary_200_DESC", "l": "simp_chinese", "t": 1710576260, "v0": "Ships will move up to the shown distance (200) and then hold position. NOTE: This setting will cause the ship to stand off outside of normal weapon range, protecting them from most enemy fire but also preventing them from firing at the enemy themselves. Ideal for ships that you want to remain out of combat as much as possible.", "v1": "舰船将移动到距离（200）的位置，保持在该位置。注意：此设置将使舰船远离正常武器射程，在防止受到敌方舰队伤害的同时也无法攻击敌方舰队。非常适合需要尽可能远离战斗的舰船。"}
+{"k": "ai_behaviour_stationary_30", "l": "simp_chinese", "t": 1710576265, "v0": "Artillery Tactic (Range: 30)", "v1": "炮击（30）"}
+{"k": "ai_behaviour_stationary_30_DESC", "l": "simp_chinese", "t": 1710576268, "v0": "Ships will move up to the shown distance (30) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（30）的位置，保持该位置并开火"}
+{"k": "ai_behaviour_stationary_50", "l": "simp_chinese", "t": 1710576273, "v0": "Artillery Tactic (Range: 50)", "v1": "炮击（50）"}
+{"k": "ai_behaviour_stationary_50_DESC", "l": "simp_chinese", "t": 1710576277, "v0": "Ships will move up to the shown distance (50) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（50）的位置，保持该位置并开火"}
+{"k": "ai_behaviour_stationary_60", "l": "simp_chinese", "t": 1710576282, "v0": "Artillery Tactic (Range: 60)", "v1": "炮击（60）"}
+{"k": "ai_behaviour_stationary_60_DESC", "l": "simp_chinese", "t": 1710576285, "v0": "Ships will move up to the shown distance (60) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（60）的位置，保持该位置并开火"}
+{"k": "ai_behaviour_stationary_70", "l": "simp_chinese", "t": 1710576290, "v0": "Artillery Tactic (Range: 70)", "v1": "炮击（70）"}
+{"k": "ai_behaviour_stationary_70_DESC", "l": "simp_chinese", "t": 1710576295, "v0": "Ships will move up to the shown distance (70) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（70）的位置，保持该位置并开火"}
+{"k": "ai_behaviour_stationary_80", "l": "simp_chinese", "t": 1710576300, "v0": "Artillery Tactic (Range: 80)", "v1": "炮击（80）"}
+{"k": "ai_behaviour_stationary_80_DESC", "l": "simp_chinese", "t": 1710576303, "v0": "Ships will move up to the shown distance (80) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（80）的位置，保持该位置并开火"}
+{"k": "ai_behaviour_stationary_90", "l": "simp_chinese", "t": 1710576309, "v0": "Artillery Tactic (Range: 90)", "v1": "炮击（90）"}
+{"k": "ai_behaviour_stationary_90_DESC", "l": "simp_chinese", "t": 1710576314, "v0": "Ships will move up to the shown distance (90) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（90）的位置，保持该位置并开火"}
+{"k": "ai_crew", "l": "simp_chinese", "t": 1710750768, "v0": "Artificial Intelligence Crews", "v1": "人工智能船员"}
