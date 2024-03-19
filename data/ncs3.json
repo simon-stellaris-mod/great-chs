@@ -1,9 +1,11 @@
 {"k": "1-NSC-Steve_STEVE", "l": "simp_chinese", "t": 1710577980, "v0": "$ORD$ Steve", "v1": "$ORD$ 史蒂夫"}
 {"k": "BASIC_T_BEAM", "l": "simp_chinese", "t": 1710575022, "v0": "Prototype Perdition Beam", "v1": "毁灭光束原型"}
-{"k": "BASIC_T_BEAM_DESC", "l": "simp_chinese", "t": 1710575084, "v0": "The earliest working example of a Titanic-class weapon, it lacks the raw devastating power of a true Perdition Beam. That said, it requires no strategic resources to function.", "v1": "它是泰坦早期的武器，缺乏真正毁灭光束的原始毁灭性力量。也就是说，它不需要战略资源就能发挥作用。"}
+{"k": "BASIC_T_BEAM_DESC", "l": "simp_chinese", "t": 1710776590, "v0": "The earliest working example of a Titanic-class weapon, it lacks the raw devastating power of a true Perdition Beam. That said, it requires no strategic resources to function.", "v1": "它是泰坦早期的武器，缺乏真正毁灭光束的原始毁灭性力量，但制造不需要战略资源。"}
+{"k": "BASIC_XL_BEAM", "l": "simp_chinese", "t": 1710776430, "v0": "Early Prototype Lance", "v1": "早期原型光矛"}
+{"k": "BASIC_XL_BEAM_DESC", "l": "simp_chinese", "t": 1710776564, "v0": "A basic prototype from the early days of Lance weapon development. It's weak in comparison to its successors, but requires no strategic resources to function.", "v1": "一种早期开发的原型光矛武器。它的威力相比于后续的改进型号来说是较弱的，但制造不需要战略资源。"}
 {"k": "BATTERY_STARBASE_SECTION", "l": "simp_chinese", "t": 1710578033, "v0": "Medium Section", "v1": "中型"}
 {"k": "BATTLECRUISER", "l": "simp_chinese", "t": 1710575094, "v0": "Battlecruiser", "v1": "战列巡洋舰"}
-{"k": "BATTLECRUISER_ANTIMATTER_REACTOR", "l": "simp_chinese", "t": 1710578021, "v0": "$ANTIMATTER_REACTOR$", "v1": "$ANTIMATTER_REACTOR$"}
+{"k": "BATTLECRUISER_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710825550, "v0": "$ANTIMATTER_REACTOR$", "v1": ""}
 {"k": "BATTLECRUISER_BOW_G8", "l": "simp_chinese", "t": 1710578223, "v0": "Torpedo Bow", "v1": "鱼雷舰艏"}
 {"k": "BATTLECRUISER_BOW_L4", "l": "simp_chinese", "t": 1710578249, "v0": "Artillery Bow", "v1": "火炮舰艏"}
 {"k": "BATTLECRUISER_BOW_P6M6", "l": "simp_chinese", "t": 1710578275, "v0": "Gunship Bow", "v1": "机枪舰艏"}
@@ -11,10 +13,10 @@
 {"k": "BATTLECRUISER_CLOAK", "l": "simp_chinese", "t": 1710578300, "v0": "Battlecruiser Heavy Cloaking Device", "v1": "战列巡洋舰重型隐形装置"}
 {"k": "BATTLECRUISER_CLOAKING", "l": "simp_chinese", "t": 1710578306, "v0": "Battlecruiser Heavy Cloaking Device", "v1": "战列巡洋舰重型隐形装置"}
 {"k": "BATTLECRUISER_CLOAKING_DESC", "l": "simp_chinese", "t": 1710578316, "v0": "A large cloaking device for the Battlecruiser.", "v1": "战列巡洋舰的大型隐形装置。"}
-{"k": "BATTLECRUISER_COLD_FUSION_REACTOR", "l": "simp_chinese", "t": 1710578326, "v0": "$COLD_FUSION_REACTOR$", "v1": "$COLD_FUSION_REACTOR$"}
-{"k": "BATTLECRUISER_DARK_MATTER_REACTOR", "l": "simp_chinese", "t": 1710578330, "v0": "$DARK_MATTER_REACTOR$", "v1": "$DARK_MATTER_REACTOR$"}
-{"k": "BATTLECRUISER_FISSION_REACTOR", "l": "simp_chinese", "t": 1710578337, "v0": "$FISSION_REACTOR$", "v1": "$FISSION_REACTOR$"}
-{"k": "BATTLECRUISER_FUSION_REACTOR", "l": "simp_chinese", "t": 1710578340, "v0": "$FUSION_REACTOR$", "v1": "$FUSION_REACTOR$"}
+{"k": "BATTLECRUISER_COLD_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710825559, "v0": "$COLD_FUSION_REACTOR$", "v1": ""}
+{"k": "BATTLECRUISER_DARK_MATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710825561, "v0": "$DARK_MATTER_REACTOR$", "v1": ""}
+{"k": "BATTLECRUISER_FISSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710825564, "v0": "$FISSION_REACTOR$", "v1": ""}
+{"k": "BATTLECRUISER_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710825566, "v0": "$FUSION_REACTOR$", "v1": ""}
 {"k": "BATTLECRUISER_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710578348, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
 {"k": "BATTLECRUISER_MID1_G3L2", "l": "simp_chinese", "t": 1710578365, "v0": "Bombardment Core", "v1": "轰炸核心"}
 {"k": "BATTLECRUISER_MID1_G6", "l": "simp_chinese", "t": 1710578373, "v0": "Torpedo Core", "v1": "鱼雷核心"}
@@ -28,36 +30,82 @@
 {"k": "BATTLECRUISER_MID2_S6M6", "l": "simp_chinese", "t": 1710578520, "v0": "Volley Core", "v1": "截击核心"}
 {"k": "BATTLECRUISER_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710578575, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
 {"k": "BATTLECRUISER_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710578654, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
-{"k": "BATTLECRUISER_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710578668, "v0": "Optimized Dark Matter Reactor", "v1": "优化的暗物质反应堆"}
-{"k": "BATTLECRUISER_SHIP_THRUSTER_1", "l": "simp_chinese", "t": 1710578675, "v0": "$SHIP_THRUSTER_1$", "v1": "$SHIP_THRUSTER_1$"}
-{"k": "BATTLECRUISER_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "t": 1710578679, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": "$SHIP_THRUSTER_1_DESC$"}
-{"k": "BATTLECRUISER_SHIP_THRUSTER_2", "l": "simp_chinese", "t": 1710578684, "v0": "$SHIP_THRUSTER_2$", "v1": "$SHIP_THRUSTER_2$"}
-{"k": "BATTLECRUISER_SHIP_THRUSTER_3", "l": "simp_chinese", "t": 1710578695, "v0": "$SHIP_THRUSTER_3$", "v1": "$SHIP_THRUSTER_3$"}
-{"k": "BATTLECRUISER_SHIP_THRUSTER_3_DESC", "l": "simp_chinese", "t": 1710578698, "v0": "$SHIP_THRUSTER_3_DESC$", "v1": "$SHIP_THRUSTER_3_DESC$"}
-{"k": "BATTLECRUISER_SHIP_THRUSTER_4", "l": "simp_chinese", "t": 1710578702, "v0": "$SHIP_THRUSTER_4$", "v1": "$SHIP_THRUSTER_4$"}
-{"k": "BATTLECRUISER_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "t": 1710578705, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": "$SHIP_THRUSTER_4_DESC$"}
-{"k": "BATTLECRUISER_SHIP_THRUSTER_5", "l": "simp_chinese", "t": 1710578709, "v0": "$SHIP_THRUSTER_5$", "v1": "$SHIP_THRUSTER_5$"}
-{"k": "BATTLECRUISER_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "t": 1710578712, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": "$SHIP_THRUSTER_5_DESC$"}
+{"k": "BATTLECRUISER_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710779767, "v0": "Optimized Dark Matter Reactor", "v1": "改进的暗物质反应堆"}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_1", "l": "simp_chinese", "s": true, "t": 1710825577, "v0": "$SHIP_THRUSTER_1$", "v1": ""}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710825580, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_2", "l": "simp_chinese", "s": true, "t": 1710825582, "v0": "$SHIP_THRUSTER_2$", "v1": ""}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_2_DESC", "l": "simp_chinese", "s": true, "t": 1710825144, "v0": "$SHIP_THRUSTER_2_DESC$", "v1": ""}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_3", "l": "simp_chinese", "s": true, "t": 1710825584, "v0": "$SHIP_THRUSTER_3$", "v1": ""}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_3_DESC", "l": "simp_chinese", "s": true, "t": 1710825587, "v0": "$SHIP_THRUSTER_3_DESC$", "v1": ""}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_4", "l": "simp_chinese", "s": true, "t": 1710825646, "v0": "$SHIP_THRUSTER_4$", "v1": ""}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1710825650, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": ""}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1710825653, "v0": "$SHIP_THRUSTER_5$", "v1": ""}
+{"k": "BATTLECRUISER_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1710825658, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": ""}
 {"k": "BATTLECRUISER_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710578721, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
 {"k": "BATTLECRUISER_STERN_G6", "l": "simp_chinese", "t": 1710578765, "v0": "Missile Stern", "v1": "导弹舰艉"}
 {"k": "BATTLECRUISER_STERN_M8", "l": "simp_chinese", "t": 1710578775, "v0": "Broadside Stern", "v1": "平台舰艉"}
 {"k": "BATTLECRUISER_STERN_S8P8", "l": "simp_chinese", "t": 1710578781, "v0": "Interceptor Stern", "v1": "拦截舰艉"}
 {"k": "BATTLECRUISER_TORPEDO_1", "l": "simp_chinese", "t": 1710578792, "v0": "Minuteman Torpedo", "v1": "民兵鱼雷"}
-{"k": "BATTLECRUISER_ZERO_POINT_REACTOR", "l": "simp_chinese", "t": 1710578803, "v0": "$ZERO_POINT_REACTOR$", "v1": "$ZERO_POINT_REACTOR$"}
+{"k": "BATTLECRUISER_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1710825665, "v0": "$ZERO_POINT_REACTOR$", "v1": ""}
 {"k": "BATTLESHIP_BOW_G4M10P4", "l": "simp_chinese", "t": 1710578826, "v0": "Fullisade Bow", "v1": "Fullisade舰艏"}
 {"k": "BATTLESHIP_BOW_L7", "l": "simp_chinese", "t": 1710578835, "v0": "Artillery Bow", "v1": "火炮舰艏"}
 {"k": "BATTLESHIP_BOW_S6M4L4", "l": "simp_chinese", "t": 1710578842, "v0": "Salvo Bow", "v1": "齐射舰艏"}
 {"k": "BATTLESHIP_BOW_SF", "l": "simp_chinese", "t": 1710578854, "v0": "Spitfire Bow", "v1": "Spitfire舰艏"}
 {"k": "BATTLESHIP_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710578860, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "BATTLESHIP_MID_L7", "l": "simp_chinese", "t": 1710779671, "v0": "Artillery Core", "v1": "火炮核心"}
+{"k": "BATTLESHIP_MID_M16", "l": "simp_chinese", "t": 1710779683, "v0": "Broadside Core", "v1": "平台核心"}
+{"k": "BATTLESHIP_MID_M5L5", "l": "simp_chinese", "t": 1710779694, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "BATTLESHIP_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710779728, "v0": "Multidimensional Reactor", "v1": "超维度反应堆"}
+{"k": "BATTLESHIP_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710779796, "v0": "Optimized Dark Matter Reactor", "v1": "改进的暗物质反应堆"}
+{"k": "BATTLESHIP_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710779809, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "BATTLESHIP_SNIPER_GUN_1", "l": "simp_chinese", "t": 1710779830, "v0": "Electro-Magnetic Flux Cannon", "v1": "电磁加农炮"}
 {"k": "Battlecruiser", "l": "simp_chinese", "t": 1710577675, "v0": "Battlecruiser", "v1": "战列巡洋舰"}
 {"k": "Battlecruiser_plural", "l": "simp_chinese", "t": 1710577689, "v0": "Battlecruisers", "v1": "战列巡洋舰"}
 {"k": "CARRIER", "l": "simp_chinese", "t": 1710575391, "v0": "Carrier", "v1": "母舰"}
+{"k": "CARRIER_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ANTIMATTER_REACTOR$", "v1": ""}
+{"k": "CARRIER_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_3_DESC$", "v1": ""}
+{"k": "CARRIER_CLOAKING_DARK_MATTER_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_DARK_MATTER_DESC$", "v1": ""}
+{"k": "CARRIER_CLOAKING_PSI_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_PSI_DESC$", "v1": ""}
+{"k": "CARRIER_COLD_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$COLD_FUSION_REACTOR$", "v1": ""}
+{"k": "CARRIER_DARK_MATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$DARK_MATTER_REACTOR$", "v1": ""}
+{"k": "CARRIER_FISSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FISSION_REACTOR$", "v1": ""}
+{"k": "CARRIER_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FUSION_REACTOR$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_1", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_2_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2_DESC$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_3", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_3$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_3_DESC$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_4", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5$", "v1": ""}
+{"k": "CARRIER_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": ""}
+{"k": "CARRIER_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ZERO_POINT_REACTOR$", "v1": ""}
 {"k": "Carrier", "l": "simp_chinese", "t": 1710575409, "v0": "Carrier", "v1": "母舰"}
 {"k": "Carrier_plural", "l": "simp_chinese", "t": 1710577701, "v0": "Carriers", "v1": "母舰"}
 {"k": "DREADNOUGHT", "l": "simp_chinese", "t": 1710575427, "v0": "Dreadnought", "v1": "无畏舰"}
+{"k": "DREADNOUGHT_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ANTIMATTER_REACTOR$", "v1": ""}
+{"k": "DREADNOUGHT_COLD_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$COLD_FUSION_REACTOR$", "v1": ""}
+{"k": "DREADNOUGHT_DARK_MATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$DARK_MATTER_REACTOR$", "v1": ""}
+{"k": "DREADNOUGHT_FISSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FISSION_REACTOR$", "v1": ""}
+{"k": "DREADNOUGHT_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FUSION_REACTOR$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_1", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_2_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2_DESC$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_3", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_3$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_3_DESC$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_4", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5$", "v1": ""}
+{"k": "DREADNOUGHT_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": ""}
+{"k": "DREADNOUGHT_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ZERO_POINT_REACTOR$", "v1": ""}
 {"k": "Dreadnought", "l": "simp_chinese", "t": 1710577725, "v0": "Dreadnought", "v1": "无畏舰"}
 {"k": "Dreadnought_plural", "l": "simp_chinese", "t": 1710577727, "v0": "Dreadnoughts", "v1": "无畏舰"}
 {"k": "EXPLORATIONSHIP", "l": "simp_chinese", "t": 1710575463, "v0": "Explorer", "v1": "侦察舰"}
+{"k": "EXPLORATION_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_3_DESC$", "v1": ""}
+{"k": "EXPLORATION_CLOAKING_DARK_MATTER_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_DARK_MATTER_DESC$", "v1": ""}
+{"k": "EXPLORATION_CLOAKING_PSI_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_PSI_DESC$", "v1": ""}
 {"k": "FLAGSHIP", "l": "simp_chinese", "t": 1710575489, "v0": "Flagship", "v1": "旗舰"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_1", "l": "simp_chinese", "t": 1710577803, "v0": "Black Hole Reactor", "v1": "黑洞反应堆"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC", "l": "simp_chinese", "t": 1710577811, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
@@ -65,7 +113,39 @@
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_2_DESC", "l": "simp_chinese", "t": 1710577824, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_3", "l": "simp_chinese", "t": 1710577830, "v0": "Black Hole Reactor III", "v1": "黑洞反应堆 III"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_3_DESC", "l": "simp_chinese", "t": 1710577834, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
+{"k": "FLAGSHIP_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_3_DESC$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_1", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_2_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2_DESC$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_3", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_3$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_3_DESC$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_4", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5$", "v1": ""}
+{"k": "FLAGSHIP_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": ""}
+{"k": "Flagship", "l": "simp_chinese", "t": 1710781159, "v0": "Flagship", "v1": "旗舰"}
+{"k": "Flagship_plural", "l": "simp_chinese", "t": 1710781162, "v0": "Flagships", "v1": "旗舰"}
 {"k": "NSC_NAME_STEVE", "l": "simp_chinese", "t": 1710575505, "v0": "Steve", "v1": "史蒂夫"}
+{"k": "STRIKECRUISERSHIP_THRUSTER_2_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2_DESC$", "v1": ""}
+{"k": "STRIKECRUISER_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ANTIMATTER_REACTOR$", "v1": ""}
+{"k": "STRIKECRUISER_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_3_DESC$", "v1": ""}
+{"k": "STRIKECRUISER_CLOAKING_DARK_MATTER_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_DARK_MATTER_DESC$", "v1": ""}
+{"k": "STRIKECRUISER_CLOAKING_PSI_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_PSI_DESC$", "v1": ""}
+{"k": "STRIKECRUISER_COLD_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$COLD_FUSION_REACTOR$", "v1": ""}
+{"k": "STRIKECRUISER_DARK_MATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$DARK_MATTER_REACTOR$", "v1": ""}
+{"k": "STRIKECRUISER_FISSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FISSION_REACTOR$", "v1": ""}
+{"k": "STRIKECRUISER_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FUSION_REACTOR$", "v1": ""}
+{"k": "STRIKECRUISER_SHIP_THRUSTER_1", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1$", "v1": ""}
+{"k": "STRIKECRUISER_SHIP_THRUSTER_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2$", "v1": ""}
+{"k": "STRIKECRUISER_SHIP_THRUSTER_3", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_3$", "v1": ""}
+{"k": "STRIKECRUISER_SHIP_THRUSTER_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_3_DESC$", "v1": ""}
+{"k": "STRIKECRUISER_SHIP_THRUSTER_4", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4$", "v1": ""}
+{"k": "STRIKECRUISER_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": ""}
+{"k": "STRIKECRUISER_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5$", "v1": ""}
+{"k": "STRIKECRUISER_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": ""}
+{"k": "STRIKECRUISER_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ZERO_POINT_REACTOR$", "v1": ""}
+{"k": "STRIKECRUISE_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
 {"k": "ai_behaviour", "l": "simp_chinese", "t": 1710575600, "v0": "AI Tactic", "v1": "智能战术"}
 {"k": "ai_behaviour_DESC", "l": "simp_chinese", "t": 1710575595, "v0": "AI Tactic slot.", "v1": "智能战术槽位"}
 {"k": "ai_behaviour_charge", "l": "simp_chinese", "t": 1710575628, "v0": "Charge Tactic", "v1": "冲锋"}
@@ -110,3 +190,78 @@
 {"k": "ai_behaviour_stationary_90", "l": "simp_chinese", "t": 1710576309, "v0": "Artillery Tactic (Range: 90)", "v1": "炮击（90）"}
 {"k": "ai_behaviour_stationary_90_DESC", "l": "simp_chinese", "t": 1710576314, "v0": "Ships will move up to the shown distance (90) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（90）的位置，保持该位置并开火"}
 {"k": "ai_crew", "l": "simp_chinese", "t": 1710750768, "v0": "Artificial Intelligence Crews", "v1": "人工智能船员"}
+{"k": "can_not_start_another_nsc_flagship_building", "l": "simp_chinese", "t": 1710781721, "v0": "£trigger_no£ Cannot start another Flagship construction project.", "v1": "£trigger_no£ 无法启动另一个旗舰建设项目。"}
+{"k": "megastructures_nsc_flagship_shipyard", "l": "simp_chinese", "t": 1710841189, "v0": "Grand Shipyard", "v1": "星际船坞"}
+{"k": "mod_megastructures_nsc_flagship_shipyard_cost_mult", "l": "simp_chinese", "t": 1710841203, "v0": "Grand Shipyard Build Cost", "v1": "星际级船坞建造花费"}
+{"k": "mod_ship_Flagship_cost_mult", "l": "simp_chinese", "t": 1710781832, "v0": "Flagship Build Cost", "v1": "旗舰建造花费"}
+{"k": "mod_shipsize_Flagship_build_speed_mult", "l": "simp_chinese", "t": 1710781843, "v0": "Flagship Build Speed", "v1": "旗舰建造速度"}
+{"k": "mod_shipsize_Flagship_hull_mult", "l": "simp_chinese", "t": 1710781852, "v0": "Flagship Hull Points", "v1": "旗舰船体"}
+{"k": "mod_shipsize_Flagship_upkeep_mult", "l": "simp_chinese", "t": 1710781862, "v0": "Flagship Upkeep", "v1": "旗舰维护"}
+{"k": "nsc_flagship_aura", "l": "simp_chinese", "t": 1710781910, "v0": "Advanced Fleet Command Network", "v1": "先进舰队指挥网络"}
+{"k": "nsc_flagship_cannot_be_acquired_by_conventional_means.tooltip.fail", "l": "simp_chinese", "t": 1710781983, "v0": "§R$TRIGGER_FAIL$§! Due to its size and complexity, only the $nsc_flagship_shipyard$ Megastructure is capable of producing a Flagship-class vessel.", "v1": "§R$TRIGGER_FAIL$§! 考虑到它的规模和复杂程度, 只有 $nsc_flagship_shipyard$ 超级构造才能建造旗舰级军舰。"}
+{"k": "nsc_flagship_shipyard", "l": "simp_chinese", "t": 1710782006, "v0": "Grand Shipyard", "v1": "旗舰船坞"}
+{"k": "nsc_flagship_shipyard_DESC", "l": "simp_chinese", "t": 1710782021, "v0": "This massive space station is necessary to construct the largest and deadliest warship that the galaxy has ever seen.", "v1": "这个巨大的空间站是建造银河系有史以来最大、最致命的战舰所必需的。"}
+{"k": "nsc_flagship_shipyard_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_flagship_shipyard_DESC$", "v1": ""}
+{"k": "nsc_modmenu.2.a", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ACKNOWLEDGED$", "v1": ""}
+{"k": "nsc_modmenu_etc_feature_ai_difficulty_economy_bonus_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_etc_feature_ai_difficulty_military_bonus_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_etc_feature_ai_difficulty_technology_bonus_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_etc_feature_mothball_fleet_naval_capacity_upkeep_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_etc_feature_mothball_fleet_resource_upkeep_mod$", "v1": ""}
+{"k": "nsc_modmenu_setting_page_etc_category_feature_hyperlane_generation_name_desc", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$TECH_UNLOCK_HYPERLANE_GENERATION_DESC$", "v1": ""}
+{"k": "nsc_modmenu_setting_page_mod_category_faq_question_list_2_name", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_setting_page_mod_category_faq_question_list_1_name$", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_class_Flagship_build_cost_desc_minus", "l": "simp_chinese", "t": 1710782050, "v0": "Build Cost: §G[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!", "v1": "建造花费: §G[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!"}
+{"k": "nsc_modmenu_setting_page_ship_category_class_Flagship_build_cost_desc_neutral", "l": "simp_chinese", "t": 1710782064, "v0": "Build Cost: §Y[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!", "v1": "建造花费: §Y[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!"}
+{"k": "nsc_modmenu_setting_page_starbase_category_class_headquarters_name_desc", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_DESC$", "v1": ""}
+{"k": "nsc_modmenu_setting_page_starbase_category_class_stronghold_name_desc", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$TECH_UNLOCK_STRONGHOLD_CONSTRUCTION_DESC$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_Battlecruiser_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_Carrier_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_Carrier_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_Dreadnought_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_Dreadnought_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_Flagship_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_Flagship_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_battleship_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_battleship_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_colossus_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_colossus_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_corvette_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_corvette_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_cruiser_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_cruiser_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_destroyer_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_destroyer_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_explorationship_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_explorationship_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_frigate_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_frigate_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_juggernaut_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_juggernaut_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_titan_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_ship_class_titan_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_starbase_class_common_upgrade_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_starbase_class_common_upgrade_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_starbase_class_outpost_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "nsc_modmenu_starbase_class_outpost_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
+{"k": "requires_no_existing_nsc_flagship", "l": "simp_chinese", "t": 1710782088, "v0": "£trigger_no£ Cannot build more than one Flagship.", "v1": "£trigger_no£ 只能建造一艘旗舰。"}
+{"k": "tech_Dreadnought_1", "l": "simp_chinese", "t": 1710825230, "v0": "Dreadnought", "v1": "无畏舰"}
+{"k": "tech_Flagship_1", "l": "simp_chinese", "t": 1710779860, "v0": "The Flagship", "v1": "旗舰"}
+{"k": "tech_Flagship_1_desc", "l": "simp_chinese", "t": 1710781458, "v0": "The naval arms race has seen the production of larger and larger warships with no end in sight. Our naval engineers have suggested jumping to the logical conclusion of this serial escalation by constructing a ship so massive and powerful, that no empire will be able to support more than one of them at a time. This proposed Flagship will be the ultimate warship. Designed for maximum versatility, each section will have many possible configurations, allowing us to design our Flagship to suit our purposes. Mounting far more thrusters per ton than any other ship, the Flagship will be able to take any position in the fleet, from a long-range battery in the rear, to a massive brawler at the tip of a fleet's spear.\n\nThis power and versatility will come at a heavy cost, however. Merely building the Flagship will be an enormous endeavor, requiring a colossal stockpile of resources and a significant investment of time and manpower. Upon completion, it will take the entire GDP of a small star nation to maintain; as a result, it will require a massive amount of political influence to obtain approval for the project.", "v1": "随着军备竞赛愈演愈烈，军舰的规模不断突破，越来越庞大的军舰被制造了出来。我们的海军工程师建议，通过建造一艘超级规模的军舰来终结这场没有止境的竞赛，这艘军舰如此的庞大以至于没有任何一个帝国能够同时拥有超过一艘。这艘设计中的旗舰将是终极战舰。这艘旗舰在设计时就充分的考虑到了同时支持多种不同的任务的需要，其每个部分都有许多种不同的配置，这使得我们能够自由的设计我们的旗舰以满足各种要求 —— 旗舰将能够占据舰队中的任何位置，从作为后方的远程炮台远程开火，到带领整个舰队冲锋陷阵。\n但是，与此同时实现如此强大的能力是有很高代价的 —— 仅仅建造旗舰就将是一项艰巨的任务，需要大量的资源储备以及大量的时间和人力投入。并且一旦建成，旗舰通常需要一个小星国的全部GDP才能维持；因此，该项目需要巨大的政治影响力才能获得批准。"}
+{"k": "tech_dreadnought_build_speed", "l": "simp_chinese", "t": 1710825297, "v0": "Standardized Dreadnought Patterns", "v1": "标准化无畏舰生产线"}
+{"k": "tech_dreadnought_build_speed_desc", "l": "simp_chinese", "t": 1710825314, "v0": "Establishing new standards for the modeling and construction of Dreadnoughts greatly improves the efficiency of the production pipeline.", "v1": "为无畏舰建造建立新标准大大提高了生产流程的效率。"}
+{"k": "tech_dreadnought_hull_1", "l": "simp_chinese", "t": 1710825258, "v0": "Improved Dreadnought Hulls", "v1": "先进无畏舰舰体 I"}
+{"k": "tech_dreadnought_hull_1_desc", "l": "simp_chinese", "t": 1710825271, "v0": "Advances in building techniques will allow for the construction of sturdier and more durable Dreadnoughts.", "v1": "建造技术的进步将允许建造更坚固、更耐用的无畏舰。"}
+{"k": "tech_dreadnought_hull_2", "l": "simp_chinese", "t": 1710825262, "v0": "Advanced Dreadnought Hulls", "v1": "先进无畏舰舰体 II"}
+{"k": "tech_dreadnought_hull_2_desc", "l": "simp_chinese", "t": 1710825281, "v0": "The latest generation of Dreadnought hulls have optimized structural integrity fields and improved bulkheads.", "v1": "最新一代的无畏舰船体优化了结构完整性并改进了舱壁。"}
+{"k": "tech_flagship_build_speed", "l": "simp_chinese", "t": 1710782107, "v0": "Standardized Flagship Patterns", "v1": "标准化旗舰生产线"}
+{"k": "tech_flagship_build_speed_desc", "l": "simp_chinese", "t": 1710782117, "v0": "Establishing new standards for the modeling and construction of the Flagship greatly improves the efficiency of the production pipeline.", "v1": "为旗舰的建模和建造建立新标准，大大提高了生产流水线的效率。"}
+{"k": "tech_flagship_hull_1", "l": "simp_chinese", "t": 1710782132, "v0": "Improved Flagship Hulls", "v1": "先进旗舰船体 I"}
+{"k": "tech_flagship_hull_1_desc", "l": "simp_chinese", "t": 1710782141, "v0": "Advances in building techniques will allow for the construction of sturdier and more durable Flagships.", "v1": "建造技术的进步将允许建造更坚固、更耐用的旗舰。"}
+{"k": "tech_flagship_hull_2", "l": "simp_chinese", "t": 1710782154, "v0": "Advanced Flagship Hulls", "v1": "先进旗舰船体 II"}
+{"k": "tech_flagship_hull_2_desc", "l": "simp_chinese", "t": 1710782174, "v0": "The latest generation of Flagship hulls have optimized structural integrity fields and improved bulkheads.", "v1": "最新一代的旗舰船体优化了结构完整性并改进了舱壁。"}
+{"k": "tr_nsc_fleet_doctrine_armament", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$policy_armament_doctrine$", "v1": ""}
+{"k": "tr_nsc_fleet_doctrine_crew", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$policy_crew_doctrine$", "v1": ""}
+{"k": "tr_nsc_fleet_doctrine_defense", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$policy_defense_doctrine$", "v1": ""}
+{"k": "tr_nsc_fleet_doctrine_fleet", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$policy_composition_doctrine$", "v1": ""}
+{"k": "tr_nsc_fleet_doctrine_operations", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$policy_operations_doctrine$", "v1": ""}
+{"k": "triggered_opinion_of_nsc_hopsital_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$triggered_opinion_of_nsc_hopsital_1$", "v1": ""}
+{"k": "triggered_opinion_of_nsc_hopsital_3", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$triggered_opinion_of_nsc_hopsital_1$", "v1": ""}
