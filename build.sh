@@ -15,10 +15,11 @@ fi
 
 # Build translation files
 
-python3 ${STELLARIS_TRANS_REPO_PATH}/web/translation.py \
+python3 ${STELLARIS_TRANS_REPO_PATH}/scripts/translation.py \
     build \
     --name nsc3 \
     --source-path ${STELLARIS_NSC3_GIT_REPO_PATH}/localisation/english \
+    --source-language english \
     --data-file ./data/ncs3.json \
     --output-path ./mod/localisation
 

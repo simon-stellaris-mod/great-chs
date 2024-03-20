@@ -14,8 +14,9 @@ if [ -z "${STELLARIS_NSC3_GIT_REPO_PATH}" ]; then
     exit 1
 fi
 
-python3 ${STELLARIS_TRANS_REPO_PATH}/web/server.py \
+python3 ${STELLARIS_TRANS_REPO_PATH}/scripts/server.py \
     --name nsc3 \
     --source-path ${STELLARIS_NSC3_GIT_REPO_PATH}/localisation/english \
+    --source-language english \
     --data-file ./data/ncs3.json \
     --output-path ./mod/localisation

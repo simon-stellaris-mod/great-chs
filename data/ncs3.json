@@ -1,4 +1,5 @@
 {"k": "1-NSC-Steve_STEVE", "l": "simp_chinese", "t": 1710577980, "v0": "$ORD$ Steve", "v1": "$ORD$ 史蒂夫"}
+{"k": "ARTILLERY_JUGGERNAUT_SECTION", "l": "simp_chinese", "s": true, "t": 1710866082, "v0": "Artillery Juggernaut", "v1": ""}
 {"k": "BASIC_T_BEAM", "l": "simp_chinese", "t": 1710575022, "v0": "Prototype Perdition Beam", "v1": "毁灭光束原型"}
 {"k": "BASIC_T_BEAM_DESC", "l": "simp_chinese", "t": 1710776590, "v0": "The earliest working example of a Titanic-class weapon, it lacks the raw devastating power of a true Perdition Beam. That said, it requires no strategic resources to function.", "v1": "它是泰坦早期的武器，缺乏真正毁灭光束的原始毁灭性力量，但制造不需要战略资源。"}
 {"k": "BASIC_XL_BEAM", "l": "simp_chinese", "t": 1710776430, "v0": "Early Prototype Lance", "v1": "早期原型光矛"}
@@ -22,12 +23,12 @@
 {"k": "BATTLECRUISER_MID1_G6", "l": "simp_chinese", "t": 1710578373, "v0": "Torpedo Core", "v1": "鱼雷核心"}
 {"k": "BATTLECRUISER_MID1_M2L3", "l": "simp_chinese", "t": 1710578404, "v0": "Salvo Core", "v1": "齐射核心"}
 {"k": "BATTLECRUISER_MID1_M9", "l": "simp_chinese", "t": 1710578469, "v0": "Broadside Core", "v1": "平台核心"}
-{"k": "BATTLECRUISER_MID1_S6M6", "l": "simp_chinese", "t": 1710578477, "v0": "Volley Core", "v1": "截击核心"}
+{"k": "BATTLECRUISER_MID1_S6M6", "l": "simp_chinese", "t": 1710578477, "v0": "Volley Core", "v1": "机枪核心"}
 {"k": "BATTLECRUISER_MID2_G3L2", "l": "simp_chinese", "t": 1710578485, "v0": "Bombardment Core", "v1": "轰炸核心"}
 {"k": "BATTLECRUISER_MID2_G6", "l": "simp_chinese", "t": 1710578500, "v0": "Torpedo Core", "v1": "鱼雷核心"}
 {"k": "BATTLECRUISER_MID2_M2L3", "l": "simp_chinese", "t": 1710578507, "v0": "Salvo Core", "v1": "齐射核心"}
 {"k": "BATTLECRUISER_MID2_M9", "l": "simp_chinese", "t": 1710578513, "v0": "Broadside Core", "v1": "平台核心"}
-{"k": "BATTLECRUISER_MID2_S6M6", "l": "simp_chinese", "t": 1710578520, "v0": "Volley Core", "v1": "截击核心"}
+{"k": "BATTLECRUISER_MID2_S6M6", "l": "simp_chinese", "t": 1710578520, "v0": "Volley Core", "v1": "机枪核心"}
 {"k": "BATTLECRUISER_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710578575, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
 {"k": "BATTLECRUISER_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710578654, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
 {"k": "BATTLECRUISER_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710779767, "v0": "Optimized Dark Matter Reactor", "v1": "改进的暗物质反应堆"}
@@ -46,30 +47,52 @@
 {"k": "BATTLECRUISER_STERN_M8", "l": "simp_chinese", "t": 1710578775, "v0": "Broadside Stern", "v1": "平台舰艉"}
 {"k": "BATTLECRUISER_STERN_S8P8", "l": "simp_chinese", "t": 1710578781, "v0": "Interceptor Stern", "v1": "拦截舰艉"}
 {"k": "BATTLECRUISER_TORPEDO_1", "l": "simp_chinese", "t": 1710578792, "v0": "Minuteman Torpedo", "v1": "民兵鱼雷"}
+{"k": "BATTLECRUISER_TORPEDO_1_DESC", "l": "simp_chinese", "t": 1710865143, "v0": "Named after its ability to fire more rapidly than most other torpedoes, the Minuteman is a special variant designed for the Battlecruiser class to execute devastating strikes on larger enemy capital ships. It can also be equipped on starbases and defense platforms for long-range capital ship defense.", "v1": "民兵鱼雷因其发射速度比大多数其他鱼雷更快而得名，是专为战列巡洋舰级设计的特殊型号，可对敌方主力舰进行毁灭性打击。它还可以装备在星际基地和防御平台上，用于防御远程主力舰。"}
 {"k": "BATTLECRUISER_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1710825665, "v0": "$ZERO_POINT_REACTOR$", "v1": ""}
 {"k": "BATTLESHIP_BOW_G4M10P4", "l": "simp_chinese", "t": 1710578826, "v0": "Fullisade Bow", "v1": "Fullisade舰艏"}
 {"k": "BATTLESHIP_BOW_L7", "l": "simp_chinese", "t": 1710578835, "v0": "Artillery Bow", "v1": "火炮舰艏"}
 {"k": "BATTLESHIP_BOW_S6M4L4", "l": "simp_chinese", "t": 1710578842, "v0": "Salvo Bow", "v1": "齐射舰艏"}
-{"k": "BATTLESHIP_BOW_SF", "l": "simp_chinese", "t": 1710578854, "v0": "Spitfire Bow", "v1": "Spitfire舰艏"}
+{"k": "BATTLESHIP_BOW_SF", "l": "simp_chinese", "t": 1710866026, "v0": "Spitfire Bow", "v1": "集火舰艏"}
 {"k": "BATTLESHIP_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710578860, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
 {"k": "BATTLESHIP_MID_L7", "l": "simp_chinese", "t": 1710779671, "v0": "Artillery Core", "v1": "火炮核心"}
 {"k": "BATTLESHIP_MID_M16", "l": "simp_chinese", "t": 1710779683, "v0": "Broadside Core", "v1": "平台核心"}
 {"k": "BATTLESHIP_MID_M5L5", "l": "simp_chinese", "t": 1710779694, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "BATTLESHIP_MID_SF", "l": "simp_chinese", "t": 1710866037, "v0": "Spitfire Core", "v1": "集火核心"}
 {"k": "BATTLESHIP_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710779728, "v0": "Multidimensional Reactor", "v1": "超维度反应堆"}
+{"k": "BATTLESHIP_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710865170, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
 {"k": "BATTLESHIP_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710779796, "v0": "Optimized Dark Matter Reactor", "v1": "改进的暗物质反应堆"}
 {"k": "BATTLESHIP_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710779809, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
 {"k": "BATTLESHIP_SNIPER_GUN_1", "l": "simp_chinese", "t": 1710779830, "v0": "Electro-Magnetic Flux Cannon", "v1": "电磁加农炮"}
+{"k": "BATTLESHIP_SNIPER_GUN_1_DESC", "l": "simp_chinese", "t": 1710865273, "v0": "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships.", "v1": "这些专门的高速炮塔专为与灵活的护卫舰交战而设计。它们在远距离上具有很高的精确度，但对大型舰船较厚的船体伤害较低。"}
+{"k": "BATTLESHIP_SNIPER_GUN_2", "l": "simp_chinese", "t": 1710865288, "v0": "Atomic Photon Flux Cannon", "v1": "原子光子通量炮"}
+{"k": "BATTLESHIP_SNIPER_GUN_2_DESC", "l": "simp_chinese", "t": 1710865305, "v0": "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships.", "v1": "这些专门的高速炮塔专为与灵活的护卫舰交战而设计。它们在远距离上具有很高的精确度，但对大型舰船较厚的船体伤害较低。"}
+{"k": "BATTLESHIP_STERN_L3", "l": "simp_chinese", "t": 1710865352, "v0": "Artillery Stern", "v1": "巨炮舰艉"}
+{"k": "BATTLESHIP_STERN_M8", "l": "simp_chinese", "t": 1710865359, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "BATTLESHIP_STERN_SF", "l": "simp_chinese", "t": 1710866040, "v0": "Spitfire Stern", "v1": "集火舰艉"}
 {"k": "Battlecruiser", "l": "simp_chinese", "t": 1710577675, "v0": "Battlecruiser", "v1": "战列巡洋舰"}
 {"k": "Battlecruiser_plural", "l": "simp_chinese", "t": 1710577689, "v0": "Battlecruisers", "v1": "战列巡洋舰"}
 {"k": "CARRIER", "l": "simp_chinese", "t": 1710575391, "v0": "Carrier", "v1": "母舰"}
 {"k": "CARRIER_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ANTIMATTER_REACTOR$", "v1": ""}
+{"k": "CARRIER_BOW_L1M3P4", "l": "simp_chinese", "t": 1710866092, "v0": "Carronade Bow", "v1": "Carronade舰艏"}
+{"k": "CARRIER_CLOAKING_3", "l": "simp_chinese", "t": 1710911375, "v0": "Carrier Elite Cloak", "v1": "母舰精英隐形装置"}
 {"k": "CARRIER_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_3_DESC$", "v1": ""}
+{"k": "CARRIER_CLOAKING_3_TOOLTIP", "l": "simp_chinese", "t": 1710911498, "v0": "While Cloaked:\n\nShield Hit Points: §R-100%§!\nSublight Speed: §R-50%§!\nStrike Craft Damage: §R-50%§!\nStrike Craft Fire Rate: §R-50%§!\nStrike Craft Speed: §R-50%§!", "v1": "隐形时：\n护盾值: §R-100%§! 亚光速: §R-50%§! 无人机伤害: §R-50%§! 无人机开火速度: §R-50%§! 无人机飞行速度: §R-50%§!\n"}
+{"k": "CARRIER_CLOAKING_DARK_MATTER", "l": "simp_chinese", "t": 1710911509, "v0": "Carrier Dark Matter Cloak", "v1": "母舰暗物质隐形装置"}
 {"k": "CARRIER_CLOAKING_DARK_MATTER_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_DARK_MATTER_DESC$", "v1": ""}
+{"k": "CARRIER_CLOAKING_DARK_MATTER_TOOLTIP", "l": "simp_chinese", "t": 1710911554, "v0": "While Cloaked:\n\nShield Hit Points: §R-80%§!\nSublight Speed: §R-40%§!\nStrike Craft Damage: §R-35%§!\nStrike Craft Fire Rate: §R-35%§!\nStrike Craft Speed: §R-35%§!", "v1": "隐形时：\n护盾值: §R-80%§! 亚光速: §R-40%§! 无人机伤害: §R-35%§! 无人机开火速度: §R-35%§! 无人机飞行速度: §R-35%§!"}
+{"k": "CARRIER_CLOAKING_PSI", "l": "simp_chinese", "s": true, "t": 1710928847, "v0": "Carrier Psi-Phase Cloak", "v1": ""}
 {"k": "CARRIER_CLOAKING_PSI_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_PSI_DESC$", "v1": ""}
+{"k": "CARRIER_CLOAKING_PSI_TOOLTIP", "l": "simp_chinese", "s": true, "t": 1710928850, "v0": "While Cloaked:\n\nShield Hit Points: §R-60%§!\nSublight Speed: §R-30%§!\nStrike Craft Damage: §R-20%§!\nStrike Craft Fire Rate: §R-20%§!\nStrike Craft Speed: §R-20%§!", "v1": ""}
 {"k": "CARRIER_COLD_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$COLD_FUSION_REACTOR$", "v1": ""}
 {"k": "CARRIER_DARK_MATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$DARK_MATTER_REACTOR$", "v1": ""}
 {"k": "CARRIER_FISSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FISSION_REACTOR$", "v1": ""}
 {"k": "CARRIER_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FUSION_REACTOR$", "v1": ""}
+{"k": "CARRIER_MID1_HEAVY", "l": "simp_chinese", "t": 1710866144, "v0": "Heavy Carrier Core", "v1": "重型母舰核心"}
+{"k": "CARRIER_MID1_P4H4", "l": "simp_chinese", "t": 1710866150, "v0": "Carrier Core", "v1": "母舰核心"}
+{"k": "CARRIER_MID1_SUPER", "l": "simp_chinese", "t": 1710866156, "v0": "Supercarrier Core", "v1": "超级母舰核心"}
+{"k": "CARRIER_MID2_HEAVY", "l": "simp_chinese", "t": 1710866163, "v0": "Heavy Carrier Core", "v1": "重型母舰核心"}
+{"k": "CARRIER_MID2_P4H4", "l": "simp_chinese", "t": 1710866170, "v0": "Carrier Core", "v1": "母舰核心"}
+{"k": "CARRIER_MID2_SUPER", "l": "simp_chinese", "t": 1710866176, "v0": "Supercarrier Core", "v1": "超级母舰核心"}
 {"k": "CARRIER_SHIP_THRUSTER_1", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1$", "v1": ""}
 {"k": "CARRIER_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
 {"k": "CARRIER_SHIP_THRUSTER_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2$", "v1": ""}
@@ -80,15 +103,101 @@
 {"k": "CARRIER_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": ""}
 {"k": "CARRIER_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5$", "v1": ""}
 {"k": "CARRIER_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": ""}
+{"k": "CARRIER_STERN_M3", "l": "simp_chinese", "t": 1710866184, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "CARRIER_STERN_P5", "l": "simp_chinese", "t": 1710927731, "v0": "Pinpoint Stern", "v1": "点防舰艉"}
 {"k": "CARRIER_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ZERO_POINT_REACTOR$", "v1": ""}
+{"k": "CITADEL_DARK_MATTER_REACTOR", "l": "simp_chinese", "t": 1710866214, "v0": "Dark Matter Reactor", "v1": "暗物质反应堆"}
+{"k": "CITADEL_DARK_MATTER_REACTOR_DESC", "l": "simp_chinese", "t": 1710866222, "v0": "Dark Matter Reactor", "v1": "暗物质反应堆"}
+{"k": "CLOAKING_BATTLECRUISER_TOOLTIP", "l": "simp_chinese", "t": 1710866307, "v0": "Battlecruiser Shield Reduction: §R80%§!\nBattlecruiser Speed Reduction §R50%§!", "v1": "护盾降低: §R80%§!\n速度降低: §R50%§!"}
+{"k": "CLOAKING_FRIGATE_TOOLTIP", "l": "simp_chinese", "t": 1710866284, "v0": "Ship Speed Bonus: §G25%§!\nFrigate Evasion Bonus: §G15%§!", "v1": "速度提升: §G25%§!\n闪避提升: §G15%§!"}
+{"k": "CORE1_HEADQUARTERS_SECTION", "l": "simp_chinese", "t": 1710866328, "v0": "Headquarters Core", "v1": "指挥核心"}
+{"k": "CORE2_HEADQUARTERS_SECTION", "l": "simp_chinese", "t": 1710866335, "v0": "Headquarters Core", "v1": "指挥核心"}
+{"k": "CORE3_HEADQUARTERS_SECTION", "l": "simp_chinese", "t": 1710866337, "v0": "Headquarters Core", "v1": "指挥核心"}
+{"k": "CORE4_HEADQUARTERS_SECTION", "l": "simp_chinese", "t": 1710866339, "v0": "Headquarters Core", "v1": "指挥核心"}
+{"k": "CORVETTE_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710866362, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "CORVETTE_MID_PD3", "l": "simp_chinese", "t": 1710927735, "v0": "Pinpoint Core", "v1": "点防核心"}
+{"k": "CORVETTE_MID_S2PD1", "l": "simp_chinese", "t": 1710927764, "v0": "Picket Core", "v1": "哨戒核心"}
+{"k": "CORVETTE_MID_S3", "l": "simp_chinese", "t": 1710927769, "v0": "Interceptor Core", "v1": "拦截核心"}
+{"k": "CORVETTE_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710927775, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "CORVETTE_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710927781, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "CORVETTE_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710927789, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
+{"k": "CORVETTE_SENSOR", "l": "simp_chinese", "t": 1710928907, "v0": "Corvette Scouting Sensor", "v1": "护卫舰侦察传感器"}
+{"k": "CORVETTE_SENSOR_DESC", "l": "simp_chinese", "t": 1710929734, "v0": "This special sensor package will allow a Corvette class ship to scout systems for threats before sending in your valuable science teams.", "v1": "这种特殊的传感器将允许护卫舰在派遣有价值的科学团队之前侦察系统是否存在威胁。"}
+{"k": "CORVETTE_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927810, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "CRISIS_CORVETTE_MID_PD3", "l": "simp_chinese", "t": 1710927817, "v0": "Pinpoint", "v1": "点防"}
+{"k": "CRISIS_CORVETTE_MID_S2PD1", "l": "simp_chinese", "t": 1710927824, "v0": "Picket", "v1": "哨戒"}
+{"k": "CRISIS_CORVETTE_MID_S3", "l": "simp_chinese", "t": 1710927830, "v0": "Interceptor Core", "v1": "拦截核心"}
+{"k": "CRISIS_CRUISER_SECTION_B", "l": "simp_chinese", "t": 1710927834, "v0": "Torpedo", "v1": "鱼雷"}
+{"k": "CRISIS_DESTROYER_M2S2", "l": "simp_chinese", "t": 1710927843, "v0": "Volley", "v1": "齐射"}
+{"k": "CRUISER_BOW_L3", "l": "simp_chinese", "t": 1710866406, "v0": "Artillery Bow", "v1": "巨炮舰艏"}
+{"k": "CRUISER_BOW_M2S3P3", "l": "simp_chinese", "t": 1710866414, "v0": "Gunship Bow", "v1": "机枪舰艏"}
+{"k": "CRUISER_BOW_M4S4", "l": "simp_chinese", "t": 1710866420, "v0": "Volley Bow", "v1": "齐射舰艏"}
+{"k": "CRUISER_BOW_M6", "l": "simp_chinese", "t": 1710866433, "v0": "Broadside Bow", "v1": "平台舰艏"}
+{"k": "CRUISER_BOW_STRIKE_A", "l": "simp_chinese", "t": 1710866451, "v0": "Strike Cruiser Bow A", "v1": "攻击巡洋舰舰艏A"}
+{"k": "CRUISER_BOW_STRIKE_B", "l": "simp_chinese", "t": 1710866455, "v0": "Strike Cruiser Bow B", "v1": "攻击巡洋舰舰艏B"}
+{"k": "CRUISER_BOW_STRIKE_C", "l": "simp_chinese", "t": 1710866458, "v0": "Strike Cruiser Bow C", "v1": "攻击巡洋舰舰艏C"}
+{"k": "CRUISER_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710866469, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "CRUISER_MID_G4P3", "l": "simp_chinese", "t": 1710866476, "v0": "Torpedo Core", "v1": "鱼雷核心"}
+{"k": "CRUISER_MID_M2L2", "l": "simp_chinese", "t": 1710866482, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "CRUISER_MID_M5P2", "l": "simp_chinese", "t": 1710866487, "v0": "Gunship Core", "v1": "机枪核心"}
+{"k": "CRUISER_MID_M5S3", "l": "simp_chinese", "t": 1710866492, "v0": "Volley Core", "v1": "机枪核心"}
+{"k": "CRUISER_MID_STRIKE_A", "l": "simp_chinese", "t": 1710866508, "v0": "Strike Cruiser Core A", "v1": "攻击巡洋舰核心A"}
+{"k": "CRUISER_MID_STRIKE_B", "l": "simp_chinese", "t": 1710866512, "v0": "Strike Cruiser Core B", "v1": "攻击巡洋舰核心B"}
+{"k": "CRUISER_MID_STRIKE_C", "l": "simp_chinese", "t": 1710866515, "v0": "Strike Cruiser Core C", "v1": "攻击巡洋舰核心C"}
+{"k": "CRUISER_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710866524, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "CRUISER_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710866533, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "CRUISER_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710866542, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
+{"k": "CRUISER_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710866550, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "CRUISER_STERN_G2", "l": "simp_chinese", "t": 1710866557, "v0": "Missile Stern", "v1": "导弹舰艉"}
+{"k": "CRUISER_STERN_M2", "l": "simp_chinese", "t": 1710866562, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "CRUISER_STERN_P4", "l": "simp_chinese", "t": 1710927851, "v0": "Pinpoint Stern", "v1": "点防舰艉"}
+{"k": "CRUISER_STERN_S4", "l": "simp_chinese", "t": 1710866577, "v0": "Interceptor Stern", "v1": "拦截舰艉"}
+{"k": "CRUISER_STERN_STRIKE_A", "l": "simp_chinese", "t": 1710866593, "v0": "Strike Cruiser Stern A", "v1": "攻击巡洋舰舰艉A"}
+{"k": "CRUISER_STERN_STRIKE_B", "l": "simp_chinese", "t": 1710866596, "v0": "Strike Cruiser Stern B", "v1": "攻击巡洋舰舰艉B"}
+{"k": "CRUISER_STERN_STRIKE_C", "l": "simp_chinese", "t": 1710866599, "v0": "Strike Cruiser Stern C", "v1": "攻击巡洋舰舰艉C"}
 {"k": "Carrier", "l": "simp_chinese", "t": 1710575409, "v0": "Carrier", "v1": "母舰"}
 {"k": "Carrier_plural", "l": "simp_chinese", "t": 1710577701, "v0": "Carriers", "v1": "母舰"}
+{"k": "DESTROYER_BOW_G1S3", "l": "simp_chinese", "t": 1710866608, "v0": "Torpedo Bow", "v1": "鱼雷舰艏"}
+{"k": "DESTROYER_BOW_L1", "l": "simp_chinese", "t": 1710927866, "v0": "Artillery Bow", "v1": "火炮舰艏"}
+{"k": "DESTROYER_BOW_LC", "l": "simp_chinese", "t": 1710927882, "v0": "Light Carrier Bow", "v1": "轻型母舰舰艏"}
+{"k": "DESTROYER_BOW_M2S2", "l": "simp_chinese", "t": 1710927886, "v0": "Volley Bow", "v1": "齐射舰艏"}
+{"k": "DESTROYER_BOW_S3P2", "l": "simp_chinese", "t": 1710927893, "v0": "Picket Bow", "v1": "哨戒舰艏"}
+{"k": "DESTROYER_BOW_S5", "l": "simp_chinese", "t": 1710927899, "v0": "Interceptor Bow", "v1": "拦截舰艏"}
+{"k": "DESTROYER_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710927905, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "DESTROYER_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710927909, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "DESTROYER_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710927915, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "DESTROYER_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710927921, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
+{"k": "DESTROYER_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927930, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "DESTROYER_STERN_LC", "l": "simp_chinese", "t": 1710929741, "v0": "Light Carrier Stern", "v1": "轻型母舰舰艉"}
+{"k": "DESTROYER_STERN_M2", "l": "simp_chinese", "t": 1710929745, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "DESTROYER_STERN_S3P2", "l": "simp_chinese", "t": 1710929750, "v0": "Picket Stern", "v1": "哨戒舰艉"}
+{"k": "DESTROYER_STERN_S5", "l": "simp_chinese", "t": 1710929755, "v0": "Interceptor Stern", "v1": "拦截舰艉"}
 {"k": "DREADNOUGHT", "l": "simp_chinese", "t": 1710575427, "v0": "Dreadnought", "v1": "无畏舰"}
 {"k": "DREADNOUGHT_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ANTIMATTER_REACTOR$", "v1": ""}
+{"k": "DREADNOUGHT_BOW_L10", "l": "simp_chinese", "t": 1710929760, "v0": "Artillery Bow", "v1": "巨炮舰艏"}
+{"k": "DREADNOUGHT_BOW_S2P2G13", "l": "simp_chinese", "t": 1710929765, "v0": "Missile Bow", "v1": "导弹舰艏"}
+{"k": "DREADNOUGHT_BOW_S4P4M4L4", "l": "simp_chinese", "t": 1710929795, "v0": "Coverage Bow", "v1": "多功能舰艏"}
+{"k": "DREADNOUGHT_BOW_XL4", "l": "simp_chinese", "t": 1710929805, "v0": "Devastator Bow", "v1": "毁灭者"}
 {"k": "DREADNOUGHT_COLD_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$COLD_FUSION_REACTOR$", "v1": ""}
 {"k": "DREADNOUGHT_DARK_MATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$DARK_MATTER_REACTOR$", "v1": ""}
 {"k": "DREADNOUGHT_FISSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FISSION_REACTOR$", "v1": ""}
 {"k": "DREADNOUGHT_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FUSION_REACTOR$", "v1": ""}
+{"k": "DREADNOUGHT_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928008, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "DREADNOUGHT_MID1_P3G5L6", "l": "simp_chinese", "t": 1710929811, "v0": "Bombardment Core", "v1": "轰炸核心"}
+{"k": "DREADNOUGHT_MID1_P3L9", "l": "simp_chinese", "t": 1710929816, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "DREADNOUGHT_MID1_P3M7L6", "l": "simp_chinese", "t": 1710929827, "v0": "Carronade Core", "v1": "近防核心"}
+{"k": "DREADNOUGHT_MID1_P3M9G9", "l": "simp_chinese", "t": 1710929831, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "DREADNOUGHT_MID2_P3G5L6", "l": "simp_chinese", "t": 1710929836, "v0": "Bombardment Core", "v1": "轰炸核心"}
+{"k": "DREADNOUGHT_MID2_P3L9", "l": "simp_chinese", "t": 1710929840, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "DREADNOUGHT_MID2_P3M7L6", "l": "simp_chinese", "t": 1710929849, "v0": "Carronade Core", "v1": "近防核心"}
+{"k": "DREADNOUGHT_MID2_P3M9G9", "l": "simp_chinese", "t": 1710929853, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "DREADNOUGHT_MID3_P3G5L6", "l": "simp_chinese", "t": 1710929857, "v0": "Bombardment Core", "v1": "轰炸核心"}
+{"k": "DREADNOUGHT_MID3_P3L9", "l": "simp_chinese", "t": 1710929862, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "DREADNOUGHT_MID3_P3M7L6", "l": "simp_chinese", "t": 1710929866, "v0": "Carronade Core", "v1": "近防核心"}
+{"k": "DREADNOUGHT_MID3_P3M9G9", "l": "simp_chinese", "t": 1710929870, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "DREADNOUGHT_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928138, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "DREADNOUGHT_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928258, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "DREADNOUGHT_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928309, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
 {"k": "DREADNOUGHT_SHIP_THRUSTER_1", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1$", "v1": ""}
 {"k": "DREADNOUGHT_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
 {"k": "DREADNOUGHT_SHIP_THRUSTER_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2$", "v1": ""}
@@ -99,13 +208,108 @@
 {"k": "DREADNOUGHT_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": ""}
 {"k": "DREADNOUGHT_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5$", "v1": ""}
 {"k": "DREADNOUGHT_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": ""}
+{"k": "DREADNOUGHT_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927948, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "DREADNOUGHT_STERN_G9", "l": "simp_chinese", "t": 1710929874, "v0": "Missile Stern", "v1": "导弹舰艉"}
+{"k": "DREADNOUGHT_STERN_L5", "l": "simp_chinese", "t": 1710929878, "v0": "Artillery Stern", "v1": "巨炮舰艉"}
+{"k": "DREADNOUGHT_STERN_M14", "l": "simp_chinese", "t": 1710929883, "v0": "Broadside Stern", "v1": "平台舰艉"}
 {"k": "DREADNOUGHT_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ZERO_POINT_REACTOR$", "v1": ""}
 {"k": "Dreadnought", "l": "simp_chinese", "t": 1710577725, "v0": "Dreadnought", "v1": "无畏舰"}
 {"k": "Dreadnought_plural", "l": "simp_chinese", "t": 1710577727, "v0": "Dreadnoughts", "v1": "无畏舰"}
 {"k": "EXPLORATIONSHIP", "l": "simp_chinese", "t": 1710575463, "v0": "Explorer", "v1": "侦察舰"}
+{"k": "EXPLORATIONSHIP_1_BOW_L1", "l": "simp_chinese", "t": 1710929892, "v0": "Artillery Bow (Level 1)", "v1": "巨炮舰艏 I"}
+{"k": "EXPLORATIONSHIP_1_BOW_M1S2", "l": "simp_chinese", "t": 1710929900, "v0": "Volley Bow (Level 1)", "v1": "机枪舰艏 I"}
+{"k": "EXPLORATIONSHIP_1_BOW_M2", "l": "simp_chinese", "t": 1710929905, "v0": "Broadside Bow (Level 1)", "v1": "平台舰艏 I"}
+{"k": "EXPLORATIONSHIP_1_MID1_M3", "l": "simp_chinese", "t": 1710929910, "v0": "Volley Core (Level 1)", "v1": "机枪核心 I"}
+{"k": "EXPLORATIONSHIP_1_MID1_PD2", "l": "simp_chinese", "t": 1710929916, "v0": "Pinpoint Core (Level 1)", "v1": "点防核心 I"}
+{"k": "EXPLORATIONSHIP_1_MID1_S2", "l": "simp_chinese", "t": 1710929922, "v0": "Interceptor Core (Level 1)", "v1": "拦截核心 I"}
+{"k": "EXPLORATIONSHIP_1_MID2_M3", "l": "simp_chinese", "t": 1710929928, "v0": "Volley Core (Level 1)", "v1": "机枪核心 I"}
+{"k": "EXPLORATIONSHIP_1_MID2_PD2", "l": "simp_chinese", "t": 1710929932, "v0": "Pinpoint Core (Level 1)", "v1": "点防核心 I"}
+{"k": "EXPLORATIONSHIP_1_MID2_S2", "l": "simp_chinese", "t": 1710929938, "v0": "Interceptor Core (Level 1)", "v1": "拦截核心 I"}
+{"k": "EXPLORATIONSHIP_1_STERN_M1", "l": "simp_chinese", "t": 1710929951, "v0": "Broadside Stern (Level 1)", "v1": "平台舰艉 I"}
+{"k": "EXPLORATIONSHIP_1_STERN_PD2", "l": "simp_chinese", "t": 1710929956, "v0": "Pinpoint Stern (Level 1)", "v1": "点防舰艉 I"}
+{"k": "EXPLORATIONSHIP_1_STERN_S2", "l": "simp_chinese", "t": 1710929963, "v0": "Spitfire Stern (Level 1)", "v1": "集火舰艉 I"}
+{"k": "EXPLORATIONSHIP_2_BOW_G1S2", "l": "simp_chinese", "t": 1710929977, "v0": "Fusillade Bow (Level 2)", "v1": "射击舰艏 II"}
+{"k": "EXPLORATIONSHIP_2_BOW_L1", "l": "simp_chinese", "t": 1710929984, "v0": "Artillery Bow (Level 2)", "v1": "巨炮舰艏 II"}
+{"k": "EXPLORATIONSHIP_2_BOW_M5", "l": "simp_chinese", "t": 1710929990, "v0": "Broadside Bow (Level 2)", "v1": "平台舰艏 II"}
+{"k": "EXPLORATIONSHIP_2_MID1_G3", "l": "simp_chinese", "t": 1710929995, "v0": "Missile Core (Level 2)", "v1": "导弹核心 II"}
+{"k": "EXPLORATIONSHIP_2_MID1_L1G1", "l": "simp_chinese", "t": 1710930005, "v0": "Barrage Core (Level 2)", "v1": "弹幕核心 II"}
+{"k": "EXPLORATIONSHIP_2_MID1_L1M1", "l": "simp_chinese", "t": 1710930024, "v0": "Artillery Core (Level 2)", "v1": "巨炮核心 II"}
+{"k": "EXPLORATIONSHIP_2_MID1_M2S2", "l": "simp_chinese", "t": 1710930029, "v0": "Volley Core (Level 2)", "v1": "机枪核心 II"}
+{"k": "EXPLORATIONSHIP_2_MID1_M3", "l": "simp_chinese", "t": 1710930034, "v0": "Broadside Core (Level 2)", "v1": "平台核心 II"}
+{"k": "EXPLORATIONSHIP_2_MID2_G3", "l": "simp_chinese", "t": 1710930038, "v0": "Missile Core (Level 2)", "v1": "导弹核心 II"}
+{"k": "EXPLORATIONSHIP_2_MID2_L1G1", "l": "simp_chinese", "t": 1710930050, "v0": "Barrage Core (Level 2)", "v1": "弹幕核心 II"}
+{"k": "EXPLORATIONSHIP_2_MID2_L1M1", "l": "simp_chinese", "t": 1710930056, "v0": "Artillery Core (Level 2)", "v1": "巨炮核心 II"}
+{"k": "EXPLORATIONSHIP_2_MID2_M2S2", "l": "simp_chinese", "t": 1710930061, "v0": "Volley Core (Level 2)", "v1": "机枪核心 II"}
+{"k": "EXPLORATIONSHIP_2_MID2_M3", "l": "simp_chinese", "t": 1710930069, "v0": "Broadside Core (Level 2)", "v1": "平台核心 II"}
+{"k": "EXPLORATIONSHIP_2_STERN_M2", "l": "simp_chinese", "t": 1710930074, "v0": "Broadside Stern (Level 2)", "v1": "平台舰艉 II"}
+{"k": "EXPLORATIONSHIP_2_STERN_PD4", "l": "simp_chinese", "t": 1710930091, "v0": "PD Stern (Level 2)", "v1": "点防舰艉 II"}
+{"k": "EXPLORATIONSHIP_2_STERN_S4", "l": "simp_chinese", "t": 1710930099, "v0": "Spitfire Stern (Level 2)", "v1": "集火舰艉 II"}
+{"k": "EXPLORATIONSHIP_3_BOW_G3S3", "l": "simp_chinese", "t": 1710930110, "v0": "Fusillade Bow (Level 3)", "v1": "射击舰艏 III"}
+{"k": "EXPLORATIONSHIP_3_BOW_L3", "l": "simp_chinese", "t": 1710930118, "v0": "Artillery Bow (Level 3)", "v1": "巨炮舰艏 III"}
+{"k": "EXPLORATIONSHIP_3_BOW_M7", "l": "simp_chinese", "t": 1710930123, "v0": "Broadside Bow (Level 3)", "v1": "平台舰艏 III"}
+{"k": "EXPLORATIONSHIP_3_MID1_G5H1", "l": "simp_chinese", "t": 1710930130, "v0": "Missile Core (Level 3)", "v1": "导弹舰艏 III"}
+{"k": "EXPLORATIONSHIP_3_MID1_L1G3", "l": "simp_chinese", "t": 1710930137, "v0": "Barrage Core (Level 3)", "v1": "弹幕核心 III"}
+{"k": "EXPLORATIONSHIP_3_MID1_L3M1", "l": "simp_chinese", "t": 1710930142, "v0": "Artillery Core (Level 3)", "v1": "巨炮核心 III"}
+{"k": "EXPLORATIONSHIP_3_MID1_M5S5", "l": "simp_chinese", "t": 1710930153, "v0": "Volley Core (Level 3)", "v1": "机枪核心 III"}
+{"k": "EXPLORATIONSHIP_3_MID1_M7", "l": "simp_chinese", "t": 1710930170, "v0": "Broadside Core (Level 3)", "v1": "平台核心 III"}
+{"k": "EXPLORATIONSHIP_3_MID2_G7H2", "l": "simp_chinese", "t": 1710930175, "v0": "Missile Core (Level 3)", "v1": "导弹核心 III"}
+{"k": "EXPLORATIONSHIP_3_MID2_L1G3", "l": "simp_chinese", "t": 1710931967, "v0": "Barrage Core (Level 3)", "v1": "弹幕核心 III"}
+{"k": "EXPLORATIONSHIP_3_MID2_L3M1", "l": "simp_chinese", "t": 1710931972, "v0": "Artillery Core (Level 3)", "v1": "巨炮核心 III"}
+{"k": "EXPLORATIONSHIP_3_MID2_M5S5", "l": "simp_chinese", "t": 1710931976, "v0": "Volley Core (Level 3)", "v1": "机枪核心 III"}
+{"k": "EXPLORATIONSHIP_3_MID2_M7", "l": "simp_chinese", "t": 1710931985, "v0": "Broadside Core (Level 3)", "v1": "平台核心 III"}
+{"k": "EXPLORATIONSHIP_3_STERN_M4", "l": "simp_chinese", "t": 1710931992, "v0": "Broadside Stern (Level 3)", "v1": "平台舰艉 III"}
+{"k": "EXPLORATIONSHIP_3_STERN_PD8", "l": "simp_chinese", "t": 1710931998, "v0": "PD Stern (Level 3)", "v1": "点防舰艉 III"}
+{"k": "EXPLORATIONSHIP_3_STERN_S8", "l": "simp_chinese", "t": 1710932004, "v0": "Spitfire Stern (Level 3)", "v1": "集火舰艉 III"}
+{"k": "EXPLORATIONSHIP_4_BOW_G7S7", "l": "simp_chinese", "t": 1710932016, "v0": "Fusillade Bow (Level 4)", "v1": "射击舰艏 IV"}
+{"k": "EXPLORATIONSHIP_4_BOW_L6", "l": "simp_chinese", "t": 1710932021, "v0": "Artillery Bow (Level 4)", "v1": "巨炮舰艏 IV"}
+{"k": "EXPLORATIONSHIP_4_BOW_M14", "l": "simp_chinese", "t": 1710932028, "v0": "Broadside Bow (Level 4)", "v1": "平台舰艏 IV"}
+{"k": "EXPLORATIONSHIP_4_MID1_G7H2", "l": "simp_chinese", "t": 1710932036, "v0": "Missile Core (Level 4)", "v1": "导弹核心 IV"}
+{"k": "EXPLORATIONSHIP_4_MID1_L3G6", "l": "simp_chinese", "t": 1710932044, "v0": "Barrage Core (Level 4)", "v1": "弹幕核心 IV"}
+{"k": "EXPLORATIONSHIP_4_MID1_L5M3", "l": "simp_chinese", "t": 1710932049, "v0": "Artillery Core (Level 4)", "v1": "巨炮核心 IV"}
+{"k": "EXPLORATIONSHIP_4_MID1_M10S10", "l": "simp_chinese", "t": 1710932057, "v0": "Volley Core (Level 4)", "v1": "机枪核心 IV"}
+{"k": "EXPLORATIONSHIP_4_MID1_M15", "l": "simp_chinese", "t": 1710932061, "v0": "Broadside Core (Level 4)", "v1": "平台核心 IV"}
+{"k": "EXPLORATIONSHIP_4_MID2_G7H2", "l": "simp_chinese", "t": 1710932066, "v0": "Missile Core (Level 4)", "v1": "导弹核心 IV"}
+{"k": "EXPLORATIONSHIP_4_MID2_L3G6", "l": "simp_chinese", "t": 1710932070, "v0": "Barrage Core (Level 4)", "v1": "弹幕核心 IV"}
+{"k": "EXPLORATIONSHIP_4_MID2_L5M3", "l": "simp_chinese", "t": 1710932074, "v0": "Artillery Core (Level 4)", "v1": "巨炮核心 IV"}
+{"k": "EXPLORATIONSHIP_4_MID2_M10S10", "l": "simp_chinese", "t": 1710932080, "v0": "Volley Core (Level 4)", "v1": "机枪核心 IV"}
+{"k": "EXPLORATIONSHIP_4_MID2_M15", "l": "simp_chinese", "t": 1710932085, "v0": "Broadside Core (Level 4)", "v1": "平台核心 IV"}
+{"k": "EXPLORATIONSHIP_4_STERN_M6", "l": "simp_chinese", "t": 1710932090, "v0": "Broadside Stern (Level 4)", "v1": "平台舰艉 IV"}
+{"k": "EXPLORATIONSHIP_4_STERN_PD12", "l": "simp_chinese", "t": 1710932097, "v0": "PD Stern (Level 4)", "v1": "点防舰艉 IV"}
+{"k": "EXPLORATIONSHIP_4_STERN_S12", "l": "simp_chinese", "t": 1710932102, "v0": "Spitfire Stern (Level 4)", "v1": "集火舰艉 IV"}
+{"k": "EXPLORATION_CLOAKING_3", "l": "simp_chinese", "t": 1710932380, "v0": "Explorer Elite Cloak", "v1": "精英探索级隐形装置"}
 {"k": "EXPLORATION_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_3_DESC$", "v1": ""}
+{"k": "EXPLORATION_CLOAKING_DARK_MATTER", "l": "simp_chinese", "t": 1710932185, "v0": "Explorer Dark Matter Cloak", "v1": "暗物质侦察舰隐形装置"}
 {"k": "EXPLORATION_CLOAKING_DARK_MATTER_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_DARK_MATTER_DESC$", "v1": ""}
 {"k": "EXPLORATION_CLOAKING_PSI_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_PSI_DESC$", "v1": ""}
+{"k": "EXPLORATION_CRUISER_UPGRADE_PROJECT", "l": "simp_chinese", "t": 1710932219, "v0": "Science Ship Upgade Project", "v1": "科学船升级工程"}
+{"k": "EXPLORATION_CRUISER_UPGRADE_PROJECT_DESC", "l": "simp_chinese", "t": 1710932372, "v0": "Our fleet engineers stand ready to begin the monumental task of retrofitting one of our existing Science ships into the new Explorer class. It is expected that this project will take approximately 250 days to complete. When finished, the Scientist Leader of the ship will transfer to their new ship automatically.", "v1": "我们的舰队工程师已准备好开始一项艰巨的任务，将我们现有的科学船改装成新的探索者级科研船。预计该项目将需要大约250天完成。完成后，该船的科学家领袖将自动转移到他们的新船。"}
+{"k": "EXPLORATION_HYPER_DRIVE", "l": "simp_chinese", "t": 1710932399, "v0": "Explorer Hyper Drive", "v1": "探索者级超空间驱动装置"}
+{"k": "EXPLORATION_HYPER_DRIVE_DESC", "l": "simp_chinese", "t": 1710932417, "v0": "Ships equipped with Hyper Drives travel swiftly between the edges of star systems along interstellar hyperlanes.", "v1": "配备超空间驱动器的飞船沿着星际超航道在恒星系统的边缘之间快速行驶。"}
+{"k": "EXPLORATION_SLOT_ANALYSIS_LAB", "l": "simp_chinese", "t": 1710932440, "v0": "Advanced Analysis Laboratory", "v1": "高级分析实验室"}
+{"k": "EXPLORATION_SLOT_ANALYSIS_LAB_DESC", "l": "simp_chinese", "t": 1710932562, "v0": "Every anomaly, by its very nature, forces us to ask questions, to challenge previously-held assumptions. There is nothing more valuable than this, when it comes to the advancement of science. We cannot risk missing any potential anomalies, and the secrets they hold. This specialized laboratory will ensure that we find every last anomaly the galaxy has to offer.", "v1": "每一个异常现象都让我们提出新的问题，挑战之前的假设。对于科学的进步来说，没有什么比这更有价值的了。我们不能冒险错过任何潜在的异常现象及其所隐藏的秘密。这个专门的实验室将确保我们找到银河系所提供的每一个异常现象。"}
+{"k": "EXPLORATION_SLOT_ANOMALY_LAB", "l": "simp_chinese", "t": 1710932573, "v0": "Anomaly Research Laboratory", "v1": "异常研究实验室"}
+{"k": "EXPLORATION_SLOT_ANOMALY_LAB_DESC", "l": "simp_chinese", "t": 1710933812, "v0": "This laboratory is dedicated to the study of anomalies, those strange and wonderful things in the galaxy that don't seem to follow the same rules as everything else. Each one deserves a full, comprehensive analysis, but there is so much to discover, and so little time. By optimizing the laboratory for the study of these delightful oddities, we can insure that every anomaly gets the attention it deserves, while also dramatically speeding up research time.", "v1": "这个实验室致力于研究异常现象，即银河系中那些奇怪而奇妙的事物，它们似乎并不遵循与其他事物相同的规则。虽然每一项异常都值得进行全面的分析，但需要计算的数据太多而时间却太少，所以通过优化实验室来研究这些奇怪的现象，我们可以确保每个异常现象都得到应有的关注，同时也大大缩短了研究所需的时间。"}
+{"k": "EXPLORATION_SLOT_ARCH_LAB", "l": "simp_chinese", "t": 1710933820, "v0": "Advanced Archaeology Laboratory", "v1": "高级考古实验室"}
+{"k": "EXPLORATION_SLOT_ARCH_LAB_DESC", "l": "simp_chinese", "t": 1710933883, "v0": "This laboratory is dedicated to the study of archaeological research sites. These sites hold untold mysteries which fire the imagination, and they deserve a dedicated lab where everything about them can be analyzed in full.", "v1": "该实验室致力于优化对遗址的考古研究。这些遗址蕴藏着不为人知的秘密，激发了人们的想象力，它们值得拥有一个专门的实验室，在那里我们可以对遗址的一切进行全面分析。"}
+{"k": "EXPLORATION_SLOT_DEBRIS_LAB", "l": "simp_chinese", "t": 1710933891, "v0": "Debris Analysis Laboratory", "v1": "碎片分析实验室"}
+{"k": "EXPLORATION_SLOT_DEBRIS_LAB_DESC", "l": "simp_chinese", "t": 1710933959, "v0": "This laboratory is dedicated to the research and analysis of spacecraft debris left behind from space battles. Space debris, both modern and ancient, can be the key to unlocking untold mysteries of the universe.", "v1": "该实验室致力于研究和分析太空战斗中留下的航天器碎片，无论是来自古代还是现代飞行器的碎片都可以成为解开宇宙不为人知的奥秘的钥匙。"}
+{"k": "EXPLORATION_SLOT_EMPTY", "l": "simp_chinese", "t": 1710933964, "v0": "Empty Slot", "v1": "空槽位"}
+{"k": "EXPLORATION_SLOT_ENGINEERING_LAB", "l": "simp_chinese", "t": 1710933971, "v0": "Advanced Engineering Laboratory", "v1": "先进工程实验室"}
+{"k": "EXPLORATION_SLOT_ENGINEERING_LAB_DESC", "l": "simp_chinese", "t": 1710934020, "v0": "§HProduces:§! 10 Engineering Research\nThis advanced laboratory is dedicated to producing ground-breaking Engineering research--exploration into the secrets of materials, industry, spacecraft, propulsion, and robotics.", "v1": "§HProduces:§! 10工程学研究\n这个先进的实验室致力于开展突破性的工程研究——探索材料、工业、航天器、推进和机器人技术的秘密。"}
+{"k": "EXPLORATION_SLOT_MINING_FACILITY", "l": "simp_chinese", "t": 1710934028, "v0": "Asteroid Mining Facility", "v1": "小行星采矿设施"}
+{"k": "EXPLORATION_SLOT_PHYSICS_LAB", "l": "simp_chinese", "t": 1710934367, "v0": "Advanced Physics Laboratory", "v1": "高级物理学实验室"}
+{"k": "EXPLORATION_SLOT_PHYSICS_LAB_DESC", "l": "simp_chinese", "t": 1710934083, "v0": "§HProduces:§! 10 Physics Research\nThis advanced laboratory is dedicated to producing ground-breaking Physics research--exploration into the secrets of matter and energy, computers and field manipulation.", "v1": "§HProduces:§! 10 物理学研究\n这个先进的实验室致力于进行突破性的物理研究——探索物质和能量、计算机和场操纵的秘密。"}
+{"k": "EXPLORATION_SLOT_QUANTUM_THRUSTERS", "l": "simp_chinese", "t": 1710934090, "v0": "Quantum Thrusters", "v1": "量子推进器"}
+{"k": "EXPLORATION_SLOT_QUANTUM_THRUSTERS_DESC", "l": "simp_chinese", "t": 1710934331, "v0": "With so much to explore, every moment spent traveling between survey sites is a moment wasted. These Quantum Thrusters are designed to push our ship through space at blistering speeds, always rushing towards the next planet, the next star, the next great mystery waiting to be solved.", "v1": "广阔的星系里包含如此之多值得探索的事物，花费在旅途上的每一秒都是无法接受的浪费。这些量子推进器的设计目的就是推动我们的飞船以极快的速度穿梭于星际之间，一直冲向下一颗行星、下一颗恒星、下一个等待解开的伟大谜团。"}
+{"k": "EXPLORATION_SLOT_SOCIETY_LAB", "l": "simp_chinese", "t": 1710934364, "v0": "Advanced Society Laboratory", "v1": "高级社会学实验室"}
+{"k": "EXPLORATION_SLOT_SOCIETY_LAB_DESC", "l": "simp_chinese", "t": 1710934401, "v0": "§HProduces:§! 10 Society Research\nThis advanced laboratory is dedicated to producing ground-breaking Society research--exploration into the secrets of sociology, biology, philosophy, and military theory, the sciences of life and culture.", "v1": "§HProduces:§! 10 社会学研究\n这个高级的实验室致力于开展开创性的社会学研究——探索社会学、生物学、哲学、军事理论、生命和文化科学的秘密。"}
+{"k": "EXPLORATION_SLOT_SOLAR_ARRAY", "l": "simp_chinese", "t": 1710934411, "v0": "Solar Panel Array", "v1": "太阳能电池板阵列"}
+{"k": "EXPLORATION_SLOT_SOLAR_ARRAY_DESC", "l": "simp_chinese", "t": 1710934488, "v0": "§HProduces:§! 7 Energy\n§HUpkeep:§! 5 Minerals\nThis facility allows an empire to convert an old Explorer into a large solar panel array and battery system, able to produce a small amount of energy each month.", "v1": "§HProduces:§! 7 能量币\n§HUpkeep:§! 5 矿物\n该设施允许帝国将旧的探索者级改装成大型太阳能电池板阵列和电池系统，每月能够产生少量的能源。"}
+{"k": "EXPLORATION_SLOT_STELLAR_CARTOGRAPHY", "l": "simp_chinese", "t": 1710934599, "v0": "Stellar Cartography", "v1": "绘制星图"}
+{"k": "EXPLORATION_SLOT_STELLAR_CARTOGRAPHY_DESC", "l": "simp_chinese", "t": 1710934575, "v0": "This large system is used for mapping the surrounding space, allowing the ship's computers to calculate and recover from FTL jumps with greatly increased speed. Far more effective than the model used on regular warships, these Stellar Cartography modules are also far more finicky, and require the steady hand of a highly-trained Science Officer to maintain.", "v1": "这个大型系统用于绘制周围空间的地图，使飞船的计算机能够以极高的速度完成超光速跳跃所需要的计算。这些恒星制图模块比常规军舰上使用的模型有效得多，但也更加挑剔，需要训练有素的科学官员的稳定双手来维护。"}
+{"k": "EXPLORATION_SLOT_SURVEY_LAB", "l": "simp_chinese", "t": 1710934606, "v0": "Survey Laboratory", "v1": "调查实验室"}
+{"k": "EXPLORATION_SLOT_SURVEY_LAB_DESC", "l": "simp_chinese", "t": 1710934678, "v0": "There are so many planets and systems out there, waiting, begging to be discovered, and each one might hold the key to new discoveries. There's no time to waste, and this specialized laboratory will allow us to conduct our surveys much, much faster - which means we'll be able to survey more and more space in the same amount of time. More surveys means more discovery, more adventure, and more knowledge about the galaxy.", "v1": "广阔的星系包含如此多的等待被发现的行星和恒星系，每一颗都可能掌握着新发现的钥匙。没有时间可以浪费了，这个专业实验室将使我们能够更快地进行调查——这意味着我们将能够在相同的时间内调查越来越多的空间。更多的调查意味着更多的发现、更多的冒险以及更多关于银河系的知识。"}
+{"k": "EXTRA_LARGE_STARBASE_SECTION", "l": "simp_chinese", "t": 1710934732, "v0": "XL Section", "v1": "超大号（待校准翻译）"}
 {"k": "FLAGSHIP", "l": "simp_chinese", "t": 1710575489, "v0": "Flagship", "v1": "旗舰"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_1", "l": "simp_chinese", "t": 1710577803, "v0": "Black Hole Reactor", "v1": "黑洞反应堆"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC", "l": "simp_chinese", "t": 1710577811, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
@@ -113,7 +317,48 @@
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_2_DESC", "l": "simp_chinese", "t": 1710577824, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_3", "l": "simp_chinese", "t": 1710577830, "v0": "Black Hole Reactor III", "v1": "黑洞反应堆 III"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_3_DESC", "l": "simp_chinese", "t": 1710577834, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
+{"k": "FLAGSHIP_BOW_H6T6", "l": "simp_chinese", "t": 1710939097, "v0": "Siegebreaker Bow", "v1": "攻城舰艏"}
+{"k": "FLAGSHIP_BOW_H6X12", "l": "simp_chinese", "t": 1710944041, "v0": "Stormbringer Bow", "v1": "暴风舰艏"}
+{"k": "FLAGSHIP_BOW_P4G4L6H6", "l": "simp_chinese", "t": 1710944068, "v0": "Hailfire Bow", "v1": "冰霜舰艏"}
+{"k": "FLAGSHIP_BOW_P4L10H6", "l": "simp_chinese", "t": 1710944075, "v0": "Artillery Bow", "v1": "巨炮舰艏"}
+{"k": "FLAGSHIP_BOW_P4M12H6", "l": "simp_chinese", "t": 1710944081, "v0": "Broadside Bow", "v1": "平台舰艏"}
+{"k": "FLAGSHIP_CLOAKING_3", "l": "simp_chinese", "t": 1710944096, "v0": "Flagship Special Cloak", "v1": "旗舰专用隐身装置"}
 {"k": "FLAGSHIP_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_3_DESC$", "v1": ""}
+{"k": "FLAGSHIP_CLOAKING_3_TOOLTIP", "l": "simp_chinese", "t": 1710944150, "v0": "While Cloaked:\n\nShield Hit Points: §R-75%§!\nJump Drive Cooldown: §G-50%§!\nSublight Speed: §G+50%§!\nSensor Range: §G+3§!\nCloak Detection Strength: §G5§!", "v1": "隐形时：\n护盾值: §R-75%§! 超空间引擎冷却时间: §G-50%§! 速度: §G+50%§! 传感器范围: §G+3§! 隐形强度: §G5§!"}
+{"k": "FLAGSHIP_JUMP_DRIVE", "l": "simp_chinese", "t": 1710944180, "v0": "Flagship Jump Drive", "v1": "旗舰跃迁驱动器"}
+{"k": "FLAGSHIP_JUMP_DRIVE_DESC", "l": "simp_chinese", "t": 1710944291, "v0": "The Flagship Jump Drive tears ship-sized holes in the very fabric of reality, allowing for near-instantaneous movement between systems. The nature of the space the ship passes through on this journey is still poorly understood.", "v1": "旗舰跃迁驱动器可以在宇宙空间中撕开一个旗舰同等规模大小的洞，允许在星系之间近乎瞬时的移动。"}
+{"k": "FLAGSHIP_MID1_G10L10", "l": "simp_chinese", "t": 1710944299, "v0": "Barrage Core", "v1": "弹幕核心"}
+{"k": "FLAGSHIP_MID1_G20", "l": "simp_chinese", "t": 1710944303, "v0": "Missile Core", "v1": "导弹核心"}
+{"k": "FLAGSHIP_MID1_L20", "l": "simp_chinese", "t": 1710944308, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "FLAGSHIP_MID1_M10G10", "l": "simp_chinese", "t": 1710944311, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "FLAGSHIP_MID1_M10L10", "l": "simp_chinese", "t": 1710944316, "v0": "Bombardment Core", "v1": "轰炸核心"}
+{"k": "FLAGSHIP_MID1_M20", "l": "simp_chinese", "t": 1710944321, "v0": "Broadside Core", "v1": "平台核心"}
+{"k": "FLAGSHIP_MID1_P4H16", "l": "simp_chinese", "t": 1710944325, "v0": "Carrier Core", "v1": "母舰核心"}
+{"k": "FLAGSHIP_MID1_S8P4L8", "l": "simp_chinese", "t": 1710944335, "v0": "Carronade Core", "v1": "近防核心"}
+{"k": "FLAGSHIP_MID2_G10L10", "l": "simp_chinese", "t": 1710944342, "v0": "Barrage Core", "v1": "弹幕核心"}
+{"k": "FLAGSHIP_MID2_G20", "l": "simp_chinese", "t": 1710944346, "v0": "Missile Core", "v1": "导弹核心"}
+{"k": "FLAGSHIP_MID2_L20", "l": "simp_chinese", "t": 1710944349, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "FLAGSHIP_MID2_M10G10", "l": "simp_chinese", "t": 1710944354, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "FLAGSHIP_MID2_M10L10", "l": "simp_chinese", "t": 1710944358, "v0": "Bombardment Core", "v1": "轰炸核心"}
+{"k": "FLAGSHIP_MID2_M20", "l": "simp_chinese", "t": 1710944362, "v0": "Broadside Core", "v1": "平台核心"}
+{"k": "FLAGSHIP_MID2_P4H16", "l": "simp_chinese", "t": 1710944366, "v0": "Carrier Core", "v1": "母舰核心"}
+{"k": "FLAGSHIP_MID2_S8P4L8", "l": "simp_chinese", "t": 1710944371, "v0": "Carronade Core", "v1": "近防核心"}
+{"k": "FLAGSHIP_MID3_G10L10", "l": "simp_chinese", "t": 1710944377, "v0": "Barrage Core", "v1": "弹幕核心"}
+{"k": "FLAGSHIP_MID3_G20", "l": "simp_chinese", "t": 1710944381, "v0": "Missile Core", "v1": "导弹核心"}
+{"k": "FLAGSHIP_MID3_L20", "l": "simp_chinese", "t": 1710944384, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "FLAGSHIP_MID3_M10G10", "l": "simp_chinese", "t": 1710944391, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "FLAGSHIP_MID3_M10L10", "l": "simp_chinese", "t": 1710944395, "v0": "Bombardment Core", "v1": "轰炸核心"}
+{"k": "FLAGSHIP_MID3_M20", "l": "simp_chinese", "t": 1710944400, "v0": "Broadside Core", "v1": "平台核心"}
+{"k": "FLAGSHIP_MID3_P4H16", "l": "simp_chinese", "t": 1710944404, "v0": "Carrier Core", "v1": "母舰核心"}
+{"k": "FLAGSHIP_MID3_S8P4L8", "l": "simp_chinese", "t": 1710944408, "v0": "Carronade Core", "v1": "近防核心"}
+{"k": "FLAGSHIP_MID4_G10L10", "l": "simp_chinese", "t": 1710944412, "v0": "Barrage Core", "v1": "弹幕核心"}
+{"k": "FLAGSHIP_MID4_G20", "l": "simp_chinese", "t": 1710944416, "v0": "Missile Core", "v1": "导弹核心"}
+{"k": "FLAGSHIP_MID4_L20", "l": "simp_chinese", "t": 1710944419, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "FLAGSHIP_MID4_M10G10", "l": "simp_chinese", "t": 1710944423, "v0": "Salvo Core", "v1": "齐射核心"}
+{"k": "FLAGSHIP_MID4_M10L10", "l": "simp_chinese", "t": 1710944427, "v0": "Bombardment Core", "v1": "轰炸核心"}
+{"k": "FLAGSHIP_MID4_M20", "l": "simp_chinese", "t": 1710944431, "v0": "Broadside Core", "v1": "平台核心"}
+{"k": "FLAGSHIP_MID4_P4H16", "l": "simp_chinese", "t": 1710944435, "v0": "Carrier Core", "v1": "母舰核心"}
+{"k": "FLAGSHIP_MID4_S8P4L8", "l": "simp_chinese", "t": 1710944440, "v0": "Carronade Core", "v1": "近防核心"}
 {"k": "FLAGSHIP_SHIP_THRUSTER_1", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1$", "v1": ""}
 {"k": "FLAGSHIP_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
 {"k": "FLAGSHIP_SHIP_THRUSTER_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2$", "v1": ""}
@@ -124,9 +369,66 @@
 {"k": "FLAGSHIP_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": ""}
 {"k": "FLAGSHIP_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5$", "v1": ""}
 {"k": "FLAGSHIP_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": ""}
+{"k": "FLAGSHIP_STERN_G20", "l": "simp_chinese", "t": 1710944445, "v0": "Missile Stern", "v1": "导弹舰艉"}
+{"k": "FLAGSHIP_STERN_L20", "l": "simp_chinese", "t": 1710944449, "v0": "Artillery Stern", "v1": "巨炮舰艉"}
+{"k": "FLAGSHIP_STERN_M20", "l": "simp_chinese", "t": 1710944454, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "FLAGSHIP_STERN_P10H10", "l": "simp_chinese", "t": 1710944461, "v0": "PD Stern", "v1": "点防舰艉"}
+{"k": "FLAGSHIP_STERN_P10M10", "l": "simp_chinese", "t": 1710944479, "v0": "Torrent Stern", "v1": "急射舰艉"}
+{"k": "FORTRESS_ANTIMATTER_REACTOR", "l": "simp_chinese", "t": 1710928642, "v0": "Anti-Matter Reactor", "v1": "反物质反应堆"}
+{"k": "FORTRESS_COLD_FUSION_REACTOR", "l": "simp_chinese", "t": 1710928661, "v0": "Cold Fusion Reactor", "v1": "冷核聚变反应堆"}
+{"k": "FORTRESS_DARK_MATTER_REACTOR", "l": "simp_chinese", "t": 1710928678, "v0": "Dark Matter Reactor", "v1": "暗物质反应堆"}
+{"k": "FORTRESS_FISSION_REACTOR", "l": "simp_chinese", "t": 1710928695, "v0": "Fission Reactor", "v1": "裂变反应堆"}
+{"k": "FORTRESS_FUSION_REACTOR", "l": "simp_chinese", "t": 1710928713, "v0": "Fusion Reactor", "v1": "核聚变反应堆"}
+{"k": "FORTRESS_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928010, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "FORTRESS_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928140, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "FORTRESS_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928261, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "FORTRESS_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928312, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
+{"k": "FORTRESS_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927950, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "FORTRESS_ZERO_POINT_REACTOR", "l": "simp_chinese", "t": 1710928729, "v0": "Zero-Point Reactor", "v1": "零点能反应堆"}
+{"k": "FRIGATE_BOW_G1S1P1", "l": "simp_chinese", "t": 1710944530, "v0": "Fullisade Bow", "v1": "射击舰艏"}
+{"k": "FRIGATE_BOW_G1S2", "l": "simp_chinese", "t": 1710944535, "v0": "Torpedo Bow", "v1": "鱼雷舰艏"}
 {"k": "Flagship", "l": "simp_chinese", "t": 1710781159, "v0": "Flagship", "v1": "旗舰"}
 {"k": "Flagship_plural", "l": "simp_chinese", "t": 1710781162, "v0": "Flagships", "v1": "旗舰"}
+{"k": "GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928012, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "GRAVITON_REACTOR_DESC", "l": "simp_chinese", "t": 1710928124, "v0": "Adding gravitational and graviton based based particles to reinforce an antimatter reaction greatly increases the energy production of our reactors.", "v1": "在正反物质反应中增加引力子使得反应堆产生的能量大大增加"}
+{"k": "JUGGERNAUT_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928015, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "JUGGERNAUT_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928142, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "JUGGERNAUT_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928264, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "JUGGERNAUT_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928314, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
+{"k": "JUGGERNAUT_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927952, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928143, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "MULTIDIMENSIONAL_REACTOR_DESC", "l": "simp_chinese", "t": 1710928241, "v0": "Creating a matter bridge between different dimensions and alternative realities allows for a steady, if somewhat limited, stream of vacuum energy to power our next generation of reactors.", "v1": "在不同维度和现实之间建立物质桥梁可以提供稳定的（但有限制的）真空能量流，为下一代反应堆提供动力。"}
+{"k": "NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928265, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "NAQUADRIA_REACTOR_DESC", "l": "simp_chinese", "t": 1710928289, "v0": "Special reactor powered by high energy crystals.", "v1": "由高能晶体驱动的特殊反应堆。"}
 {"k": "NSC_NAME_STEVE", "l": "simp_chinese", "t": 1710575505, "v0": "Steve", "v1": "史蒂夫"}
+{"k": "NSC_REACTOR_BOOSTER_1", "l": "simp_chinese", "t": 1710928745, "v0": "Graviton Boosters", "v1": "反应堆增压器 I"}
+{"k": "NSC_REACTOR_BOOSTER_1_DESC", "l": "simp_chinese", "t": 1710928776, "v0": "Reactor boosters augmented by Graviton Power Technology", "v1": "利用引力子技术提升反应堆输出功率"}
+{"k": "NSC_REACTOR_BOOSTER_2", "l": "simp_chinese", "t": 1710928750, "v0": "Naquadria Boosters", "v1": "反应堆增压器 II"}
+{"k": "NSC_REACTOR_BOOSTER_2_DESC", "l": "simp_chinese", "t": 1710928787, "v0": "Reactor boosters augmented by Nasquadria Power Technology", "v1": "利用Nasquadria提升反应堆输出功率"}
+{"k": "NSC_REACTOR_BOOSTER_3", "l": "simp_chinese", "t": 1710928753, "v0": "Singularity Boosters", "v1": "反应堆增压器 III"}
+{"k": "NSC_REACTOR_BOOSTER_3_DESC", "l": "simp_chinese", "t": 1710928798, "v0": "Reactor boosters augmented by Singularity Power Technology", "v1": "利用奇点技术提升反应堆输出功率"}
+{"k": "OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928316, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
+{"k": "OPTIMIZED_ENIGMATIC_REACTOR_DESC", "l": "simp_chinese", "t": 1710928623, "v0": "Taking advantage of the knowledge discovered from the Enigmatic Fortress along with our own discoveries, we can now take zero point energy directly from the subspace of our own universe without the risk of creating unstable exotic particles, allowing continuous energy limited only by our ability to control the flow of energy.", "v1": "利用从神秘堡垒发现的知识以及我们自己的研究成果，现在我们可以从本宇宙的子空间中获取零点能量，并且无需担心产生不稳定的奇异粒子，有效的将能量输出控制在安全范围内。"}
+{"k": "PLATFORM_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928017, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "PLATFORM_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928146, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "PLATFORM_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928267, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "PLATFORM_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928318, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
+{"k": "PLATFORM_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927954, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927956, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "SINGULARITY_REACTOR_DESC", "l": "simp_chinese", "t": 1710927993, "v0": "Specialized reactor powered by an artificial black hole", "v1": "由人造黑洞提供动力的反应堆"}
+{"k": "SPECIAL_NO_SEC_REACTOR", "l": "simp_chinese", "t": 1710928803, "v0": "Empty Slot", "v1": "空槽位"}
+{"k": "STARBASE_PRIMARY_REACTOR", "l": "simp_chinese", "t": 1710928827, "v0": "Starbase Primary Reactor", "v1": "星际基地核心反应堆"}
+{"k": "STATION_ANTIMATTER_REACTOR", "l": "simp_chinese", "t": 1710928645, "v0": "Anti-Matter Reactor", "v1": "反物质反应堆"}
+{"k": "STATION_COLD_FUSION_REACTOR", "l": "simp_chinese", "t": 1710928664, "v0": "Cold Fusion Reactor", "v1": "冷核聚变反应堆"}
+{"k": "STATION_DARK_MATTER_REACTOR", "l": "simp_chinese", "t": 1710928680, "v0": "Dark Matter Reactor", "v1": "暗物质反应堆"}
+{"k": "STATION_FISSION_REACTOR", "l": "simp_chinese", "t": 1710928697, "v0": "Fission Reactor", "v1": "裂变反应堆"}
+{"k": "STATION_FUSION_REACTOR", "l": "simp_chinese", "t": 1710928715, "v0": "Fusion Reactor", "v1": "核聚变反应堆"}
+{"k": "STATION_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928018, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "STATION_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928147, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "STATION_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928269, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "STATION_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928319, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
+{"k": "STATION_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927960, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "STATION_ZERO_POINT_REACTOR", "l": "simp_chinese", "t": 1710928731, "v0": "Zero-Point Reactor", "v1": "零点能反应堆"}
 {"k": "STRIKECRUISERSHIP_THRUSTER_2_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2_DESC$", "v1": ""}
 {"k": "STRIKECRUISER_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ANTIMATTER_REACTOR$", "v1": ""}
 {"k": "STRIKECRUISER_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_3_DESC$", "v1": ""}
@@ -136,6 +438,10 @@
 {"k": "STRIKECRUISER_DARK_MATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$DARK_MATTER_REACTOR$", "v1": ""}
 {"k": "STRIKECRUISER_FISSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FISSION_REACTOR$", "v1": ""}
 {"k": "STRIKECRUISER_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$FUSION_REACTOR$", "v1": ""}
+{"k": "STRIKECRUISER_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928020, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "STRIKECRUISER_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928149, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "STRIKECRUISER_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928271, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "STRIKECRUISER_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928321, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
 {"k": "STRIKECRUISER_SHIP_THRUSTER_1", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1$", "v1": ""}
 {"k": "STRIKECRUISER_SHIP_THRUSTER_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2$", "v1": ""}
 {"k": "STRIKECRUISER_SHIP_THRUSTER_3", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_3$", "v1": ""}
@@ -144,8 +450,16 @@
 {"k": "STRIKECRUISER_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": ""}
 {"k": "STRIKECRUISER_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5$", "v1": ""}
 {"k": "STRIKECRUISER_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": ""}
+{"k": "STRIKECRUISER_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927962, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
 {"k": "STRIKECRUISER_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ZERO_POINT_REACTOR$", "v1": ""}
 {"k": "STRIKECRUISE_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
+{"k": "TECH_UNLOCK_SPITFIRE_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1710865966, "v0": "While capital ships are far more powerful than any vessels that have come before them, they are also far more expensive, and pose juicy targets for swarms of smaller, cheaper vessels that can overwhelm the capital ships with sheer numbers. To counter this, our engineers are working on a few blueprints that could adapt the Battleship into an anti-Corvette-and-Destroyer powerhouse, along with weapons specifically designed for that purpose. These new designs will cause these 'Spitfire Battleships' to have an even higher production cost, but such sacrifices are worth it, if it means protecting our vulnerable capital ships.", "v1": "虽然主力舰比之前的任何舰船都强大得多，但它们也昂贵得多，并且是大量较小、更便宜的舰船的首要目标 —— 这些舰船可以以绝对的数量优势来消灭主力舰。为了解决这个问题，我们的工程师正在研究一些新的设计蓝图，将战列舰改造成反护卫舰和驱逐舰的平台，并专门为此目的设计武器。这些新设计将导致这种“集火战列舰”的生产成本更高，但如果这项改进可以有效保护我们脆弱的主力舰，那么高昂的成本就是值得的。"}
+{"k": "TECH_UNLOCK_SPITFIRE_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1710865948, "v0": "§HSpitfire Battleship Upgrade§!", "v1": "§HSpitfire Battleship Upgrade§!"}
+{"k": "TITAN_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928022, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "TITAN_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928151, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
+{"k": "TITAN_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928272, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
+{"k": "TITAN_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928323, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
+{"k": "TITAN_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927964, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
 {"k": "ai_behaviour", "l": "simp_chinese", "t": 1710575600, "v0": "AI Tactic", "v1": "智能战术"}
 {"k": "ai_behaviour_DESC", "l": "simp_chinese", "t": 1710575595, "v0": "AI Tactic slot.", "v1": "智能战术槽位"}
 {"k": "ai_behaviour_charge", "l": "simp_chinese", "t": 1710575628, "v0": "Charge Tactic", "v1": "冲锋"}
@@ -211,6 +525,21 @@
 {"k": "nsc_modmenu_setting_page_mod_category_faq_question_list_2_name", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_setting_page_mod_category_faq_question_list_1_name$", "v1": ""}
 {"k": "nsc_modmenu_setting_page_ship_category_class_Flagship_build_cost_desc_minus", "l": "simp_chinese", "t": 1710782050, "v0": "Build Cost: §G[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!", "v1": "建造花费: §G[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!"}
 {"k": "nsc_modmenu_setting_page_ship_category_class_Flagship_build_cost_desc_neutral", "l": "simp_chinese", "t": 1710782064, "v0": "Build Cost: §Y[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!", "v1": "建造花费: §Y[This.nsc_modmenu_ship_class_Flagship_build_cost_var]%§!"}
+{"k": "nsc_modmenu_setting_page_ship_category_component_GRAVITON_REACTOR_disabled_desc", "l": "simp_chinese", "s": true, "t": 1710928025, "v0": "$GRAVITON_REACTOR$: §RDisabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_GRAVITON_REACTOR_enabled_desc", "l": "simp_chinese", "s": true, "t": 1710928028, "v0": "$GRAVITON_REACTOR$: §GEnabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_GRAVITON_REACTOR_name_desc", "l": "simp_chinese", "s": true, "t": 1710928030, "v0": "§H$GRAVITON_REACTOR$§!\n$GRAVITON_REACTOR_DESC$", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_MULTIDIMENSIONAL_REACTOR_disabled_desc", "l": "simp_chinese", "s": true, "t": 1710928154, "v0": "$MULTIDIMENSIONAL_REACTOR$: §RDisabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_MULTIDIMENSIONAL_REACTOR_enabled_desc", "l": "simp_chinese", "s": true, "t": 1710928155, "v0": "$MULTIDIMENSIONAL_REACTOR$: §GEnabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_MULTIDIMENSIONAL_REACTOR_name_desc", "l": "simp_chinese", "s": true, "t": 1710928158, "v0": "§H$MULTIDIMENSIONAL_REACTOR$§!\n$MULTIDIMENSIONAL_REACTOR_DESC$", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_NAQUADRIA_REACTOR_disabled_desc", "l": "simp_chinese", "s": true, "t": 1710928275, "v0": "$NAQUADRIA_REACTOR$: §RDisabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_NAQUADRIA_REACTOR_enabled_desc", "l": "simp_chinese", "s": true, "t": 1710928277, "v0": "$NAQUADRIA_REACTOR$: §GEnabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_NAQUADRIA_REACTOR_name_desc", "l": "simp_chinese", "s": true, "t": 1710928279, "v0": "§H$NAQUADRIA_REACTOR$§!\n$NAQUADRIA_REACTOR_DESC$", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_OPTIMIZED_ENIGMATIC_REACTOR_disabled_desc", "l": "simp_chinese", "s": true, "t": 1710928324, "v0": "$OPTIMIZED_ENIGMATIC_REACTOR$: §RDisabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_OPTIMIZED_ENIGMATIC_REACTOR_enabled_desc", "l": "simp_chinese", "s": true, "t": 1710928326, "v0": "$OPTIMIZED_ENIGMATIC_REACTOR$: §GEnabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_OPTIMIZED_ENIGMATIC_REACTOR_name_desc", "l": "simp_chinese", "s": true, "t": 1710928328, "v0": "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_SINGULARITY_REACTOR_disabled_desc", "l": "simp_chinese", "s": true, "t": 1710927974, "v0": "$SINGULARITY_REACTOR$: §RDisabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_SINGULARITY_REACTOR_enabled_desc", "l": "simp_chinese", "s": true, "t": 1710927976, "v0": "$SINGULARITY_REACTOR$: §GEnabled§!", "v1": ""}
+{"k": "nsc_modmenu_setting_page_ship_category_component_SINGULARITY_REACTOR_name_desc", "l": "simp_chinese", "s": true, "t": 1710927980, "v0": "§H$SINGULARITY_REACTOR$§!\n$SINGULARITY_REACTOR_DESC$", "v1": ""}
 {"k": "nsc_modmenu_setting_page_starbase_category_class_headquarters_name_desc", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_DESC$", "v1": ""}
 {"k": "nsc_modmenu_setting_page_starbase_category_class_stronghold_name_desc", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$TECH_UNLOCK_STRONGHOLD_CONSTRUCTION_DESC$", "v1": ""}
 {"k": "nsc_modmenu_ship_class_Battlecruiser_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
@@ -243,6 +572,15 @@
 {"k": "nsc_modmenu_starbase_class_outpost_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
 {"k": "nsc_modmenu_starbase_class_outpost_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
 {"k": "requires_no_existing_nsc_flagship", "l": "simp_chinese", "t": 1710782088, "v0": "£trigger_no£ Cannot build more than one Flagship.", "v1": "£trigger_no£ 只能建造一艘旗舰。"}
+{"k": "spitfire", "l": "simp_chinese", "t": 1710865583, "v0": "Spitfire", "v1": "集火"}
+{"k": "spitfire_Desc", "l": "simp_chinese", "t": 1710865665, "v0": "Ships with the Spitfire Configuration are designed to counter enemy screens", "v1": "配备集火配置的舰船旨在对抗敌方大规模小型舰船群"}
+{"k": "stb_shipyard", "l": "simp_chinese", "t": 1710866635, "v0": "Shipyard", "v1": "船坞"}
+{"k": "stb_shipyard_desc", "l": "simp_chinese", "t": 1710866651, "v0": "A starbase focused on ship construction.\n", "v1": "一个专注于舰船建造的星际基地。"}
+{"k": "super_carrier", "l": "simp_chinese", "t": 1710866666, "v0": "Super Carrier", "v1": "超级母舰"}
+{"k": "super_carrier_desc", "l": "simp_chinese", "t": 1710866673, "v0": "Super Carrier Configuration", "v1": "超级母舰配置"}
+{"k": "supportship", "l": "simp_chinese", "t": 1710866683, "v0": "Fleet Support Ship", "v1": "舰队支援舰船"}
+{"k": "supportship_plural", "l": "simp_chinese", "t": 1710866689, "v0": "Fleet Support Ships", "v1": "舰队支援舰船"}
+{"k": "swarm_protocol", "l": "simp_chinese", "t": 1710866728, "v0": "Swarm Protocol", "v1": "蜂群协议"}
 {"k": "tech_Dreadnought_1", "l": "simp_chinese", "t": 1710825230, "v0": "Dreadnought", "v1": "无畏舰"}
 {"k": "tech_Flagship_1", "l": "simp_chinese", "t": 1710779860, "v0": "The Flagship", "v1": "旗舰"}
 {"k": "tech_Flagship_1_desc", "l": "simp_chinese", "t": 1710781458, "v0": "The naval arms race has seen the production of larger and larger warships with no end in sight. Our naval engineers have suggested jumping to the logical conclusion of this serial escalation by constructing a ship so massive and powerful, that no empire will be able to support more than one of them at a time. This proposed Flagship will be the ultimate warship. Designed for maximum versatility, each section will have many possible configurations, allowing us to design our Flagship to suit our purposes. Mounting far more thrusters per ton than any other ship, the Flagship will be able to take any position in the fleet, from a long-range battery in the rear, to a massive brawler at the tip of a fleet's spear.\n\nThis power and versatility will come at a heavy cost, however. Merely building the Flagship will be an enormous endeavor, requiring a colossal stockpile of resources and a significant investment of time and manpower. Upon completion, it will take the entire GDP of a small star nation to maintain; as a result, it will require a massive amount of political influence to obtain approval for the project.", "v1": "随着军备竞赛愈演愈烈，军舰的规模不断突破，越来越庞大的军舰被制造了出来。我们的海军工程师建议，通过建造一艘超级规模的军舰来终结这场没有止境的竞赛，这艘军舰如此的庞大以至于没有任何一个帝国能够同时拥有超过一艘。这艘设计中的旗舰将是终极战舰。这艘旗舰在设计时就充分的考虑到了同时支持多种不同的任务的需要，其每个部分都有许多种不同的配置，这使得我们能够自由的设计我们的旗舰以满足各种要求 —— 旗舰将能够占据舰队中的任何位置，从作为后方的远程炮台远程开火，到带领整个舰队冲锋陷阵。\n但是，与此同时实现如此强大的能力是有很高代价的 —— 仅仅建造旗舰就将是一项艰巨的任务，需要大量的资源储备以及大量的时间和人力投入。并且一旦建成，旗舰通常需要一个小星国的全部GDP才能维持；因此，该项目需要巨大的政治影响力才能获得批准。"}
@@ -258,6 +596,8 @@
 {"k": "tech_flagship_hull_1_desc", "l": "simp_chinese", "t": 1710782141, "v0": "Advances in building techniques will allow for the construction of sturdier and more durable Flagships.", "v1": "建造技术的进步将允许建造更坚固、更耐用的旗舰。"}
 {"k": "tech_flagship_hull_2", "l": "simp_chinese", "t": 1710782154, "v0": "Advanced Flagship Hulls", "v1": "先进旗舰船体 II"}
 {"k": "tech_flagship_hull_2_desc", "l": "simp_chinese", "t": 1710782174, "v0": "The latest generation of Flagship hulls have optimized structural integrity fields and improved bulkheads.", "v1": "最新一代的旗舰船体优化了结构完整性并改进了舱壁。"}
+{"k": "tech_spitfire_1", "l": "simp_chinese", "t": 1710865673, "v0": "Spitfire Battleship Specialization", "v1": "战列舰集火"}
+{"k": "tech_spitfire_1_desc", "l": "simp_chinese", "t": 1710865937, "v0": "While capital ships are far more powerful than any vessels that have come before them, they are also far more expensive, and pose juicy targets for swarms of smaller, cheaper vessels that can overwhelm the capital ships with sheer numbers. To counter this, our engineers are working on a few blueprints that could adapt the Battleship into an anti-Corvette-and-Destroyer powerhouse, along with weapons specifically designed for that purpose. These new designs will cause these 'Spitfire Battleships' to have an even higher production cost, but such sacrifices are worth it, if it means protecting our vulnerable capital ships.", "v1": "虽然主力舰比之前的任何舰船都强大得多，但它们也昂贵得多，并且是大量较小、更便宜的舰船的首要目标 —— 这些舰船可以以绝对的数量优势来消灭主力舰。为了解决这个问题，我们的工程师正在研究一些新的设计蓝图，将战列舰改造成反护卫舰和驱逐舰的平台，并专门为此目的设计武器。这些新设计将导致这种“集火战列舰”的生产成本更高，但如果这项改进可以有效保护我们脆弱的主力舰，那么高昂的成本就是值得的。"}
 {"k": "tr_nsc_fleet_doctrine_armament", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$policy_armament_doctrine$", "v1": ""}
 {"k": "tr_nsc_fleet_doctrine_crew", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$policy_crew_doctrine$", "v1": ""}
 {"k": "tr_nsc_fleet_doctrine_defense", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$policy_defense_doctrine$", "v1": ""}
