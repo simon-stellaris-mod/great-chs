@@ -1,4 +1,4 @@
-{"k": "1-NSC-Steve_STEVE", "l": "simp_chinese", "t": 1710577980, "v0": "$ORD$ Steve", "v1": "$ORD$ 史蒂夫"}
+{"k": "1-NSC-Steve_STEVE", "l": "simp_chinese", "t": 1711089829, "v0": "$ORD$ Steve", "v1": "$ORD$ 史蒂夫"}
 {"k": "ARTILLERY_JUGGERNAUT_SECTION", "l": "simp_chinese", "s": true, "t": 1710866082, "v0": "Artillery Juggernaut", "v1": ""}
 {"k": "BASIC_T_BEAM", "l": "simp_chinese", "t": 1710575022, "v0": "Prototype Perdition Beam", "v1": "毁灭光束原型"}
 {"k": "BASIC_T_BEAM_DESC", "l": "simp_chinese", "t": 1710776590, "v0": "The earliest working example of a Titanic-class weapon, it lacks the raw devastating power of a true Perdition Beam. That said, it requires no strategic resources to function.", "v1": "它是泰坦早期的武器，缺乏真正毁灭光束的原始毁灭性力量，但制造不需要战略资源。"}
@@ -10,7 +10,7 @@
 {"k": "BATTLECRUISER_BOW_G8", "l": "simp_chinese", "t": 1710578223, "v0": "Torpedo Bow", "v1": "鱼雷舰艏"}
 {"k": "BATTLECRUISER_BOW_L4", "l": "simp_chinese", "t": 1710578249, "v0": "Artillery Bow", "v1": "火炮舰艏"}
 {"k": "BATTLECRUISER_BOW_P6M6", "l": "simp_chinese", "t": 1710578275, "v0": "Gunship Bow", "v1": "机枪舰艏"}
-{"k": "BATTLECRUISER_BOW_S6M6", "l": "simp_chinese", "t": 1710578288, "v0": "Volley Bow", "v1": "截击舰艏"}
+{"k": "BATTLECRUISER_BOW_S6M6", "l": "simp_chinese", "t": 1710578288, "v0": "Volley Bow", "v1": "机枪舰艏"}
 {"k": "BATTLECRUISER_CLOAK", "l": "simp_chinese", "t": 1710578300, "v0": "Battlecruiser Heavy Cloaking Device", "v1": "战列巡洋舰重型隐形装置"}
 {"k": "BATTLECRUISER_CLOAKING", "l": "simp_chinese", "t": 1710578306, "v0": "Battlecruiser Heavy Cloaking Device", "v1": "战列巡洋舰重型隐形装置"}
 {"k": "BATTLECRUISER_CLOAKING_DESC", "l": "simp_chinese", "t": 1710578316, "v0": "A large cloaking device for the Battlecruiser.", "v1": "战列巡洋舰的大型隐形装置。"}
@@ -128,10 +128,10 @@
 {"k": "CRISIS_CORVETTE_MID_S2PD1", "l": "simp_chinese", "t": 1710927824, "v0": "Picket", "v1": "哨戒"}
 {"k": "CRISIS_CORVETTE_MID_S3", "l": "simp_chinese", "t": 1710927830, "v0": "Interceptor Core", "v1": "拦截核心"}
 {"k": "CRISIS_CRUISER_SECTION_B", "l": "simp_chinese", "t": 1710927834, "v0": "Torpedo", "v1": "鱼雷"}
-{"k": "CRISIS_DESTROYER_M2S2", "l": "simp_chinese", "t": 1710927843, "v0": "Volley", "v1": "齐射"}
+{"k": "CRISIS_DESTROYER_M2S2", "l": "simp_chinese", "t": 1710927843, "v0": "Volley", "v1": "机枪"}
 {"k": "CRUISER_BOW_L3", "l": "simp_chinese", "t": 1710866406, "v0": "Artillery Bow", "v1": "巨炮舰艏"}
 {"k": "CRUISER_BOW_M2S3P3", "l": "simp_chinese", "t": 1710866414, "v0": "Gunship Bow", "v1": "机枪舰艏"}
-{"k": "CRUISER_BOW_M4S4", "l": "simp_chinese", "t": 1710866420, "v0": "Volley Bow", "v1": "齐射舰艏"}
+{"k": "CRUISER_BOW_M4S4", "l": "simp_chinese", "t": 1710866420, "v0": "Volley Bow", "v1": "机枪舰艏"}
 {"k": "CRUISER_BOW_M6", "l": "simp_chinese", "t": 1710866433, "v0": "Broadside Bow", "v1": "平台舰艏"}
 {"k": "CRUISER_BOW_STRIKE_A", "l": "simp_chinese", "t": 1710866451, "v0": "Strike Cruiser Bow A", "v1": "攻击巡洋舰舰艏A"}
 {"k": "CRUISER_BOW_STRIKE_B", "l": "simp_chinese", "t": 1710866455, "v0": "Strike Cruiser Bow B", "v1": "攻击巡洋舰舰艏B"}
@@ -160,7 +160,7 @@
 {"k": "DESTROYER_BOW_G1S3", "l": "simp_chinese", "t": 1710866608, "v0": "Torpedo Bow", "v1": "鱼雷舰艏"}
 {"k": "DESTROYER_BOW_L1", "l": "simp_chinese", "t": 1710927866, "v0": "Artillery Bow", "v1": "火炮舰艏"}
 {"k": "DESTROYER_BOW_LC", "l": "simp_chinese", "t": 1710927882, "v0": "Light Carrier Bow", "v1": "轻型母舰舰艏"}
-{"k": "DESTROYER_BOW_M2S2", "l": "simp_chinese", "t": 1710927886, "v0": "Volley Bow", "v1": "齐射舰艏"}
+{"k": "DESTROYER_BOW_M2S2", "l": "simp_chinese", "t": 1710927886, "v0": "Volley Bow", "v1": "机枪舰艏"}
 {"k": "DESTROYER_BOW_S3P2", "l": "simp_chinese", "t": 1710927893, "v0": "Picket Bow", "v1": "哨戒舰艏"}
 {"k": "DESTROYER_BOW_S5", "l": "simp_chinese", "t": 1710927899, "v0": "Interceptor Bow", "v1": "拦截舰艏"}
 {"k": "DESTROYER_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710927905, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
@@ -319,6 +319,7 @@
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_3_DESC", "l": "simp_chinese", "t": 1710577834, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。"}
 {"k": "FLAGSHIP_BOW_H6T6", "l": "simp_chinese", "t": 1710939097, "v0": "Siegebreaker Bow", "v1": "攻城舰艏"}
 {"k": "FLAGSHIP_BOW_H6X12", "l": "simp_chinese", "t": 1710944041, "v0": "Stormbringer Bow", "v1": "暴风舰艏"}
+{"k": "FLAGSHIP_BOW_H6X8T2", "l": "simp_chinese", "t": 1711090575, "v0": "Basilisk Bow", "v1": "Basilisk舰艏"}
 {"k": "FLAGSHIP_BOW_P4G4L6H6", "l": "simp_chinese", "t": 1710944068, "v0": "Hailfire Bow", "v1": "冰霜舰艏"}
 {"k": "FLAGSHIP_BOW_P4L10H6", "l": "simp_chinese", "t": 1710944075, "v0": "Artillery Bow", "v1": "巨炮舰艏"}
 {"k": "FLAGSHIP_BOW_P4M12H6", "l": "simp_chinese", "t": 1710944081, "v0": "Broadside Bow", "v1": "平台舰艏"}
@@ -387,6 +388,19 @@
 {"k": "FORTRESS_ZERO_POINT_REACTOR", "l": "simp_chinese", "t": 1710928729, "v0": "Zero-Point Reactor", "v1": "零点能反应堆"}
 {"k": "FRIGATE_BOW_G1S1P1", "l": "simp_chinese", "t": 1710944530, "v0": "Fullisade Bow", "v1": "射击舰艏"}
 {"k": "FRIGATE_BOW_G1S2", "l": "simp_chinese", "t": 1710944535, "v0": "Torpedo Bow", "v1": "鱼雷舰艏"}
+{"k": "FRIGATE_BOW_M1S1P1", "l": "simp_chinese", "t": 1710999384, "v0": "Gunship Bow", "v1": "机枪舰艏"}
+{"k": "FRIGATE_BOW_M1S2", "l": "simp_chinese", "t": 1711000134, "v0": "Volley Bow", "v1": "机枪舰艏"}
+{"k": "FRIGATE_BOW_P4", "l": "simp_chinese", "t": 1711000149, "v0": "Escort Upgrade Bow", "v1": "先进护航舰艏"}
+{"k": "FRIGATE_BOW_S2P1", "l": "simp_chinese", "t": 1711000159, "v0": "Picket Bow", "v1": "哨戒舰艏"}
+{"k": "FRIGATE_BOW_S3", "l": "simp_chinese", "t": 1711000167, "v0": "Interceptor Bow", "v1": "拦截舰艏"}
+{"k": "FRIGATE_CLOAK", "l": "simp_chinese", "t": 1711000176, "v0": "Frigate Advanced Cloaking Device", "v1": "先进护卫舰隐形装置"}
+{"k": "FRIGATE_CLOAKING", "l": "simp_chinese", "t": 1711084862, "v0": "Frigate Advanced Cloaking Device", "v1": "先进护卫舰隐形装置"}
+{"k": "FRIGATE_STERN_G1", "l": "simp_chinese", "t": 1711084891, "v0": "Torpedo Stern", "v1": "鱼雷舰艉"}
+{"k": "FRIGATE_STERN_M1", "l": "simp_chinese", "t": 1711085371, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "FRIGATE_STERN_P2", "l": "simp_chinese", "t": 1711085378, "v0": "Pinpoint Stern", "v1": "点防舰艉"}
+{"k": "FRIGATE_STERN_P4", "l": "simp_chinese", "t": 1711086804, "v0": "Escort Upgrade Stern", "v1": "护航升级舰艉"}
+{"k": "FRIGATE_STERN_S1P1", "l": "simp_chinese", "t": 1711085961, "v0": "Picket Stern", "v1": "哨戒舰艉"}
+{"k": "FRIGATE_STERN_S2", "l": "simp_chinese", "t": 1711086813, "v0": "Interceptor Stern", "v1": "拦截舰艉"}
 {"k": "Flagship", "l": "simp_chinese", "t": 1710781159, "v0": "Flagship", "v1": "旗舰"}
 {"k": "Flagship_plural", "l": "simp_chinese", "t": 1710781162, "v0": "Flagships", "v1": "旗舰"}
 {"k": "GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928012, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
@@ -400,6 +414,13 @@
 {"k": "MULTIDIMENSIONAL_REACTOR_DESC", "l": "simp_chinese", "t": 1710928241, "v0": "Creating a matter bridge between different dimensions and alternative realities allows for a steady, if somewhat limited, stream of vacuum energy to power our next generation of reactors.", "v1": "在不同维度和现实之间建立物质桥梁可以提供稳定的（但有限制的）真空能量流，为下一代反应堆提供动力。"}
 {"k": "NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928265, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
 {"k": "NAQUADRIA_REACTOR_DESC", "l": "simp_chinese", "t": 1710928289, "v0": "Special reactor powered by high energy crystals.", "v1": "由高能晶体驱动的特殊反应堆。"}
+{"k": "NSC_AI_BEHAVIOR_DESC", "l": "simp_chinese", "t": 1711091794, "v0": "This extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat.\n\n§GHow To Use:§! §BThis computer is available only on certain ship classes. It will allow the player to directly control the movement of these ships while in combat.\n\nShips equipped with this computer§! §HMUST§! §Bbe in a fleet by themselves or only with other ships that have the same computer - the movement control will not work in fleets mixed with other ships that have different combat computers.\n\nOnce equipped, the fleet will move to the position you designate and will continue firing as long as they have a target within weapons range.§! §HThe fleet will not move again until you tell them to do so.§!", "v1": "这种极其先进的计算机系统可以在不接管导航系统的情况下智能地指挥舰船上的所有作战系统，从而实现玩家在战斗中自由移动舰船。\n§G使用方法：§! §B该计算机仅适用于某些舰船类别。它将允许玩家在战斗中直接控制这些舰船的移动。配备此计算机的舰船§! §H必须§! §B独立组建舰队并且只包含该型舰船或只包含装备了同样的计算机系统的舰船 —— 移动控制不适用于与其他拥有不同战斗计算机的舰船混合编队。一旦装备该计算机系统，舰队将移动到您指定的位置，并自动攻击所有在射程范围内的敌方目标。§! §H同时舰队将保持在该位置直到您发出新的指令§!"}
+{"k": "NSC_AI_COMBAT_COMPUTER", "l": "simp_chinese", "t": 1711091805, "v0": "Artificial Intelligence Combat System", "v1": "人工智能战斗系统"}
+{"k": "NSC_EVENTS_MOTHBALL_MESSAGE_DESC", "l": "simp_chinese", "t": 1711093086, "v0": "The §Y[From.GetName]§! fleet has been repaired after being mothballed on the [This.Orbit.GetName] planet.", "v1": "封存在[This.Orbit.GetName]的§Y[From.GetName]§!舰队已经修复完毕。"}
+{"k": "NSC_EVENTS_MOTHBALL_MESSAGE_TITLE", "l": "simp_chinese", "t": 1711093117, "v0": "Mothballed Fleet Restored", "v1": "恢复封存的舰队"}
+{"k": "NSC_FLAGSHIP_AURA", "l": "simp_chinese", "t": 1711093126, "v0": "Advanced Fleet Command Network", "v1": "先进舰队指挥网络"}
+{"k": "NSC_FLAGSHIP_AURA_EMPTY", "l": "simp_chinese", "t": 1711093130, "v0": "Empty Slot", "v1": "空槽位"}
+{"k": "NSC_MODMENU_STOPPED_WORKING_DESC", "l": "simp_chinese", "t": 1711093174, "v0": "§RClose any other UIs to use this Customgui.§!", "v1": "§R关闭其它所有UI以便于使用当前自定义UI§!"}
 {"k": "NSC_NAME_STEVE", "l": "simp_chinese", "t": 1710575505, "v0": "Steve", "v1": "史蒂夫"}
 {"k": "NSC_REACTOR_BOOSTER_1", "l": "simp_chinese", "t": 1710928745, "v0": "Graviton Boosters", "v1": "反应堆增压器 I"}
 {"k": "NSC_REACTOR_BOOSTER_1_DESC", "l": "simp_chinese", "t": 1710928776, "v0": "Reactor boosters augmented by Graviton Power Technology", "v1": "利用引力子技术提升反应堆输出功率"}
@@ -407,16 +428,125 @@
 {"k": "NSC_REACTOR_BOOSTER_2_DESC", "l": "simp_chinese", "t": 1710928787, "v0": "Reactor boosters augmented by Nasquadria Power Technology", "v1": "利用Nasquadria提升反应堆输出功率"}
 {"k": "NSC_REACTOR_BOOSTER_3", "l": "simp_chinese", "t": 1710928753, "v0": "Singularity Boosters", "v1": "反应堆增压器 III"}
 {"k": "NSC_REACTOR_BOOSTER_3_DESC", "l": "simp_chinese", "t": 1710928798, "v0": "Reactor boosters augmented by Singularity Power Technology", "v1": "利用奇点技术提升反应堆输出功率"}
+{"k": "NSC_STRIKE_CRUISER_AURA", "l": "simp_chinese", "t": 1711093200, "v0": "Advanced Combat Interdiction System", "v1": "先进战斗拦截系统"}
+{"k": "NSC_STRIKE_CRUISER_AURA_2", "l": "simp_chinese", "t": 1711093205, "v0": "Advanced Combat Interdiction System II", "v1": "先进战斗拦截系统 II"}
+{"k": "NSC_STRIKE_CRUISER_AURA_EMPTY", "l": "simp_chinese", "t": 1711093210, "v0": "Empty Slot", "v1": "空槽位"}
+{"k": "NSC_SUPPORTSHIP_ARMOR_AURA", "l": "simp_chinese", "t": 1711093275, "v0": "Support Destroyer Aura - Armor", "v1": "毁灭者支援光环 - 护甲"}
+{"k": "NSC_SUPPORTSHIP_AURA_EMPTY", "l": "simp_chinese", "t": 1711093279, "v0": "Empty Slot", "v1": "空槽位"}
+{"k": "NSC_SUPPORTSHIP_FTL_AURA", "l": "simp_chinese", "t": 1711093292, "v0": "Support Destroyer Aura - FTL", "v1": "毁灭者支援光环 - 超光速"}
+{"k": "NSC_SUPPORTSHIP_HULL_AURA", "l": "simp_chinese", "t": 1711093302, "v0": "Support Destroyer Aura - Hull", "v1": "毁灭者支援光环 - 舰体"}
+{"k": "NSC_SUPPORTSHIP_INVASION_AURA", "l": "simp_chinese", "t": 1711093315, "v0": "Support Destroyer Aura - Invasion", "v1": "毁灭者支援光环 - 入侵"}
+{"k": "NSC_SUPPORTSHIP_SHIELD_AURA", "l": "simp_chinese", "t": 1711093318, "v0": "Support Destroyer Aura - Shield", "v1": "毁灭者支援光环 - 护盾"}
+{"k": "NSC_SUPPORTSHIP_UPKEEP_AURA", "l": "simp_chinese", "t": 1711093325, "v0": "Support Destroyer Aura - Upkeep", "v1": "毁灭者支援光环 - 维护"}
+{"k": "NSC_TITAN_AURA", "l": "simp_chinese", "t": 1711093333, "v0": "Fleet Command Network", "v1": "舰队指挥网络"}
+{"k": "NSC_TITAN_AURA_EMPTY", "l": "simp_chinese", "t": 1711093336, "v0": "Empty Slot", "v1": "空槽位"}
+{"k": "OFFSPRING_BATTLESHIP_BOW_L8", "l": "simp_chinese", "t": 1711093349, "v0": "Artillery Bow", "v1": "巨炮舰艏"}
+{"k": "OFFSPRING_BATTLESHIP_BOW_S5P5M5G5", "l": "simp_chinese", "t": 1711093376, "v0": "Coverage Bow", "v1": "多功能舰艏"}
+{"k": "OFFSPRING_BATTLESHIP_BOW_S6M4L4", "l": "simp_chinese", "t": 1711093431, "v0": "Carronade Bow", "v1": "近防舰艏"}
+{"k": "OFFSPRING_BATTLESHIP_BOW_SF", "l": "simp_chinese", "t": 1711093439, "v0": "Spitfire Bow", "v1": "集火舰艏"}
+{"k": "OFFSPRING_BATTLESHIP_BOW_XL1", "l": "simp_chinese", "t": 1711093451, "v0": "Devastator Bow", "v1": "毁灭舰艏"}
+{"k": "OFFSPRING_BATTLESHIP_MID_G6L6", "l": "simp_chinese", "t": 1711093455, "v0": "Bombardment Core", "v1": "轰炸舰艏"}
+{"k": "OFFSPRING_BATTLESHIP_MID_L9", "l": "simp_chinese", "t": 1711093463, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "OFFSPRING_BATTLESHIP_MID_M6L6", "l": "simp_chinese", "t": 1711093466, "v0": "Broadside Core", "v1": "平台核心"}
+{"k": "OFFSPRING_BATTLESHIP_MID_M8G8", "l": "simp_chinese", "t": 1711093472, "v0": "Barrage Core", "v1": "弹幕核心"}
+{"k": "OFFSPRING_BATTLESHIP_MID_S8P8H4", "l": "simp_chinese", "t": 1711093481, "v0": "Hangar Core", "v1": "机库核心"}
+{"k": "OFFSPRING_BATTLESHIP_MID_SF", "l": "simp_chinese", "t": 1711093485, "v0": "Spitfire Core", "v1": "集火核心"}
+{"k": "OFFSPRING_BATTLESHIP_STERN_G5", "l": "simp_chinese", "t": 1711093488, "v0": "Missile Stern", "v1": "导弹核心"}
+{"k": "OFFSPRING_BATTLESHIP_STERN_L3", "l": "simp_chinese", "t": 1711093492, "v0": "Artillery Stern", "v1": "巨炮舰艉"}
+{"k": "OFFSPRING_BATTLESHIP_STERN_M8", "l": "simp_chinese", "t": 1711093494, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "OFFSPRING_BATTLESHIP_STERN_SF", "l": "simp_chinese", "t": 1711093497, "v0": "Spitfire Stern", "v1": "集火舰艉"}
+{"k": "OFFSPRING_CRUISER_BOW_G3", "l": "simp_chinese", "t": 1711093500, "v0": "Missile Bow", "v1": "导弹舰艉"}
+{"k": "OFFSPRING_CRUISER_BOW_L2", "l": "simp_chinese", "t": 1711093503, "v0": "Artillery Bow", "v1": "巨炮舰艏"}
+{"k": "OFFSPRING_CRUISER_BOW_S3M3", "l": "simp_chinese", "t": 1711093518, "v0": "Volley Bow", "v1": "机枪舰艏"}
+{"k": "OFFSPRING_CRUISER_MID_M2L2", "l": "simp_chinese", "t": 1711093524, "v0": "Artillery Core", "v1": "巨炮核心"}
+{"k": "OFFSPRING_CRUISER_MID_P2M6", "l": "simp_chinese", "t": 1711093526, "v0": "Broadside Core", "v1": "平台核心"}
+{"k": "OFFSPRING_CRUISER_MID_S4M4", "l": "simp_chinese", "t": 1711093530, "v0": "Volley Core", "v1": "机枪核心"}
+{"k": "OFFSPRING_CRUISER_MID_S4P2H1", "l": "simp_chinese", "t": 1711093536, "v0": "Hangar Core", "v1": "机库核心"}
+{"k": "OFFSPRING_CRUISER_STERN_G2", "l": "simp_chinese", "t": 1711093539, "v0": "Missile Stern", "v1": "导弹舰艉"}
+{"k": "OFFSPRING_CRUISER_STERN_M2", "l": "simp_chinese", "t": 1711093543, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "OFFSPRING_CRUISER_STERN_P4", "l": "simp_chinese", "t": 1711093547, "v0": "Pinpoint Stern", "v1": "点防舰艉"}
+{"k": "OFFSPRING_CRUISER_STERN_S4", "l": "simp_chinese", "t": 1711093550, "v0": "Interceptor Stern", "v1": "拦截舰艉"}
+{"k": "OFFSPRING_DESTROYER_BOW_G2", "l": "simp_chinese", "t": 1711093555, "v0": "Missile Bow", "v1": "导弹舰艏"}
+{"k": "OFFSPRING_DESTROYER_BOW_M1S2", "l": "simp_chinese", "t": 1711093558, "v0": "Gunship Bow", "v1": "机枪舰艏"}
+{"k": "OFFSPRING_DESTROYER_BOW_M2P4", "l": "simp_chinese", "t": 1711093580, "v0": "PD Destroyer Bow", "v1": "点防舰艏"}
+{"k": "OFFSPRING_DESTROYER_BOW_S3", "l": "simp_chinese", "t": 1711093586, "v0": "Picket Bow", "v1": "哨戒舰艏"}
+{"k": "OFFSPRING_DESTROYER_BOW_S4", "l": "simp_chinese", "t": 1711093589, "v0": "Interceptor Bow", "v1": "拦截舰艏"}
+{"k": "OFFSPRING_DESTROYER_STERN_G1", "l": "simp_chinese", "t": 1711093592, "v0": "Missile Stern", "v1": "导弹舰艉"}
+{"k": "OFFSPRING_DESTROYER_STERN_M1", "l": "simp_chinese", "t": 1711093595, "v0": "Gunship Stern", "v1": "机枪舰艉"}
+{"k": "OFFSPRING_DESTROYER_STERN_P4", "l": "simp_chinese", "t": 1711093599, "v0": "PD Destroyer Stern", "v1": "点防舰艉"}
+{"k": "OFFSPRING_DESTROYER_STERN_S2", "l": "simp_chinese", "t": 1711093604, "v0": "Interceptor Stern", "v1": "拦截舰艉"}
 {"k": "OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928316, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
 {"k": "OPTIMIZED_ENIGMATIC_REACTOR_DESC", "l": "simp_chinese", "t": 1710928623, "v0": "Taking advantage of the knowledge discovered from the Enigmatic Fortress along with our own discoveries, we can now take zero point energy directly from the subspace of our own universe without the risk of creating unstable exotic particles, allowing continuous energy limited only by our ability to control the flow of energy.", "v1": "利用从神秘堡垒发现的知识以及我们自己的研究成果，现在我们可以从本宇宙的子空间中获取零点能量，并且无需担心产生不稳定的奇异粒子，有效的将能量输出控制在安全范围内。"}
+{"k": "PERDITION_BEAM_FLAGSHIP", "l": "simp_chinese", "t": 1711093632, "v0": "The Ambassador of Justice", "v1": "正义使者"}
+{"k": "PERDITION_BEAM_FLAGSHIP_DESC", "l": "simp_chinese", "t": 1711093666, "v0": "The biggest laser in existence, for the biggest ship in existence, to overcompensate for a not-so-big Leader.", "v1": "现存最大的激光器，适用于现有最大的舰船。"}
 {"k": "PLATFORM_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928017, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
 {"k": "PLATFORM_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928146, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
 {"k": "PLATFORM_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928267, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
 {"k": "PLATFORM_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928318, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
 {"k": "PLATFORM_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927954, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "POINT_DEFENCE_STARBASE", "l": "simp_chinese", "t": 1711093686, "v0": "Automated Defense System", "v1": "自动防御系统"}
+{"k": "POINT_DEFENCE_STARBASE_DESC", "l": "simp_chinese", "t": 1711093688, "v0": "Automated Defense System", "v1": "自动防御系统"}
+{"k": "SHIP_GRAPHICS_BATTLECRUISER_DESC", "l": "simp_chinese", "t": 1711093710, "v0": "A much larger and more advanced version of the Cruiser designed for front-line combat duties.", "v1": "更大更先进的巡洋舰，专为前线作战任务而设计。"}
+{"k": "SHIP_GRAPHICS_BATTLESHIP_DESC", "l": "simp_chinese", "t": 1711093728, "v0": "Battleships are expensive but powerful. With their great firing range, they excel at injuring an opponent before they can strike back.", "v1": "战列舰价格昂贵但威力强大。凭借其巨大的射程，他们擅长在对手反击之前对其造成伤害。"}
+{"k": "SHIP_GRAPHICS_BROWSER", "l": "simp_chinese", "t": 1711093736, "v0": "Select Ship Appearance", "v1": "选择舰船外观"}
+{"k": "SHIP_GRAPHICS_CARRIER_DESC", "l": "simp_chinese", "t": 1711093820, "v0": "Massive warships capable of carrying large numbers of Strike Craft. Due to the space needed for the hangars, these ships have little direct offensive capability must be protected by other combat vessels.", "v1": "能够搭载大量攻击机的大型战舰。由于机库占据了绝大部分舰体，这些舰船几乎没有直接进攻的能力，必须受到其他舰船的保护。"}
+{"k": "SHIP_GRAPHICS_COLONIZER_DESC", "l": "simp_chinese", "t": 1711093837, "v0": "Colony Ships carry settlers from settled planets to new ones for colonization. Being a civilian ship, they are unarmored, unarmed and vulnerable.", "v1": "殖民船将定居者从已定居的星球运送到新的星球进行殖民。作为一艘民用船只，它们没有装甲、没有武器并且很脆弱。"}
+{"k": "SHIP_GRAPHICS_COLOSSUS_DESC", "l": "simp_chinese", "t": 1711093879, "v0": "These immense ships are not equipped to fight hostile fleets, but their job is instead to neutralize entire worlds.", "v1": "这些巨大的舰船没有装备武器来对抗敌方舰队，但它们的任务是压制整个宇宙。"}
+{"k": "SHIP_GRAPHICS_CONSTRUCTOR_DESC", "l": "simp_chinese", "t": 1711093889, "v0": "Construction Ships are necessary for building any space station. Being a civilian ship, they are unarmored, unarmed and vulnerable.", "v1": "建造任何空间站都需要建造船。作为一艘民用船只，它们没有装甲、没有武器并且很脆弱。"}
+{"k": "SHIP_GRAPHICS_CORVETTE_DESC", "l": "simp_chinese", "t": 1711093897, "v0": "Corvettes are the first military ship class available for empires. They are fast, nimble and cheap.", "v1": "护卫舰是帝国第一种可用的军舰。它们快速、灵活且便宜。"}
+{"k": "SHIP_GRAPHICS_CRUISER_DESC", "l": "simp_chinese", "t": 1711094599, "v0": "Cruisers are versatile and durable, capable of both soaking up and delivering damage.", "v1": "巡洋舰用途广泛且耐用，能够吸收和造成伤害。"}
+{"k": "SHIP_GRAPHICS_DESTROYER_DESC", "l": "simp_chinese", "t": 1711094616, "v0": "Destroyers trade the agility and speed of a Corvette for more firepower and a thicker hull.", "v1": "驱逐舰用护卫舰的敏捷性和速度换取了更强的火力和更厚的船体。"}
+{"k": "SHIP_GRAPHICS_DREADNOUGHT_DESC", "l": "simp_chinese", "t": 1711094636, "v0": "A larger and more advanced version of the Battleship, designed to be the primary front-line warship for any empire.", "v1": "更大更先进的战列舰，旨在成为任何帝国的主要前线战舰。"}
+{"k": "SHIP_GRAPHICS_ESCORTCARRIER_DESC", "l": "simp_chinese", "t": 1711094660, "v0": "A Cruiser-sized ship capable of carrying a small number of Strike Craft.", "v1": "巡洋舰级舰船，能够搭载少量攻击机。"}
+{"k": "SHIP_GRAPHICS_EXPLORATIONSHIP_DESC", "l": "simp_chinese", "t": 1711094680, "v0": "A combat-capable Science ship designed to withstand hostile forces while boldly going where no one has gone before.", "v1": "一艘具有战斗能力的科学船，旨在抵御敌方势力，同时大胆前往前人未曾去过的地方。"}
+{"k": "SHIP_GRAPHICS_FLAGSHIP_DESC", "l": "simp_chinese", "t": 1711094689, "v0": "A massive command and control ship with unbelievable offensive capability. The pride and joy of any Naval fleet.", "v1": "一艘具有令人难以置信的攻击能力的大型指挥和控制舰。任何海军舰队的骄傲和喜悦。"}
+{"k": "SHIP_GRAPHICS_FRIGATE_DESC", "l": "simp_chinese", "t": 1711094713, "v0": "Frigates are an advanced variant of the Corvette that specialize torpedo delivery. They may be slower and more vulnerable, but can be devastating against large targets.", "v1": "雷击舰是护卫舰的高级变体，专门用于鱼雷发射。它们可能速度较慢且更容易受到攻击，但对大型目标可能具有毁灭性的打击。"}
+{"k": "SHIP_GRAPHICS_JUGGERNAUT_DESC", "l": "simp_chinese", "t": 1711094746, "v0": "Building a Juggernaut is a great undertaking for any empire. These massive ships function both as mobile shipyards and support vessels.", "v1": "对于任何帝国来说，制造一艘主宰者都是一项伟大的事业。这些大型舰船既可用作移动造船厂，也可用作支援舰。"}
+{"k": "SHIP_GRAPHICS_MISSING_DLC_TOOLTIP", "l": "simp_chinese", "t": 1711094763, "v0": "§GClick to preview $CULTURE_NAME$ ships§!", "v1": "§G点击预览 $CULTURE_NAME$ §!"}
+{"k": "SHIP_GRAPHICS_OUTPOST_DESC", "l": "simp_chinese", "t": 1711094842, "v0": "An Outpost is the lowest level of a starbase, having little function except marking ownership of a star system.", "v1": "前哨基地是最低等级的恒星基地，除了宣称恒星系统的所有权之外几乎没有什么功能。"}
+{"k": "SHIP_GRAPHICS_PREVIEW", "l": "simp_chinese", "t": 1711094858, "v0": "Preview Ship Classes", "v1": "预览舰船类别"}
+{"k": "SHIP_GRAPHICS_REQUIRED_DLC", "l": "simp_chinese", "t": 1711094863, "v0": "Required DLC", "v1": "需要DLC"}
+{"k": "SHIP_GRAPHICS_ROTATE_TOOLTIP", "l": "simp_chinese", "t": 1711094897, "v0": "Hold and drag §GRight Mouse Button§! on the ship model to rotate.", "v1": "在船模型上按住并拖动§G鼠标右键§!进行旋转。"}
+{"k": "SHIP_GRAPHICS_SCIENCE_DESC", "l": "simp_chinese", "t": 1711094905, "v0": "Science Ships are primarily used to explore new star systems and research anomalies. Being a civilian ship, they are unarmored and vulnerable.", "v1": "科学船主要用于探索新的恒星系统和研究异常现象。作为一艘民用船只，它们没有装甲且脆弱。"}
+{"k": "SHIP_GRAPHICS_SHIP_SIZE_LOCKED_DESC", "l": "simp_chinese", "t": 1711094934, "v0": "§RThis ship class requires the DLC $SHIP_SIZE_NAME$.§!", "v1": "§R这个舰船类别需要DLC $SHIP_SIZE_NAME$。§!"}
+{"k": "SHIP_GRAPHICS_STARBASE_CITADEL_DESC", "l": "simp_chinese", "t": 1711094964, "v0": "A Citadel is the highest upgradeable level of a starbase. Equipped with immense defenses, a Citadel is a hard nut for any enemy to crack.", "v1": "堡垒基地是星际基地的最高级别。堡垒配备了巨大的防御设施，对于任何敌人来说都是一个难以攻克的目标。"}
+{"k": "SHIP_GRAPHICS_STRIKECRUISER_DESC", "l": "simp_chinese", "t": 1711095000, "v0": "Strike Cruisers are designed to catch enemy fleets and hold them in position until a friendly fleet can arrive to finish the job.", "v1": "攻击巡洋舰的设计目的是追击敌方舰队并将其围困在原地，直到友方舰队到达完成任务。"}
+{"k": "SHIP_GRAPHICS_TITAN_DESC", "l": "simp_chinese", "t": 1711095045, "v0": "Though they are immensely powerful in and of themselves, Titans can also use Aura abilities to boost friendly ships.", "v1": "泰坦在自身非常强大的同时也可以使用光环能力来增强友方舰船。"}
+{"k": "SHIP_GRAPHICS_TRANSPORT_DESC", "l": "simp_chinese", "t": 1711095061, "v0": "Transport Ships carry armies to assault hostile planets during a war. Being unarmored and unarmed, they require a supporting fleet when in hostile territory.", "v1": "运输船在战争期间携带军队攻击敌对行星。由于没有装甲和武装，它们在敌对领土上需要一支支援舰队。"}
+{"k": "SHIP_GRAPHICS_ZOOM_IN_TOOLTIP", "l": "simp_chinese", "t": 1711095081, "v0": "Use §GMouse Scroll Wheel Forward§! to zoom in.", "v1": "使用§G鼠标滚轮向前滚动来§!放大。"}
+{"k": "SHIP_GRAPHICS_ZOOM_OUT_TOOLTIP", "l": "simp_chinese", "t": 1711095099, "v0": "Use §GMouse Scroll Wheel Backward§! to zoom out.", "v1": "使用§G鼠标滚轮向后滚动来§!缩小。"}
 {"k": "SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927956, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
 {"k": "SINGULARITY_REACTOR_DESC", "l": "simp_chinese", "t": 1710927993, "v0": "Specialized reactor powered by an artificial black hole", "v1": "由人造黑洞提供动力的反应堆"}
 {"k": "SPECIAL_NO_SEC_REACTOR", "l": "simp_chinese", "t": 1710928803, "v0": "Empty Slot", "v1": "空槽位"}
+{"k": "SPECIAL_SLOT_AUXILIARY_SHIELDS", "l": "simp_chinese", "t": 1711095105, "v0": "Auxiliary Shield System", "v1": "辅助护盾系统"}
+{"k": "SPECIAL_SLOT_AUXILIARY_SHIELDS_DESC", "l": "simp_chinese", "t": 1711095140, "v0": "This secondary series of backup shield generators reinforces the ship's shields during combat, making the shields more resilient against enemy fire.", "v1": "备用护盾发生器在战斗中增强了舰船的护盾，使护盾更能抵御敌人的火力。"}
+{"k": "SPECIAL_SLOT_CREW_LOUNGE", "l": "simp_chinese", "t": 1711095147, "v0": "Crew Lounge", "v1": "船员休息室"}
+{"k": "SPECIAL_SLOT_CREW_LOUNGE_DESC", "l": "simp_chinese", "t": 1711095186, "v0": "Long deployments aboard spacefaring warships can take their toll on a ship's crew. Having designated Crew Lounge areas will provide the crew with a place to relieve excess stress, improve mental health, and, in the end, improve combat performance as a result.", "v1": "长期部署在太空舰队中可能会对船员造成伤害。船员休息室将为船员提供缓解过度压力、改善心理健康的场所，并最终提高战斗表现。"}
+{"k": "SPECIAL_SLOT_DAMAGE_CONTROL", "l": "simp_chinese", "t": 1711095201, "v0": "Damage Control Teams", "v1": "损害控制小队"}
+{"k": "SPECIAL_SLOT_DAMAGE_CONTROL_DESC", "l": "simp_chinese", "t": 1711095217, "v0": "These specialized crew members are trained in rapid ship repair under battlefield conditions to keep the ship running longer, and to reduce the need to head home for repairs after combat engagements.", "v1": "这些专业船员接受过战场条件下快速船舶维修培训，以保持船舶运行更长时间，并减少战斗后回家维修的需要。"}
+{"k": "SPECIAL_SLOT_DEFLECTOR_ARRAY", "l": "simp_chinese", "t": 1711095224, "v0": "Deflector Array", "v1": "偏转阵列"}
+{"k": "SPECIAL_SLOT_DEFLECTOR_ARRAY_DESC", "l": "simp_chinese", "t": 1711095319, "v0": "These deflector arrays relieve strain on the shield generators, allowing the ship's shields to regenerate faster after combat, to get ready for the next engagement. In campaigns where multiple battles may be fought in the same system in quick succession, this can mean the difference between victory and defeat.", "v1": "这些偏转阵列减轻了护盾发生器的压力，使舰船的护盾能够在战斗后更快地再生，为下一次交战做好准备。在同一星系中快速连续的多场战斗中恢复护盾值是相当重要的能力，这可能代表着胜利与失败的区别。"}
+{"k": "SPECIAL_SLOT_EMPTY", "l": "simp_chinese", "t": 1711095322, "v0": "Empty Slot", "v1": "空槽位"}
+{"k": "SPECIAL_SLOT_FIRE_CONTROL", "l": "simp_chinese", "t": 1711095339, "v0": "Fire Control System", "v1": "火力控制系统"}
+{"k": "SPECIAL_SLOT_FIRE_CONTROL_DESC", "l": "simp_chinese", "t": 1711095367, "v0": "This advanced targeting system allows the ship to acquire targeting solutions faster and more precisely, inflicting greater damage on enemy vessels in combat.", "v1": "这种先进的瞄准系统使舰船能够更快、更精确的瞄准，从而在战斗中对敌舰造成更大的伤害。"}
+{"k": "SPECIAL_SLOT_MARS_WEAPON_SYSTEM", "l": "simp_chinese", "t": 1711095423, "v0": "MARS Weapon System", "v1": "MARS武器系统"}
+{"k": "SPECIAL_SLOT_MARS_WEAPON_SYSTEM_DESC", "l": "simp_chinese", "t": 1711095483, "v0": "This advanced point-defense weapon system is specifically designed to track tiny, highly evasive targets - missiles, torpedoes, and strike craft - and provide extremely precise targeting solutions at blistering speeds, increasing the fire rate and damage potential of ship-borne point-defense weapons.", "v1": "这种先进的点防御武器系统专门设计用于跟踪微小、高闪避的目标（比如导弹、鱼雷和攻击机），并能以极快的速度进行瞄准，从而提高舰载点防御的射速和伤害。"}
+{"k": "SPECIAL_SLOT_MULTIPHASIC_SENSORS", "l": "simp_chinese", "t": 1711095490, "v0": "Multiphasic Sensors", "v1": "多相传感器"}
+{"k": "SPECIAL_SLOT_MULTIPHASIC_SENSORS_DESC", "l": "simp_chinese", "t": 1711095512, "v0": "These advanced sensors increase sensor range using multiphase generators, updating and adding to our map of the galaxy by conducting preliminary scans of wide swathes of space from afar.", "v1": "这些先进的传感器使用多相发生器增加传感器范围，通过从远处对大片空间进行初步扫描来更新和添加我们的银河系地图。"}
+{"k": "SPECIAL_SLOT_NAVIGATIONAL_ARRAY", "l": "simp_chinese", "t": 1711095520, "v0": "Navigational Array", "v1": "导航阵列"}
+{"k": "SPECIAL_SLOT_NAVIGATIONAL_ARRAY_DESC", "l": "simp_chinese", "t": 1711095552, "v0": "This advanced 3D navigational system serves two functions: First, increasing the ability of the ship's weapons to track enemy vessels in combat, and second, to increase the range of the ship's Jump Drives, if such drives are equipped.", "v1": "这种先进的 3D 导航系统有两个功能：第一，提高舰船武器在战斗中跟踪敌方舰船的能力；第二，增加舰船跃迁驱动器的范围（如果配备了跃迁驱动器）。"}
+{"k": "SPECIAL_SLOT_QUANTUM_THRUSTERS", "l": "simp_chinese", "t": 1711095559, "v0": "Quantum Thrusters", "v1": "量子推进器"}
+{"k": "SPECIAL_SLOT_QUANTUM_THRUSTERS_DESC", "l": "simp_chinese", "t": 1711095620, "v0": "Even the most powerful fleets are useless if they are not where they need to be, when they need to be there. While very expensive to maintain, and causing increased wear and tear on the ship as a whole, these Quantum Thrusters will provide a significant boost to sublight speed, allowing our fleets to travel faster to respond to any situations that may arise.", "v1": "即使是最强大的舰队，如果没有及时出现在需要它们的地方，也是毫无用处的。虽然维护成本非常昂贵，并且会增加整个舰船的磨损，但这些量子推进器将显着提高亚光速，使我们的舰队能够更快地行驶，以应对可能出现的任何情况。"}
+{"k": "SPECIAL_SLOT_READY_ROOM", "l": "simp_chinese", "t": 1711095710, "v0": "Captain's Ready Room", "v1": "舰长准备室"}
+{"k": "SPECIAL_SLOT_READY_ROOM_DESC", "l": "simp_chinese", "t": 1711095702, "v0": "Commanding a warship is a heavy burden, and even the most able Captains are likely to feel the strain. Setting aside a private space for the Captain of the vessel to relax, while still being available in case of emergencies, will improve the Captain's mental health, and improve their ability to command the vessel when the time comes to engage in combat.", "v1": "指挥一艘战舰是一个沉重的负担，即使是最有能力的舰长也可能会感到压力。为舰长留出一个在紧急情况下仍可使用的私人放松空间，将显著改善舰长的心理健康，并提高他们在战斗时指挥舰队的能力。"}
+{"k": "SPECIAL_SLOT_STELLAR_CARTOGRAPHY", "l": "simp_chinese", "t": 1711095731, "v0": "Stellar Cartography", "v1": "星际制图"}
+{"k": "SPECIAL_SLOT_STELLAR_CARTOGRAPHY_DESC", "l": "simp_chinese", "t": 1711095766, "v0": "This large system is used for mapping the surrounding space, allowing the ship's computers to calculate and recover from FTL jumps with increased speed.", "v1": "这个大型系统用于绘制周围空间的地图，使舰上的计算机能够以更快的速度计算超光速跃迁参数并快速的从中恢复。"}
+{"k": "SPECIAL_SLOT_STRIKE_CRAFT", "l": "simp_chinese", "t": 1711095776, "v0": "Carrier Command & Control Network", "v1": "母舰指挥与控制网络"}
+{"k": "SPECIAL_SLOT_STRIKE_CRAFT_DESC", "l": "simp_chinese", "t": 1711095789, "v0": "An advanced network of radar and communication arrays that facilitate the command and control of large numbers of Strike Craft, increasing their effectiveness.", "v1": "先进的雷达和通信阵列网络，有助于指挥和控制大量攻击机，提高其效率。"}
+{"k": "SPECIAL_SLOT_STRUCTURAL_INTEGRITY", "l": "simp_chinese", "t": 1711095870, "v0": "Structural Integrity Field", "v1": "结构完整力场"}
+{"k": "SPECIAL_SLOT_STRUCTURAL_INTEGRITY_DESC", "l": "simp_chinese", "t": 1711095861, "v0": "This advanced system of forcefields strengthens the ship's hull structure from within, helping the vessel resist enemy fire for longer periods before failing.", "v1": "这种先进的力场系统从内部强化了舰船的船体结构，帮助舰船在被击毁前可以更长时间地抵抗敌人的火力。"}
+{"k": "STARBASE_AURA_SHIP_AMPLIFIER", "l": "simp_chinese", "t": 1711095881, "v0": "Ship Amplifier", "v1": "舰船放大器"}
+{"k": "STARBASE_AURA_SHIP_DISRUPTOR", "l": "simp_chinese", "t": 1711095892, "v0": "Ship Disruptor", "v1": "舰船干扰器"}
 {"k": "STARBASE_PRIMARY_REACTOR", "l": "simp_chinese", "t": 1710928827, "v0": "Starbase Primary Reactor", "v1": "星际基地核心反应堆"}
 {"k": "STATION_ANTIMATTER_REACTOR", "l": "simp_chinese", "t": 1710928645, "v0": "Anti-Matter Reactor", "v1": "反物质反应堆"}
 {"k": "STATION_COLD_FUSION_REACTOR", "l": "simp_chinese", "t": 1710928664, "v0": "Cold Fusion Reactor", "v1": "冷核聚变反应堆"}
@@ -429,6 +559,8 @@
 {"k": "STATION_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928319, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
 {"k": "STATION_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927960, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
 {"k": "STATION_ZERO_POINT_REACTOR", "l": "simp_chinese", "t": 1710928731, "v0": "Zero-Point Reactor", "v1": "零点能反应堆"}
+{"k": "STRIKECRAFT_JUGGERNAUT_SECTION", "l": "simp_chinese", "t": 1711095905, "v0": "Strike Craft Juggernaut", "v1": "攻击机主宰"}
+{"k": "STRIKECRUISER", "l": "simp_chinese", "t": 1711095911, "v0": "Strike Cruiser", "v1": "攻击巡洋舰"}
 {"k": "STRIKECRUISERSHIP_THRUSTER_2_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_2_DESC$", "v1": ""}
 {"k": "STRIKECRUISER_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ANTIMATTER_REACTOR$", "v1": ""}
 {"k": "STRIKECRUISER_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$CLOAKING_3_DESC$", "v1": ""}
@@ -453,18 +585,96 @@
 {"k": "STRIKECRUISER_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927962, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
 {"k": "STRIKECRUISER_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ZERO_POINT_REACTOR$", "v1": ""}
 {"k": "STRIKECRUISE_SHIP_THRUSTER_1_DESC", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$SHIP_THRUSTER_1_DESC$", "v1": ""}
+{"k": "SUPPORTSHIP", "l": "simp_chinese", "t": 1711095924, "v0": "Fleet Support Ship", "v1": "舰队支援舰"}
+{"k": "StrikeCruiser", "l": "simp_chinese", "t": 1711095929, "v0": "Strike Cruiser", "v1": "攻击巡洋舰"}
+{"k": "StrikeCruiser_plural", "l": "simp_chinese", "t": 1711095932, "v0": "Strike Cruisers", "v1": "攻击巡洋舰"}
+{"k": "TBA", "l": "simp_chinese", "t": 1711095944, "v0": "\n§g(- Description To Be Added -)§!\n", "v1": "§g(- 待完成 -)§!"}
+{"k": "TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711104187, "v0": "§HAI Combat System§!\nThis extremely advanced computer system can intelligently run all combat systems on a ship without taking over the helm, allowing for complete movement control during combat. Available for Carriers, Fleet Support Ships, and the Flagship.", "v1": "§H人工智能战斗系统§!\n这种极其先进的计算机系统可以在不接管导航系统的情况下智能地指挥舰船上的所有作战系统，从而实现玩家在战斗中自由移动舰船。在母舰、支援舰以及旗舰上可用。"}
+{"k": "TECH_UNLOCK_AICOMPUTER_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711104212, "v0": "§HUnlocks Combat Computer:§! Artificial Intelligence Combat System", "v1": "§H解锁战斗计算机:§! 人工智能战斗系统"}
+{"k": "TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711104472, "v0": "§HBattlecruiser§!\nAs larger and larger vessels become more common, combat is taking place at longer ranges, and offensive firepower is becoming an ever-more-decisive factor in battle. Our naval theorists suggest building a long, powerful vessel capable of mounting large, medium, and most notably, guided weapon emplacements, to specialize in hurling as much weaponry at the enemy as possible, in either mid- or long-range combat.", "v1": "§H战列巡洋舰§!\n随着舰船的规模不断的变大，射程原来越远的武器大大的提升了战场范围，进攻性火力正在成为战斗的决定性因素。我们的海军理论家建议建造一艘更强大的舰船，能够安装大型、中型以及最引人注目的制导武器炮台，以便在中远程战斗中向敌人输出强大的火力。"}
+{"k": "TECH_UNLOCK_BATTLECRUISER_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711104516, "v0": "§HUnlocks Ship Type:§! Battlecruiser", "v1": "§H解锁舰船:§! 战列巡洋舰\n"}
+{"k": "TECH_UNLOCK_BH_POWER_DESC", "l": "simp_chinese", "s": true, "t": 1711104524, "v0": "§H$FLAGSHIP_BLACK_HOLE_REACTOR_1$§!\n$FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC$", "v1": ""}
+{"k": "TECH_UNLOCK_BH_POWER_TITLE", "l": "simp_chinese", "t": 1711104544, "v0": "§HUnlocks Component:§! $FLAGSHIP_BLACK_HOLE_REACTOR_1$", "v1": "§H解锁组间：§! $FLAGSHIP_BLACK_HOLE_REACTOR_1$"}
+{"k": "TECH_UNLOCK_CARRIER_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711104604, "v0": "§HCarrier§!\nStrike Craft have proven to be highly successful weapons in naval combat. It is time to design a specialized warship for the express purpose of carrying these weapons into battle, and housing the large support staff and maintenance bays that they require. Doing so will allow these new Carrier vessels to carry far more strike craft than their more improvised predecessors.", "v1": "§H母舰§!\n事实证明，攻击机是太空战斗中非常成功的武器。现在是时候设计一艘专门的军舰了，其明确目的是携带这些武器投入战斗，并容纳所需的大量支持人员和维护舱。"}
+{"k": "TECH_UNLOCK_CARRIER_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711104623, "v0": "§HUnlocks Ship Type:§! Carrier", "v1": "§H解锁舰船：§! 母舰"}
+{"k": "TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711107077, "v0": "§HAdvanced Cruise Missiles§!\nWith the advent of Battlecruisers, which are designed to be capable of fielding large numbers of missile launchers, and the development of combat at longer and longer ranges, as well as the appearance of massive capital ships and defensive installations, there is a clear need for larger, more powerful missiles capable of taking on these new threats, and being launched from our Battlecruisers. These Advanced Cruise Missiles are the answer to this emerging need.", "v1": "§H先进巡航导弹§!\n战列巡洋舰的设计目的之一是能够部署大量导弹发射器，为了应对越来越远的长距离作战，以及大型主力舰和防御设施的出现，战列巡洋舰需要能够应对这些新威胁的更大、更强的导弹，这些先进巡航导弹可以满足这一新兴需求。"}
+{"k": "TECH_UNLOCK_CRUISEMISSILE_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711107106, "v0": "§HUnlocks Weapon:§! Tomahawk Advanced Cruise Missile\n§HUnlocks Weapon:§! Harpoon Advanced Cruise Missile", "v1": "§H解锁武器:§! 战斧先进巡航导弹\n§H解锁武器:§! 鱼叉先进巡航导弹"}
+{"k": "TECH_UNLOCK_DEFENSEFORTRESS_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711107158, "v0": "§HStarbase Defense Fortress§!\nAs fleets grow larger and more powerful, it becomes necessary for our defensive installations to grow in strength, as well. These expanded Fortress-level defensive installations, an upgrade to the Defense Stations currently in use, will allow us to better defend our territory from enemy attack.", "v1": "§H星际防御要塞§!\n随着舰队规模变得越来越强大，我们的防御设施也有必要增强实力。这些扩大的要塞级防御设施是对目前在役的防御站的升级，将使我们能够更好地保卫我们的领土免受敌人的攻击。"}
+{"k": "TECH_UNLOCK_DEFENSEFORTRESS_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711107181, "v0": "§HUnlocks Station:§! Starbase Defense Fortress", "v1": "§H解锁空间站:§! 星际防御要塞"}
+{"k": "TECH_UNLOCK_DEFENSESTATION_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711107218, "v0": "§HStarbase Defense Station§!\nAs fleets grow larger and more powerful, it becomes necessary for our defensive installations to grow in strength, as well. These expanded Defense Stations, an upgrade to the basic Defense Platforms we currently use, will allow us to better defend our territory from enemy attack.", "v1": "§H星际防御基地§!\n随着舰队变得越来越强大，我们的防御设施也有必要增强实力。这些扩展的防御站是我们目前使用的基本防御平台的升级，将使我们能够更好地保卫我们的领土免受敌人的攻击。"}
+{"k": "TECH_UNLOCK_DEFENSESTATION_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711107234, "v0": "§HUnlocks Station:§! Starbase Defense Station", "v1": " §H解锁空间站：§! 星际防御基地"}
+{"k": "TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711107355, "v0": "§HDreadnought§!\nThe Battleship heralded a new era of ship design and naval combat. The ability to both deliver and take massive damage at long range, and the advent of devastating XL weaponry, have completely changed the nature of warfare. Our naval engineers believe that we should develop an even better version of these powerful ships. Their proposed \"Dreadnoughts\" would be capable of mounting heavier defenses, more guns, and even two of the incredible XL weapons that have been so successful on the battlefield.", "v1": "§H无畏舰§!\n战列舰的出现预示着舰船设计和太空战斗的新时代。这些在远距离上造成巨大伤害的能力，以及毁灭性的 XL 武器的出现，彻底改变了战争的性质。我们的太空工程师认为，我们应该开发这些强大舰船的升级版本。他们提出的“无畏舰”将能够安装更重的防御、更多的火炮，甚至还有两种在战场上非常成功的令人难以置信的XL武器。"}
+{"k": "TECH_UNLOCK_DREADNOUGHT_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711107371, "v0": "§HUnlocks Ship Type:§! Dreadnought", "v1": "§H解锁舰船：§! 无畏舰"}
+{"k": "TECH_UNLOCK_DRYDOCK_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711107649, "v0": "§HDrydock§!\nThis specially-designed facility makes use of advanced technology to maintain atmospheric pressures within the Shipyards, allowing workers to more easily build, maintain, upgrade, and repair many warships at once.", "v1": "§H封闭式船坞§!\n这个专门设计的设施利用先进技术来维持造船厂内的大气压力，使工人能够更轻松地同时建造、维护、升级和修理许多军舰。"}
+{"k": "TECH_UNLOCK_DRYDOCK_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711107654, "v0": "§HUnlocks Starbase Building:§! Drydock", "v1": "§H解锁空间站建筑：§! 封闭式船坞"}
+{"k": "TECH_UNLOCK_ESCORTCARRIER_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711107844, "v0": "§HEscort Carrier§!\nThe Destroyer class can be repurposed as a dedicated light Strike Craft platform, allowing our fleets to bring much needed firepower to the front lines.", "v1": "§H护航母舰§!\n驱逐舰级可以重新用作专用的轻型攻击机平台，使我们的舰队能够为前线带来急需的火力。"}
+{"k": "TECH_UNLOCK_ESCORTCARRIER_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711107859, "v0": "§HUnlocks Ship Upgrade:§! Light Carrier", "v1": "§H解锁舰船升级：§! 轻型母舰"}
+{"k": "TECH_UNLOCK_EXPLORATIONSHIP2_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711108010, "v0": "§HExplorer - Level 2§!\nOur intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers, pleased with the performance of the Explorer, suggest developing a more powerful variant to further increase the protection available to our best and brightest Science Officers.", "v1": "§H探索者 II2§!\n我们勇敢的科学官员在探索银河系并揭开它所提供的所有秘密的过程中面临着难以置信的危险。我们的太空工程师对探索者的性能感到满意，建议开发一种更强大的变体，以进一步增强对我们最优秀、最聪明的科学官员的保护。"}
+{"k": "TECH_UNLOCK_EXPLORATIONSHIP2_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711108031, "v0": "§HUnlocks Ship Upgrade:§! Explorer - Level 2", "v1": "§H解锁舰船升级：§! 探索者 II"}
+{"k": "TECH_UNLOCK_EXPLORATIONSHIP3_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711108062, "v0": "§HExplorer - Level 3§!\nOur intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers, pleased with the performance of the Explorer's upgraded form, suggest developing an even more powerful variant to further increase the protection available to our best and brightest Science Officers.", "v1": "§H探索者 III§!\n我们勇敢的科学官员在探索银河系并揭开它所提供的所有秘密的过程中面临着难以置信的危险。我们的太空工程师对探索者升级版的性能感到满意，建议开发一种更强大的变体，以进一步增强对我们最优秀、最聪明的科学官员的保护。"}
+{"k": "TECH_UNLOCK_EXPLORATIONSHIP3_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711108080, "v0": "§HUnlocks Ship Upgrade:§! Explorer - Level 3", "v1": "§H解锁舰船升级：§! 探索者 III\n"}
+{"k": "TECH_UNLOCK_EXPLORATIONSHIP4_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711108109, "v0": "§HExplorer - Level 4§!\nOur intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers, pleased with the performance of the Explorer's upgraded form, suggest developing an even more powerful variant to further increase the protection available to our best and brightest Science Officers.", "v1": "§H探索者 IV§!\n我们勇敢的科学官员在探索银河系并揭开它所提供的所有秘密的过程中面临着难以置信的危险。我们的太空工程师对探索者升级版的性能感到满意，建议开发一种更强大的变体，以进一步增强对我们最优秀、最聪明的科学官员的保护。\n"}
+{"k": "TECH_UNLOCK_EXPLORATIONSHIP4_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711108122, "v0": "§HUnlocks Ship Upgrade:§! Explorer - Level 4", "v1": "§H解锁舰船升级：§! 探索者 IV"}
+{"k": "TECH_UNLOCK_EXPLORATIONSHIP_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711108148, "v0": "§HExplorer§!\nOur intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers suggest the development of a large, combat-capable Science Ship dedicated to exploring new worlds, seeking out new life and new civilizations, and boldly going where no one has gone before.", "v1": "§H探索者§!\n我们勇敢的科学官员在探索银河系并揭开它所提供的所有秘密的过程中面临着难以置信的危险。我们的太空工程师建议开发一艘具有战斗能力的大型科学船，致力于探索新世界、寻找新生命和新文明，并大胆前往前人未曾去过的地方。"}
+{"k": "TECH_UNLOCK_EXPLORATIONSHIP_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711108157, "v0": "§HUnlocks Ship Type:§! Explorer", "v1": "§H解锁舰船：§! 探索者"}
+{"k": "TECH_UNLOCK_FLAGSHIP_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711108173, "v0": "§HUnlocks Ship Type:§! Flagship", "v1": "§H解锁舰船：§! 旗舰"}
+{"k": "TECH_UNLOCK_GALACTIC_MALL_DESC", "l": "simp_chinese", "t": 1711108186, "v0": "The galaxy's largest consumer mall and shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping trip for the galaxy's most dedicated shopaholics.", "v1": "银河系最大的消费商场和购物中心，能够生产大量消费品，为银河系最专注的购物狂提供终极购物之旅。"}
+{"k": "TECH_UNLOCK_GALACTIC_MALL_TITLE", "l": "simp_chinese", "t": 1711108229, "v0": "§HUnlocks Megastructure:§! Galactic Mall", "v1": "§H解锁巨构：§! 星际购物中心"}
+{"k": "TECH_UNLOCK_GRAVITON_POWER_DESC", "l": "simp_chinese", "s": true, "t": 1711108235, "v0": "§H$GRAVITON_REACTOR$§!\n$GRAVITON_REACTOR_DESC$", "v1": ""}
+{"k": "TECH_UNLOCK_GRAVITON_POWER_TITLE", "l": "simp_chinese", "t": 1711108246, "v0": "§HUnlocks Component:§! $GRAVITON_REACTOR$", "v1": "§H解锁组件：§! $GRAVITON_REACTOR$"}
+{"k": "TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711108347, "v0": "§HSolar Stronghold§!\nThe final upgrade in the starbase chain, the Solar Stronghold is the ultimate command and defense station, the largest class of starbase that it is possible to build. Enemy fleets will break upon these massive bulwarks, and each one is a vital asset to our empire, defending the most critical locations on the galactic map.", "v1": "§H恒星要塞§!\n恒星要塞是星际基地的最终形态，是终极指挥和防御中心，是可以建造的最大级别的星际基地。敌方舰队将难以突破这些巨大的堡垒，每一座恒星要塞都是帝国的重要资产，保卫着银河地图上最关键的位置。"}
+{"k": "TECH_UNLOCK_HEADQUARTERS_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711108366, "v0": "§HUnlocks Starbase Upgrade:§! Solar Stronghold", "v1": "§H解锁星际基地升级：§! 恒星要塞"}
+{"k": "TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711108447, "v0": "§HHeavy Carrier§!\nAs our ship building capabilities continue to increase, we continue to look for new ways to advance our current ship class layouts. Combined with new advancements in miniaturizing many of the support facilities required for the maintenance of strike craft, we believe that we can alter our existing Carrier designs into Heavy Carriers, with the ability to support more hangar bays.", "v1": "§H重型母舰§!\n随着我们的造船能力不断增强，我们不断寻找新的方法来改进我们当前的舰船结构。结合维护攻击机所需的许多支持设施小型化方面的新进展，我们相信我们可以将现有的母舰设计改为重型母舰，并能够支持更多的机库。"}
+{"k": "TECH_UNLOCK_HEAVYCARRIER_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711108462, "v0": "§HUnlocks Section Type:§! Heavy Carrier", "v1": "§H解锁舰船：§! 重型母舰"}
+{"k": "TECH_UNLOCK_HOPSITAL_TITLE", "l": "simp_chinese", "t": 1711108500, "v0": "§HUnlocks Megastructure:§! Galactic General Hospital", "v1": "§H解锁巨构：§! 银河中心医院"}
+{"k": "TECH_UNLOCK_HOSPITAL_DESC", "l": "simp_chinese", "t": 1711108513, "v0": "An utterly gargantuan, state-of-the-art space-borne hospital, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一座极其庞大、最先进的太空医院，致力于研究银河系中的各种异形种族，并分析和治疗困扰他们的所有疾病和状况。"}
+{"k": "TECH_UNLOCK_HYPERLANE_GENERATION_DESC", "l": "simp_chinese", "t": 1711109515, "v0": "§HHyperlane Generation§!\nAllows the creation and removal of hyperlanes.", "v1": "§H超空间航道生成§!\n允许生成或删除超空间航道"}
+{"k": "TECH_UNLOCK_HYPERLANE_GENERATION_TITLE", "l": "simp_chinese", "t": 1711109535, "v0": "§HUnlocks Feature:§! Hyperlane Generation", "v1": "§H解锁特性：§! 超空间航路生成"}
+{"k": "TECH_UNLOCK_MINING_BASE_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711109984, "v0": "§HMining Base§!\nSystem wide mineral processing hub that enhances mineral production for the entire system.", "v1": "§H采矿站§!\n星系范围内的矿物加工中心，可提高整个系统的矿物产量。"}
+{"k": "TECH_UNLOCK_MINING_BASE_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711110006, "v0": "§HUnlocks Starbase Building:§! System Mineral Refinery", "v1": "§H解锁恒星基地建筑：§! 星系矿物精炼厂"}
+{"k": "TECH_UNLOCK_MULTIDIMENSIONAL_POWER_DESC", "l": "simp_chinese", "s": true, "t": 1711110035, "v0": "§H$MULTIDIMENSIONAL_REACTOR$§!\n$MULTIDIMENSIONAL_REACTOR_DESC$", "v1": ""}
+{"k": "TECH_UNLOCK_MULTIDIMENSIONAL_POWER_TITLE", "l": "simp_chinese", "t": 1711110051, "v0": "§HUnlocks Component:§! $MULTIDIMENSIONAL_REACTOR$", "v1": "§H解锁组件：§! $MULTIDIMENSIONAL_REACTOR$"}
+{"k": "TECH_UNLOCK_NAQUADRIA_POWER_DESC", "l": "simp_chinese", "s": true, "t": 1711110186, "v0": "§H$NAQUADRIA_REACTOR$§!\n$NAQUADRIA_REACTOR_DESC$", "v1": ""}
+{"k": "TECH_UNLOCK_NAQUADRIA_POWER_TITLE", "l": "simp_chinese", "t": 1711110231, "v0": "§HUnlocks Component:§! $NAQUADRIA_REACTOR$", "v1": "§H解锁组件：§! $NAQUADRIA_REACTOR$"}
+{"k": "TECH_UNLOCK_NSC_DLC_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711110244, "v0": "This is an automatic starting tech to check for the Apocalypse DLC.", "v1": "这是一项自动启动技术，用于检查 Apocalypse DLC。"}
+{"k": "TECH_UNLOCK_NSC_DLC_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711110251, "v0": "This is an automatic starting tech to check for the Apocalypse DLC.", "v1": "这是一项自动启动技术，用于检查 Apocalypse DLC。"}
+{"k": "TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_DESC", "l": "simp_chinese", "s": true, "t": 1711110255, "v0": "§H$OPTIMIZED_ENIGMATIC_REACTOR$§!\n$OPTIMIZED_ENIGMATIC_REACTOR_DESC$", "v1": ""}
+{"k": "TECH_UNLOCK_OPTIMIZED_ENIGMATIC_POWER_TITLE", "l": "simp_chinese", "t": 1711110268, "v0": "§HUnlocks Component:§! $OPTIMIZED_ENIGMATIC_REACTOR$", "v1": "§H解锁组件：§! $OPTIMIZED_ENIGMATIC_REACTOR$"}
+{"k": "TECH_UNLOCK_PD_FRIGATE_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711110336, "v0": "§HPD Frigate§!\nMissiles, torpedoes, and strike craft all pose a grave threat to our fleets. Our naval engineers suggest re-designing our Frigates to mount an array of numerous point-defense weapons to shoot down these targets before they can reach our ships.", "v1": "§H点防护卫舰§!\n导弹、鱼雷和攻击机都对我们的舰队构成严重威胁。我们的太空工程师建议重新设计护卫舰，安装一系列点防御武器，以便在这些武器击中我们的舰船之前将其击落。"}
+{"k": "TECH_UNLOCK_SINGULARITY_POWER_DESC", "l": "simp_chinese", "s": true, "t": 1711110386, "v0": "§H$SINGULARITY_REACTOR$§!\n$SINGULARITY_REACTOR_DESC$", "v1": ""}
+{"k": "TECH_UNLOCK_SINGULARITY_POWER_TITLE", "l": "simp_chinese", "t": 1711110395, "v0": "§HUnlocks Component:§! $SINGULARITY_REACTOR$", "v1": "§H解锁组件：§! $SINGULARITY_REACTOR$"}
+{"k": "TECH_UNLOCK_SPECIALCOMPONENTS_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711110449, "v0": "§HAdvanced Warship Components§!\nOur scientists have come up with a wide range of powerful new modules allowing for the enhancement and further specialization of our warships. Now we only have to miniaturize them, to make them small enough to carry aboard our vessels.", "v1": "§H先进战舰部件§!\n我们的科学家提出了各种强大的新模块，可以强化我们的战舰并使其能力进一步增强。现在我们只需要将它们小型化，使其小到足以携带在我们的船上。"}
+{"k": "TECH_UNLOCK_SPECIALCOMPONENTS_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711110470, "v0": "§HUnlocks Component Set:§! Advanced Warship Components", "v1": "§H解锁部件：§! 先进战舰部件"}
 {"k": "TECH_UNLOCK_SPITFIRE_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1710865966, "v0": "While capital ships are far more powerful than any vessels that have come before them, they are also far more expensive, and pose juicy targets for swarms of smaller, cheaper vessels that can overwhelm the capital ships with sheer numbers. To counter this, our engineers are working on a few blueprints that could adapt the Battleship into an anti-Corvette-and-Destroyer powerhouse, along with weapons specifically designed for that purpose. These new designs will cause these 'Spitfire Battleships' to have an even higher production cost, but such sacrifices are worth it, if it means protecting our vulnerable capital ships.", "v1": "虽然主力舰比之前的任何舰船都强大得多，但它们也昂贵得多，并且是大量较小、更便宜的舰船的首要目标 —— 这些舰船可以以绝对的数量优势来消灭主力舰。为了解决这个问题，我们的工程师正在研究一些新的设计蓝图，将战列舰改造成反护卫舰和驱逐舰的平台，并专门为此目的设计武器。这些新设计将导致这种“集火战列舰”的生产成本更高，但如果这项改进可以有效保护我们脆弱的主力舰，那么高昂的成本就是值得的。"}
 {"k": "TECH_UNLOCK_SPITFIRE_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1710865948, "v0": "§HSpitfire Battleship Upgrade§!", "v1": "§HSpitfire Battleship Upgrade§!"}
+{"k": "TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_DESC", "l": "simp_chinese", "t": 1711110765, "v0": "§HStrike Cruiser§!\nBattle experience and extensive wargaming exercises show that fleet combat often ends without a decisive outcome, because the losing side makes an immediate, emergency jump to FTL. Our best scientists have miniaturized the Subspace Snare used on starbases for deployment onto a ship. These vessels will be blisteringly fast, to catch enemy fleets in their Snares, maneuverable enough to keep enemy ships from disengaging from combat, and tough enough to withstand significant punishment to ensure the enemy is pinned down for as long as possible.", "v1": "§H攻击巡洋舰§!\n基于战场上的战斗经验以及兵棋推演的结果，舰队战斗常常在没有得出胜负的情况下结束，因为劣势的一方会立即通过紧急超光速模式撤退。我们最优秀的科学家已经将星际基地使用的子空间陷阱小型化并部署到了船上。这些舰艇的速度将快得惊人，可以在陷阱中捕获敌方舰队，机动性足以防止敌方舰艇脱离战斗，并且足够坚固以承受大量伤害，确保敌人尽可能长时间地被牵制。\n"}
+{"k": "TECH_UNLOCK_STRIKECRUISER_CONSTRUCTION_TITLE", "l": "simp_chinese", "t": 1711110780, "v0": "§HUnlocks Section Type:§! Strike Cruiser", "v1": "§HUnlocks Section Type:§! 攻击巡洋舰"}
+{"k": "TITAN_BOW_T3X3", "l": "simp_chinese", "t": 1711110808, "v0": "Devastator Bow", "v1": "毁灭舰艏"}
+{"k": "TITAN_BOW_T4", "l": "simp_chinese", "t": 1711110814, "v0": "Nova Bow", "v1": "新星舰艏"}
+{"k": "TITAN_BOW_X8", "l": "simp_chinese", "t": 1711110825, "v0": "Annihilator Bow", "v1": "歼灭舰艏"}
 {"k": "TITAN_GRAVITON_REACTOR", "l": "simp_chinese", "t": 1710928022, "v0": "Graviton Reactor", "v1": "引力子反应堆"}
+{"k": "TITAN_MID_G12", "l": "simp_chinese", "t": 1711110832, "v0": "Torpedo Core", "v1": "鱼雷舰艏"}
+{"k": "TITAN_MID_L7", "l": "simp_chinese", "t": 1711110835, "v0": "Artillery Core", "v1": "巨炮舰艏"}
+{"k": "TITAN_MID_M16", "l": "simp_chinese", "t": 1711110838, "v0": "Broadside Core", "v1": "平台舰艏"}
 {"k": "TITAN_MULTIDIMENSIONAL_REACTOR", "l": "simp_chinese", "t": 1710928151, "v0": "Multidimensional Reactor", "v1": "超维反应堆"}
 {"k": "TITAN_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928272, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
 {"k": "TITAN_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928323, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆"}
 {"k": "TITAN_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927964, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
+{"k": "TITAN_STERN_P8L6", "l": "simp_chinese", "t": 1711110841, "v0": "Artillery Stern", "v1": "巨炮舰艉"}
+{"k": "TITAN_STERN_P8M12", "l": "simp_chinese", "t": 1711110846, "v0": "Broadside Stern", "v1": "平台舰艉"}
+{"k": "TOMAHAWK_CRUISE_MISSILE", "l": "simp_chinese", "t": 1711110862, "v0": "Tomahawk Advanced Cruise Missile", "v1": "先进战斧巡航导弹"}
+{"k": "TOMAHAWK_CRUISE_MISSILE_DESC", "l": "simp_chinese", "t": 1711110896, "v0": "An extremely expensive anti-capital ship missile with a very long range and high damage. Very useful for defense stations or long range artillery ships.", "v1": "极其昂贵的反主力舰导弹，射程极远，伤害极高。攻击防御站或远程攻击舰非常有用。"}
+{"k": "T_CANNON_CORE", "l": "simp_chinese", "t": 1711110903, "v0": "Obliterator Cannon Core", "v1": "湮灭者核心"}
+{"k": "XL_BEAM_STARBASE", "l": "simp_chinese", "t": 1711110911, "v0": "Polarized Electron Modulator", "v1": "偏振电子调制器"}
+{"k": "XL_CANNON_CORE", "l": "simp_chinese", "t": 1711110932, "v0": "Annihilator Cannon Core", "v1": "歼灭者核心"}
+{"k": "adaptive_protocol", "l": "simp_chinese", "t": 1711110939, "v0": "Adaptive Protocol", "v1": "自适应协议"}
+{"k": "adaptive_protocol_name", "l": "simp_chinese", "t": 1711110960, "v0": "Adaptive Protocol", "v1": "自适应协议"}
 {"k": "ai_behaviour", "l": "simp_chinese", "t": 1710575600, "v0": "AI Tactic", "v1": "智能战术"}
 {"k": "ai_behaviour_DESC", "l": "simp_chinese", "t": 1710575595, "v0": "AI Tactic slot.", "v1": "智能战术槽位"}
 {"k": "ai_behaviour_charge", "l": "simp_chinese", "t": 1710575628, "v0": "Charge Tactic", "v1": "冲锋"}
 {"k": "ai_behaviour_charge_DESC", "l": "simp_chinese", "t": 1710575648, "v0": "Ships will try to close the distance to the enemy fleet as directly as possible and engage in point blank range.", "v1": "舰艇将尝试尽可能直接地拉近与敌方舰队的距离并进行近距离交战。"}
 {"k": "ai_behaviour_default", "l": "simp_chinese", "t": 1710575654, "v0": "Default Behavior", "v1": "默认"}
+{"k": "ai_behaviour_default_DESC", "l": "simp_chinese", "t": 1711111101, "v0": "Uses the tactical behaviour set in the original computer. For use with the vanilla combat computers.\n\n§GHow To Use:§! §BChoose this computer if you would like to use a vanilla behavior in the slot above and NOT use an Advanced Tactic. If you want to use an Advanced Tactic for this ship class, choose a vanilla computer in the slot above first, and then choose a Tactic for this slot.§!\n\n", "v1": "使用原计算机中设置的战术行为，与原版战斗计算机一起使用。\n§G使用方法：§! §B如果您想在上一插槽中使用普通战术而不是使用高级战术，请选择此计算机设置。如果您想为该舰种使用高级战术，请先在上一槽位中选择普通计算机，然后为该槽位选择一种战术。§!"}
 {"k": "ai_behaviour_flank_100", "l": "simp_chinese", "t": 1710575705, "v0": "Flanking Tactic (100)", "v1": "环绕（100）"}
 {"k": "ai_behaviour_flank_100_DESC", "l": "simp_chinese", "t": 1710575786, "v0": "Ships will circle the enemy fleet at a set distance (100) while firing their weapons.", "v1": "舰船将以距离（100）环绕敌方舰队并开火。"}
 {"k": "ai_behaviour_flank_30", "l": "simp_chinese", "t": 1710575801, "v0": "Flanking Tactic (30)", "v1": "环绕（30）"}
@@ -504,6 +714,7 @@
 {"k": "ai_behaviour_stationary_90", "l": "simp_chinese", "t": 1710576309, "v0": "Artillery Tactic (Range: 90)", "v1": "炮击（90）"}
 {"k": "ai_behaviour_stationary_90_DESC", "l": "simp_chinese", "t": 1710576314, "v0": "Ships will move up to the shown distance (90) and then hold position while firing at the enemy.", "v1": "舰船将移动到距离（90）的位置，保持该位置并开火"}
 {"k": "ai_crew", "l": "simp_chinese", "t": 1710750768, "v0": "Artificial Intelligence Crews", "v1": "人工智能船员"}
+{"k": "ai_crew_name", "l": "simp_chinese", "t": 1711111120, "v0": "Artificial Intelligence Crews", "v1": "人工智能船员"}
 {"k": "can_not_start_another_nsc_flagship_building", "l": "simp_chinese", "t": 1710781721, "v0": "£trigger_no£ Cannot start another Flagship construction project.", "v1": "£trigger_no£ 无法启动另一个旗舰建设项目。"}
 {"k": "megastructures_nsc_flagship_shipyard", "l": "simp_chinese", "t": 1710841189, "v0": "Grand Shipyard", "v1": "星际船坞"}
 {"k": "mod_megastructures_nsc_flagship_shipyard_cost_mult", "l": "simp_chinese", "t": 1710841203, "v0": "Grand Shipyard Build Cost", "v1": "星际级船坞建造花费"}
