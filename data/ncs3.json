@@ -453,8 +453,8 @@
 {"k": "NSC_AI_COMBAT_COMPUTER", "l": "simp_chinese", "t": 1711091805, "v0": "Artificial Intelligence Combat System", "v1": "人工智能战斗系统"}
 {"k": "NSC_BB_SNIPER", "l": "simp_chinese", "t": 1711334398, "v0": "Electro-Magnetic Flux Cannon", "v1": "电磁通量加农炮"}
 {"k": "NSC_BB_SNIPER_2", "l": "simp_chinese", "t": 1711334422, "v0": "Atomic Photon Flux Cannon", "v1": "光子通量加农炮"}
-{"k": "NSC_BB_SNIPER_2_DESC", "l": "simp_chinese", "t": 1711334477, "v0": "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships.", "v1": "这些专门的高速炮塔专为与灵活的护卫舰交战而设计。它们在远距离上具有很高的精确度，但难以对大型舰船较厚的舰体造成伤害。"}
-{"k": "NSC_BB_SNIPER_DESC", "l": "simp_chinese", "t": 1711334709, "v0": "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships.", "v1": "这些专门的高速炮塔专为与灵活的护卫舰交战而设计。它们在远距离上具有很高的精确度，但难以对大型舰船较厚的舰体造成伤害。"}
+{"k": "NSC_BB_SNIPER_2_DESC", "l": "simp_chinese", "t": 1711334477, "v0": "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships.", "v1": "这些专门的高速炮塔专为与灵活的护卫舰交战而设计。它们在远距离上具有很高的精确度，但难以对大型舰船较厚的船体造成伤害。"}
+{"k": "NSC_BB_SNIPER_DESC", "l": "simp_chinese", "t": 1711334709, "v0": "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships.", "v1": "这些专门的高速炮塔专为与灵活的护卫舰交战而设计。它们在远距离上具有很高的精确度，但难以对大型舰船较厚的船体造成伤害。"}
 {"k": "NSC_BOMBARDMENT_1", "l": "simp_chinese", "t": 1711335470, "v0": "Improved Bombardment", "v1": "先进轰炸模块 I"}
 {"k": "NSC_BOMBARDMENT_1_DESC", "l": "simp_chinese", "t": 1711335471, "v0": "We can now equip our military ships with an improved weapons package that will increase the damage done when we bombard planets.", "v1": "我们现在可以为我们的军舰配备改进的武器，这将增加我们轰炸行星时造成的伤害。"}
 {"k": "NSC_BOMBARDMENT_2", "l": "simp_chinese", "t": 1711335487, "v0": "Enhanced Bombardment", "v1": "先进轰炸模块 II"}
@@ -482,7 +482,7 @@
 {"k": "NSC_SUPPORTSHIP_ARMOR_AURA", "l": "simp_chinese", "t": 1711093275, "v0": "Support Destroyer Aura - Armor", "v1": "毁灭者支援光环 - 护甲"}
 {"k": "NSC_SUPPORTSHIP_AURA_EMPTY", "l": "simp_chinese", "t": 1711093279, "v0": "Empty Slot", "v1": "空槽位"}
 {"k": "NSC_SUPPORTSHIP_FTL_AURA", "l": "simp_chinese", "t": 1711093292, "v0": "Support Destroyer Aura - FTL", "v1": "毁灭者支援光环 - 超光速"}
-{"k": "NSC_SUPPORTSHIP_HULL_AURA", "l": "simp_chinese", "t": 1711093302, "v0": "Support Destroyer Aura - Hull", "v1": "毁灭者支援光环 - 舰体"}
+{"k": "NSC_SUPPORTSHIP_HULL_AURA", "l": "simp_chinese", "t": 1711093302, "v0": "Support Destroyer Aura - Hull", "v1": "毁灭者支援光环 - 船体"}
 {"k": "NSC_SUPPORTSHIP_INVASION_AURA", "l": "simp_chinese", "t": 1711093315, "v0": "Support Destroyer Aura - Invasion", "v1": "毁灭者支援光环 - 入侵"}
 {"k": "NSC_SUPPORTSHIP_SHIELD_AURA", "l": "simp_chinese", "t": 1711093318, "v0": "Support Destroyer Aura - Shield", "v1": "毁灭者支援光环 - 护盾"}
 {"k": "NSC_SUPPORTSHIP_UPKEEP_AURA", "l": "simp_chinese", "t": 1711093325, "v0": "Support Destroyer Aura - Upkeep", "v1": "毁灭者支援光环 - 维护"}
@@ -546,7 +546,7 @@
 {"k": "SHIP_GRAPHICS_BATTLECRUISER_DESC", "l": "simp_chinese", "t": 1711093710, "v0": "A much larger and more advanced version of the Cruiser designed for front-line combat duties.", "v1": "更大更先进的巡洋舰，专为前线作战任务而设计。"}
 {"k": "SHIP_GRAPHICS_BATTLESHIP_DESC", "l": "simp_chinese", "t": 1711093728, "v0": "Battleships are expensive but powerful. With their great firing range, they excel at injuring an opponent before they can strike back.", "v1": "战列舰价格昂贵但威力强大。凭借其巨大的射程，他们擅长在对手反击之前对其造成伤害。"}
 {"k": "SHIP_GRAPHICS_BROWSER", "l": "simp_chinese", "t": 1711093736, "v0": "Select Ship Appearance", "v1": "选择舰船外观"}
-{"k": "SHIP_GRAPHICS_CARRIER_DESC", "l": "simp_chinese", "t": 1711093820, "v0": "Massive warships capable of carrying large numbers of Strike Craft. Due to the space needed for the hangars, these ships have little direct offensive capability must be protected by other combat vessels.", "v1": "能够搭载大量攻击机的大型战舰。由于机库占据了绝大部分舰体，这些舰船几乎没有直接进攻的能力，必须受到其他舰船的保护。"}
+{"k": "SHIP_GRAPHICS_CARRIER_DESC", "l": "simp_chinese", "t": 1711093820, "v0": "Massive warships capable of carrying large numbers of Strike Craft. Due to the space needed for the hangars, these ships have little direct offensive capability must be protected by other combat vessels.", "v1": "能够搭载大量攻击机的大型战舰。由于机库占据了绝大部分船体，这些舰船几乎没有直接进攻的能力，必须受到其他舰船的保护。"}
 {"k": "SHIP_GRAPHICS_COLONIZER_DESC", "l": "simp_chinese", "t": 1711093837, "v0": "Colony Ships carry settlers from settled planets to new ones for colonization. Being a civilian ship, they are unarmored, unarmed and vulnerable.", "v1": "殖民船将定居者从已定居的星球运送到新的星球进行殖民。作为一艘民用船只，它们没有装甲、没有武器并且很脆弱。"}
 {"k": "SHIP_GRAPHICS_COLOSSUS_DESC", "l": "simp_chinese", "t": 1711093879, "v0": "These immense ships are not equipped to fight hostile fleets, but their job is instead to neutralize entire worlds.", "v1": "这些巨大的舰船没有装备武器来对抗敌方舰队，但它们的任务是压制整个宇宙。"}
 {"k": "SHIP_GRAPHICS_CONSTRUCTOR_DESC", "l": "simp_chinese", "t": 1711093889, "v0": "Construction Ships are necessary for building any space station. Being a civilian ship, they are unarmored, unarmed and vulnerable.", "v1": "建造任何空间站都需要建造船。作为一艘民用船只，它们没有装甲、没有武器并且很脆弱。"}
@@ -799,7 +799,7 @@
 {"k": "ap_nsc_matterenergy", "l": "simp_chinese", "t": 1711342602, "v0": "Matter-Energy Manipulation", "v1": "质量-能量转换操纵"}
 {"k": "ap_nsc_matterenergy_desc", "l": "simp_chinese", "t": 1711342624, "v0": "Our scientists have discovered how to manipulate matter-energy patterns, allowing us to create the resources we need by converting other resources we already have.", "v1": "我们的科学家已经发现了如何操纵物质-能量的转换方法，使我们能够通过转换我们已有的其他资源来创造我们需要的资源。"}
 {"k": "armor_focus", "l": "simp_chinese", "t": 1711362808, "v0": "Armor Focus", "v1": "优化装甲防卫"}
-{"k": "armor_focus_desc", "l": "simp_chinese", "t": 1711362808, "v0": "Trust in the strength of our Armor. Thick and impenetrable, it surrounds our hulls in its protective embrace, and cannot be ignored by missiles or torpedoes.", "v1": "相信装甲的力量：厚重且坚不可摧的装甲紧密的贴合在舰体上，让导弹或鱼雷无法轻易的损伤舰体。"}
+{"k": "armor_focus_desc", "l": "simp_chinese", "t": 1711362808, "v0": "Trust in the strength of our Armor. Thick and impenetrable, it surrounds our hulls in its protective embrace, and cannot be ignored by missiles or torpedoes.", "v1": "相信装甲的力量：厚重且坚不可摧的装甲紧密的贴合在船体上，让导弹或鱼雷无法轻易的损伤船体。"}
 {"k": "armor_focus_name", "l": "simp_chinese", "t": 1711362812, "v0": "Armor Focus", "v1": "优化装甲防卫"}
 {"k": "aura_starbase_ship_amplifier", "l": "simp_chinese", "s": true, "t": 1711112238, "v0": "$defensive_aura$ - $STARBASE_AURA_SHIP_AMPLIFIER$", "v1": ""}
 {"k": "aura_starbase_ship_disruptor", "l": "simp_chinese", "s": true, "t": 1711112238, "v0": "$offensive_aura$ - $STARBASE_AURA_SHIP_DISRUPTOR$", "v1": ""}
@@ -813,7 +813,7 @@
 {"k": "blue_sky_desc", "l": "simp_chinese", "t": 1711362375, "v0": "Nothing is more important than the defense of our planets and our people. Our Navy exists purely to defend our nation, and we should plan to keep our campaigns limited to space we control, and fight primarily with our mighty Starbases in support of our fleets.", "v1": "没有什么比保卫我们的星球和人民更重要的了。我们太空军存在的意义是为了保卫我们的国家，我们应该计划将我们的战役限制在我们控制的星系内，并主要利用我们强大的星际基地来支持我们的舰队。"}
 {"k": "blue_sky_name", "l": "simp_chinese", "t": 1711362377, "v0": "Blue Sky Operations", "v1": "”蓝天“行动"}
 {"k": "brawler", "l": "simp_chinese", "t": 1711362798, "v0": "Brawler Focus", "v1": "优化动能武器"}
-{"k": "brawler_desc", "l": "simp_chinese", "t": 1711362799, "v0": "Kinetic weapons have a long and storied history. Our Kinetic weapons will tear through enemy shields and hulls and bring glory to our nation.", "v1": "动能武器有着悠久而传奇的历史。我们的动能武器将撕裂敌人的护盾和舰体，为我们的国家带来荣耀。"}
+{"k": "brawler_desc", "l": "simp_chinese", "t": 1711362799, "v0": "Kinetic weapons have a long and storied history. Our Kinetic weapons will tear through enemy shields and hulls and bring glory to our nation.", "v1": "动能武器有着悠久而传奇的历史。我们的动能武器将撕裂敌人的护盾和船体，为我们的国家带来荣耀。"}
 {"k": "brawler_name", "l": "simp_chinese", "t": 1711362802, "v0": "Brawler Focus", "v1": "优化动能武器"}
 {"k": "can_not_start_another_nsc_flagship_building", "l": "simp_chinese", "t": 1710781721, "v0": "£trigger_no£ Cannot start another Flagship construction project.", "v1": "£trigger_no£ 无法启动另一个旗舰建设项目。"}
 {"k": "capital_focus", "l": "simp_chinese", "t": 1711362827, "v0": "Capital Ship Focus", "v1": "优化主力舰"}
@@ -924,17 +924,76 @@
 {"k": "mod_shipsize_Carrier_upkeep_mult", "l": "simp_chinese", "t": 1711370057, "v0": "Carrier Upkeep", "v1": "母舰维护费用"}
 {"k": "mod_shipsize_Dreadnought_build_speed_mult", "l": "simp_chinese", "t": 1711370062, "v0": "Dreadnought Build Speed", "v1": "无畏舰建造速度"}
 {"k": "mod_shipsize_Dreadnought_hull_mult", "l": "simp_chinese", "t": 1711370074, "v0": "Dreadnought Hull Points", "v1": "无畏舰船体值"}
+{"k": "mod_shipsize_Dreadnought_upkeep_mult", "l": "simp_chinese", "t": 1711433746, "v0": "Dreadnought Upkeep", "v1": "无畏舰维护费用"}
 {"k": "mod_shipsize_Flagship_build_speed_mult", "l": "simp_chinese", "t": 1710781843, "v0": "Flagship Build Speed", "v1": "旗舰建造速度"}
 {"k": "mod_shipsize_Flagship_hull_mult", "l": "simp_chinese", "t": 1710781852, "v0": "Flagship Hull Points", "v1": "旗舰船体"}
 {"k": "mod_shipsize_Flagship_upkeep_mult", "l": "simp_chinese", "t": 1710781862, "v0": "Flagship Upkeep", "v1": "旗舰维护"}
+{"k": "mod_shipsize_StrikeCruiser_hull_mult", "l": "simp_chinese", "t": 1711433760, "v0": "StrikeCruiser Hull", "v1": "攻击巡洋舰船体值"}
+{"k": "mod_shipsize_escortcarrier_build_speed_mult", "l": "simp_chinese", "t": 1711433777, "v0": "Escort Carrier Build Speed", "v1": "护航母舰建造速度"}
+{"k": "mod_shipsize_escortcarrier_hull_mult", "l": "simp_chinese", "t": 1711433800, "v0": "Escort Carrier Hull Points", "v1": "护航母舰船体值"}
+{"k": "mod_shipsize_juggernaut_build_speed_mult", "l": "simp_chinese", "t": 1711433856, "v0": "Juggernaut Build Speed", "v1": "主宰建造时间"}
+{"k": "mod_shipsize_military_station_large_build_speed_mult", "l": "simp_chinese", "t": 1711433864, "v0": "Defense Fortress Build Speed", "v1": "防御要塞建造速度"}
+{"k": "mod_shipsize_military_station_medium_build_speed_mult", "l": "simp_chinese", "t": 1711433907, "v0": "Defense Station Build Speed", "v1": "防御站建造速度"}
+{"k": "mod_shipsize_titan_build_speed_mult", "l": "simp_chinese", "t": 1711433912, "v0": "Titan Build Speed", "v1": "泰坦建造时间"}
+{"k": "mod_shipsize_titan_hull_mult", "l": "simp_chinese", "t": 1711433916, "v0": "Titan Hull Points", "v1": "泰坦船体值"}
+{"k": "mod_shipsize_titan_upkeep_mult", "l": "simp_chinese", "t": 1711433920, "v0": "Titan Upkeep", "v1": "泰坦维护费"}
+{"k": "mod_station_researchers_engineering_research_produces_mult", "l": "simp_chinese", "t": 1711434083, "v0": "Research Station Engineering £engineering  Output", "v1": "研究站工程学 £engineering 点数"}
+{"k": "mod_station_researchers_physics_research_produces_mult", "l": "simp_chinese", "t": 1711434097, "v0": "Research Station Physics £physics  Output", "v1": "研究站物理学 £physics 点数"}
+{"k": "mod_station_researchers_society_research_produces_mult", "l": "simp_chinese", "t": 1711434105, "v0": "Research Station Society £society  Output", "v1": "研究站社会学 £society 点数"}
 {"k": "mod_versatility_focus", "l": "simp_chinese", "t": 1711369655, "v0": "Cruiser Focus", "v1": "优化巡洋舰"}
 {"k": "mod_versatility_focus_desc", "l": "simp_chinese", "t": 1711369693, "v0": "A policy that focuses on a fleet of mid-sized combat ships. Provides +20% build speed and -20% build cost to Cruisers, Strike Cruisers, and Battlecruisers, but since our shipyards will be focused on these specific ships, other classes will build 20% slower and be 20% more expensive.", "v1": "一项优化中型舰船的政策，为巡洋舰、攻击巡洋舰和战列巡洋舰提供 +20% 的建造速度和 -20% 的建造成本，但由于我们的造船厂将专注于这些特定的舰艇，其他类别的建造速度将慢 20%，造价高 20%。"}
 {"k": "mod_weapon_type_point_defense_weapon_damage_mult", "l": "simp_chinese", "t": 1711369706, "v0": "Point Defense Weapon Damage", "v1": "点防御武器伤害值"}
+{"k": "nsc.requires.asteroid", "l": "simp_chinese", "t": 1711434148, "v0": "Requires asteroid in the system.", "v1": "星系中需要包含小行星"}
+{"k": "nsc_ai", "l": "simp_chinese", "t": 1711434155, "v0": "Artificial Intelligence Combat System", "v1": "人工智能战斗系统"}
+{"k": "nsc_discord_link_button_tooltip", "l": "simp_chinese", "s": true, "t": 1711434170, "v0": "§HDiscord Server§!", "v1": ""}
+{"k": "nsc_events_exploration_ship.10.1", "l": "simp_chinese", "t": 1711434230, "v0": "Choose to upgrade §Y1§! ship. (§Y50 Energy§! & §B400 Alloys§!)", "v1": "选择升级 §Y1§! 舰船. (§Y50 Energy§! & §B400 Alloys§!)（待校译）"}
+{"k": "nsc_events_exploration_ship.3.name", "l": "simp_chinese", "t": 1711434243, "v0": "Prototype Explorer", "v1": "探索者原型"}
+{"k": "nsc_events_flagship.1.name", "l": "simp_chinese", "t": 1711434476, "v0": "Grand Shipyard Ready For Construction", "v1": "星际船坞准备开工建设"}
+{"k": "nsc_events_flagship.10.a", "l": "simp_chinese", "t": 1711434498, "v0": "Onward to Glory!", "v1": "向荣耀前进！"}
+{"k": "nsc_events_flagship.10.name", "l": "simp_chinese", "t": 1711434511, "v0": "A Legendary Battle", "v1": "传奇之战"}
+{"k": "nsc_events_flagship.3.a", "l": "simp_chinese", "t": 1711434529, "v0": "Disappointing, but not unexpected.", "v1": "令人失望，但并不意外。"}
 {"k": "nsc_flagship_aura", "l": "simp_chinese", "t": 1710781910, "v0": "Advanced Fleet Command Network", "v1": "先进舰队指挥网络"}
 {"k": "nsc_flagship_cannot_be_acquired_by_conventional_means.tooltip.fail", "l": "simp_chinese", "t": 1710781983, "v0": "§R$TRIGGER_FAIL$§! Due to its size and complexity, only the $nsc_flagship_shipyard$ Megastructure is capable of producing a Flagship-class vessel.", "v1": "§R$TRIGGER_FAIL$§! 考虑到它的规模和复杂程度, 只有 $nsc_flagship_shipyard$ 超级构造才能建造旗舰级军舰。"}
 {"k": "nsc_flagship_shipyard", "l": "simp_chinese", "t": 1710782006, "v0": "Grand Shipyard", "v1": "旗舰船坞"}
 {"k": "nsc_flagship_shipyard_DESC", "l": "simp_chinese", "t": 1710782021, "v0": "This massive space station is necessary to construct the largest and deadliest warship that the galaxy has ever seen.", "v1": "这个巨大的空间站是建造银河系有史以来最大、最致命的战舰所必需的。"}
 {"k": "nsc_flagship_shipyard_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_flagship_shipyard_DESC$", "v1": ""}
+{"k": "nsc_flagship_shipyard_complete", "l": "simp_chinese", "t": 1711434564, "v0": "Grand Shipyard", "v1": "星际船坞"}
+{"k": "nsc_flagship_shipyard_complete_DESC", "l": "simp_chinese", "t": 1711434595, "v0": "This massive shipyard is home to our Empire's mighty Flagship.", "v1": "这个巨大的船坞是我们帝国强大的旗舰的母港。"}
+{"k": "nsc_fleet_in_mothball_repair_timer_var_cleared", "l": "simp_chinese", "s": true, "t": 1711435509, "v0": "0", "v1": ""}
+{"k": "nsc_fleet_in_mothball_repair_timer_var_not_cleared", "l": "simp_chinese", "s": true, "t": 1711435513, "v0": "[This.nsc_fleet_in_mothball_repair_timer_var]", "v1": ""}
+{"k": "nsc_galactic_mall_0", "l": "simp_chinese", "t": 1711435532, "v0": "Galactic Mall Construction Site", "v1": "星际商城基址"}
+{"k": "nsc_galactic_mall_0_CONSTRUCTION_INFO_DELAYED", "l": "simp_chinese", "t": 1711435594, "v0": "The galaxy's largest shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping experience.", "v1": "银河系最大的购物中心，能够生产海量的消费品，并提供极致的购物体验。"}
+{"k": "nsc_galactic_mall_0_DESC", "l": "simp_chinese", "t": 1711435599, "v0": "The galaxy's largest shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping experience.", "v1": "银河系最大的购物中心，能够生产海量的消费品，并提供极致的购物体验。"}
+{"k": "nsc_galactic_mall_0_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "t": 1711435603, "v0": "The galaxy's largest shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping experience.", "v1": "银河系最大的购物中心，能够生产海量的消费品，并提供极致的购物体验。"}
+{"k": "nsc_galactic_mall_1", "l": "simp_chinese", "t": 1711435609, "v0": "Galactic Mall", "v1": "星际商城"}
+{"k": "nsc_galactic_mall_1_CONSTRUCTION_INFO_DELAYED", "l": "simp_chinese", "t": 1711435669, "v0": "The galaxy's largest consumer mall and shopping center, capable of producing an impressive amount of £consumer_goods at the cost of £energy and £minerals", "v1": "银河系最大的消费商场和购物中心，花费 £energy 和 £minerals 生产数量惊人的 £consumer_goods"}
+{"k": "nsc_galactic_mall_1_DESC", "l": "simp_chinese", "t": 1711435719, "v0": "The galaxy's largest consumer mall and shopping center, capable of producing §G500§! £consumer_goods §YConsumer Goods§! and §G50§! £unity£ §YUnity§!", "v1": "银河系最大的消费商城和购物中心，能够生产 §G500§! £consumer_goods §Y消费品§! and §G50§! £unity£ §YUnity§!"}
+{"k": "nsc_galactic_mall_1_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "t": 1711435727, "v0": "The galaxy's largest shopping center, capable of producing vast quantities of consumer goods, and the ultimate shopping experience.", "v1": "银河系最大的购物中心，能够生产海量的消费品，并提供极致的购物体验。"}
+{"k": "nsc_headquarters_0", "l": "simp_chinese", "t": 1711435826, "v0": "Fleet Headquarters Construction Site", "v1": "舰队总部基址"}
+{"k": "nsc_headquarters_0_CONSTRUCTION_INFO_DELAYED", "l": "simp_chinese", "t": 1711436018, "v0": "The Fleet Headquarters is the centralized command & control station for your empire. Building and maintaining the Fleet Headquarters provides significant bonuses.", "v1": "舰队总部是您帝国舰队的指挥和控制中心，建造和维护舰队总部可以提供可观的奖励。"}
+{"k": "nsc_headquarters_0_DESC", "l": "simp_chinese", "t": 1711436023, "v0": "The Fleet Headquarters is the centralized command & control station for your empire. Building and maintaining the Fleet Headquarters provides significant bonuses.", "v1": "舰队总部是您帝国舰队的指挥和控制中心，建造和维护舰队总部可以提供可观的奖励。"}
+{"k": "nsc_headquarters_0_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "t": 1711436028, "v0": "The Fleet Headquarters is the centralized command & control station for your empire. Building and maintaining the Fleet Headquarters provides significant bonuses.", "v1": "舰队总部是您帝国舰队的指挥和控制中心，建造和维护舰队总部可以提供可观的奖励。"}
+{"k": "nsc_headquarters_1", "l": "simp_chinese", "t": 1711436033, "v0": "Fleet Headquarters", "v1": "舰队总部"}
+{"k": "nsc_headquarters_1_CONSTRUCTION_INFO_DELAYED", "l": "simp_chinese", "t": 1711436037, "v0": "The Fleet Headquarters is the centralized command & control station for your empire. Building and maintaining the Fleet Headquarters provides significant bonuses.", "v1": "舰队总部是您帝国舰队的指挥和控制中心，建造和维护舰队总部可以提供可观的奖励。"}
+{"k": "nsc_headquarters_1_DESC", "l": "simp_chinese", "t": 1711436038, "v0": "The Fleet Headquarters is the centralized command & control station for your empire. Building and maintaining the Fleet Headquarters provides significant bonuses.", "v1": "舰队总部是您帝国舰队的指挥和控制中心，建造和维护舰队总部可以提供可观的奖励。"}
+{"k": "nsc_headquarters_1_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "t": 1711436040, "v0": "The Fleet Headquarters is the centralized command & control station for your empire. Building and maintaining the Fleet Headquarters provides significant bonuses.", "v1": "舰队总部是您帝国舰队的指挥和控制中心，建造和维护舰队总部可以提供可观的奖励。"}
+{"k": "nsc_headquarters_bonus", "l": "simp_chinese", "t": 1711436059, "v0": "Headquarters Station Bonus", "v1": "总部站奖励（待校译）"}
+{"k": "nsc_hospital_0", "l": "simp_chinese", "t": 1711436120, "v0": "Galactic General Hospital Construction Site", "v1": "星际总医院基址"}
+{"k": "nsc_hospital_0_CONSTRUCTION_INFO_DELAYED", "l": "simp_chinese", "t": 1711436152, "v0": "A massive hospital dedicated to the study of the xenoraces in the galaxy and the analysis and treatment of the diseases that affect these species.", "v1": "一家致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_0_DESC", "l": "simp_chinese", "t": 1711436156, "v0": "A massive hospital dedicated to the study of the xenoraces in the galaxy and the analysis and treatment of the diseases that affect these species.", "v1": "一家致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_0_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "t": 1711436157, "v0": "A massive hospital dedicated to the study of the xenoraces in the galaxy and the analysis and treatment of the diseases that affect these species.", "v1": "一家致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_1", "l": "simp_chinese", "t": 1711436167, "v0": "Galactic Clinic", "v1": "星际诊所"}
+{"k": "nsc_hospital_1_CONSTRUCTION_INFO_DELAYED", "l": "simp_chinese", "t": 1711436290, "v0": "A large, space-borne medical clinic, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一家大型太空诊所，致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_1_DESC", "l": "simp_chinese", "t": 1711436292, "v0": "A large, space-borne medical clinic, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一家大型太空诊所，致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_1_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "t": 1711436293, "v0": "A large, space-borne medical clinic, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一家大型太空诊所，致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_2", "l": "simp_chinese", "t": 1711436210, "v0": "Galactic Medical Center", "v1": "星际医疗中心"}
+{"k": "nsc_hospital_2_CONSTRUCTION_INFO_DELAYED", "l": "simp_chinese", "t": 1711436239, "v0": "A huge, space-borne medical center, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一家大型太空医疗中心，致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_2_DESC", "l": "simp_chinese", "t": 1711436240, "v0": "A huge, space-borne medical center, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一家大型太空医疗中心，致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_2_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "t": 1711436241, "v0": "A huge, space-borne medical center, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一家大型太空医疗中心，致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_3", "l": "simp_chinese", "t": 1711436249, "v0": "Galactic General Hospital", "v1": "星际总医院"}
+{"k": "nsc_hospital_3_CONSTRUCTION_INFO_DELAYED", "l": "simp_chinese", "t": 1711436266, "v0": "An utterly gargantuan, state-of-the-art space-borne hospital, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一座极其庞大、设施最先进的太空医院，致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_3_DESC", "l": "simp_chinese", "t": 1711436267, "v0": "An utterly gargantuan, state-of-the-art space-borne hospital, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一座极其庞大、设施最先进的太空医院，致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
+{"k": "nsc_hospital_3_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "t": 1711436268, "v0": "An utterly gargantuan, state-of-the-art space-borne hospital, dedicated to the study of the various xenoraces in the galaxy, and the analysis and treatment of all the diseases and conditions that afflict them.", "v1": "一座极其庞大、设施最先进的太空医院，致力于研究全星系物种以及分析和治疗影响这些物种的疾病的大型医院。"}
 {"k": "nsc_modmenu.2.a", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$ACKNOWLEDGED$", "v1": ""}
 {"k": "nsc_modmenu_etc_feature_ai_difficulty_economy_bonus_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
 {"k": "nsc_modmenu_etc_feature_ai_difficulty_military_bonus_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
@@ -1118,9 +1177,9 @@
 {"k": "tech_Flagship_1_desc", "l": "simp_chinese", "t": 1710781458, "v0": "The naval arms race has seen the production of larger and larger warships with no end in sight. Our naval engineers have suggested jumping to the logical conclusion of this serial escalation by constructing a ship so massive and powerful, that no empire will be able to support more than one of them at a time. This proposed Flagship will be the ultimate warship. Designed for maximum versatility, each section will have many possible configurations, allowing us to design our Flagship to suit our purposes. Mounting far more thrusters per ton than any other ship, the Flagship will be able to take any position in the fleet, from a long-range battery in the rear, to a massive brawler at the tip of a fleet's spear.\n\nThis power and versatility will come at a heavy cost, however. Merely building the Flagship will be an enormous endeavor, requiring a colossal stockpile of resources and a significant investment of time and manpower. Upon completion, it will take the entire GDP of a small star nation to maintain; as a result, it will require a massive amount of political influence to obtain approval for the project.", "v1": "随着军备竞赛愈演愈烈，军舰的规模不断突破，越来越庞大的军舰被制造了出来。我们的海军工程师建议，通过建造一艘超级规模的军舰来终结这场没有止境的竞赛，这艘军舰如此的庞大以至于没有任何一个帝国能够同时拥有超过一艘。这艘设计中的旗舰将是终极战舰。这艘旗舰在设计时就充分的考虑到了同时支持多种不同的任务的需要，其每个部分都有许多种不同的配置，这使得我们能够自由的设计我们的旗舰以满足各种要求 —— 旗舰将能够占据舰队中的任何位置，从作为后方的远程炮台远程开火，到带领整个舰队冲锋陷阵。\n但是，与此同时实现如此强大的能力是有很高代价的 —— 仅仅建造旗舰就将是一项艰巨的任务，需要大量的资源储备以及大量的时间和人力投入。并且一旦建成，旗舰通常需要一个小星国的全部GDP才能维持；因此，该项目需要巨大的政治影响力才能获得批准。"}
 {"k": "tech_dreadnought_build_speed", "l": "simp_chinese", "t": 1710825297, "v0": "Standardized Dreadnought Patterns", "v1": "标准化无畏舰生产线"}
 {"k": "tech_dreadnought_build_speed_desc", "l": "simp_chinese", "t": 1710825314, "v0": "Establishing new standards for the modeling and construction of Dreadnoughts greatly improves the efficiency of the production pipeline.", "v1": "为无畏舰建造建立新标准大大提高了生产流程的效率。"}
-{"k": "tech_dreadnought_hull_1", "l": "simp_chinese", "t": 1710825258, "v0": "Improved Dreadnought Hulls", "v1": "先进无畏舰舰体 I"}
+{"k": "tech_dreadnought_hull_1", "l": "simp_chinese", "t": 1710825258, "v0": "Improved Dreadnought Hulls", "v1": "先进无畏舰船体 I"}
 {"k": "tech_dreadnought_hull_1_desc", "l": "simp_chinese", "t": 1710825271, "v0": "Advances in building techniques will allow for the construction of sturdier and more durable Dreadnoughts.", "v1": "建造技术的进步将允许建造更坚固、更耐用的无畏舰。"}
-{"k": "tech_dreadnought_hull_2", "l": "simp_chinese", "t": 1710825262, "v0": "Advanced Dreadnought Hulls", "v1": "先进无畏舰舰体 II"}
+{"k": "tech_dreadnought_hull_2", "l": "simp_chinese", "t": 1710825262, "v0": "Advanced Dreadnought Hulls", "v1": "先进无畏舰船体 II"}
 {"k": "tech_dreadnought_hull_2_desc", "l": "simp_chinese", "t": 1710825281, "v0": "The latest generation of Dreadnought hulls have optimized structural integrity fields and improved bulkheads.", "v1": "最新一代的无畏舰船体优化了结构完整性并改进了舱壁。"}
 {"k": "tech_flagship_build_speed", "l": "simp_chinese", "t": 1710782107, "v0": "Standardized Flagship Patterns", "v1": "标准化旗舰生产线"}
 {"k": "tech_flagship_build_speed_desc", "l": "simp_chinese", "t": 1710782117, "v0": "Establishing new standards for the modeling and construction of the Flagship greatly improves the efficiency of the production pipeline.", "v1": "为旗舰的建模和建造建立新标准，大大提高了生产流水线的效率。"}
