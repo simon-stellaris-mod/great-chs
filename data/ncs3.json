@@ -62,9 +62,9 @@
 {"k": "BATTLESHIP_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710865170, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆"}
 {"k": "BATTLESHIP_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710779796, "v0": "Optimized Dark Matter Reactor", "v1": "改进的暗物质反应堆"}
 {"k": "BATTLESHIP_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710779809, "v0": "Singularity Reactor", "v1": "奇点反应堆"}
-{"k": "BATTLESHIP_SNIPER_GUN_1", "l": "simp_chinese", "t": 1710779830, "v0": "Electro-Magnetic Flux Cannon", "v1": "电磁加农炮"}
+{"k": "BATTLESHIP_SNIPER_GUN_1", "l": "simp_chinese", "t": 1712036402, "v0": "Electro-Magnetic Flux Cannon", "v1": "电磁通量加农炮"}
 {"k": "BATTLESHIP_SNIPER_GUN_1_DESC", "l": "simp_chinese", "t": 1710865273, "v0": "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships.", "v1": "这些专门的高速炮塔专为与灵活的护卫舰交战而设计。它们在远距离上具有很高的精确度，但对大型舰船较厚的船体伤害较低。"}
-{"k": "BATTLESHIP_SNIPER_GUN_2", "l": "simp_chinese", "t": 1710865288, "v0": "Atomic Photon Flux Cannon", "v1": "原子光子通量炮"}
+{"k": "BATTLESHIP_SNIPER_GUN_2", "l": "simp_chinese", "t": 1712036414, "v0": "Atomic Photon Flux Cannon", "v1": "光子通量加农炮"}
 {"k": "BATTLESHIP_SNIPER_GUN_2_DESC", "l": "simp_chinese", "t": 1710865305, "v0": "These specialized high speed turrets are designed for engaging nimble Corvettes. They have great precision at long range, but struggle against the thicker hulls of larger ships.", "v1": "这些专门的高速炮塔专为与灵活的护卫舰交战而设计。它们在远距离上具有很高的精确度，但对大型舰船较厚的船体伤害较低。"}
 {"k": "BATTLESHIP_STERN_L3", "l": "simp_chinese", "t": 1710865352, "v0": "Artillery Stern", "v1": "巨炮舰艉"}
 {"k": "BATTLESHIP_STERN_M8", "l": "simp_chinese", "t": 1710865359, "v0": "Broadside Stern", "v1": "平台舰艉"}
@@ -467,7 +467,7 @@
 {"k": "NSC_FLAGSHIP_AURA_EMPTY", "l": "simp_chinese", "t": 1711093130, "v0": "Empty Slot", "v1": "空槽位"}
 {"k": "NSC_MODMENU_STOPPED_WORKING_DESC", "l": "simp_chinese", "t": 1711093174, "v0": "§RClose any other UIs to use this Customgui.§!", "v1": "§R关闭其它所有UI以便于使用当前自定义UI§!"}
 {"k": "NSC_NAME_STEVE", "l": "simp_chinese", "t": 1710575505, "v0": "Steve", "v1": "史蒂夫"}
-{"k": "NSC_NANITE_FIELD", "l": "simp_chinese", "t": 1711335498, "v0": "Nanite Dispensary", "v1": "纳米药房"}
+{"k": "NSC_NANITE_FIELD", "l": "simp_chinese", "t": 1712036173, "v0": "Nanite Dispensary", "v1": "纳米力场"}
 {"k": "NSC_PD_MISSILE", "l": "simp_chinese", "t": 1711335537, "v0": "Harrington Advanced Missile Pod", "v1": "哈林顿先进导弹吊舱"}
 {"k": "NSC_PD_MISSILE_DESC", "l": "simp_chinese", "t": 1711335550, "v0": "An advanced pod of point defense missiles capable of taking down fast and maneuverable targets.", "v1": "先进的点防御导弹吊舱，能够击落快速机动的目标。"}
 {"k": "NSC_REACTOR_BOOSTER_1", "l": "simp_chinese", "t": 1710928745, "v0": "Graviton Boosters", "v1": "反应堆增压器 I"}
@@ -743,7 +743,7 @@
 {"k": "TOMAHAWK_CRUISE_MISSILE_DESC", "l": "simp_chinese", "t": 1711110896, "v0": "An extremely expensive anti-capital ship missile with a very long range and high damage. Very useful for defense stations or long range artillery ships.", "v1": "极其昂贵的反主力舰导弹，射程极远，伤害极高。攻击防御站或远程攻击舰非常有用。"}
 {"k": "T_CANNON_CORE", "l": "simp_chinese", "t": 1711110903, "v0": "Obliterator Cannon Core", "v1": "湮灭者核心"}
 {"k": "XL_BEAM_STARBASE", "l": "simp_chinese", "t": 1711110911, "v0": "Polarized Electron Modulator", "v1": "偏振电子调制器"}
-{"k": "XL_BEAM_STARBASE_DESC", "l": "simp_chinese", "t": 1711283630, "v0": "Twice the Dakka, Half the Size.", "v1": "XL_BEAM（待校译）"}
+{"k": "XL_BEAM_STARBASE_DESC", "l": "simp_chinese", "t": 1712036275, "v0": "Twice the Dakka, Half the Size.", "v1": "超大型恒星基地（待校译）"}
 {"k": "XL_CANNON_CORE", "l": "simp_chinese", "t": 1711110932, "v0": "Annihilator Cannon Core", "v1": "歼灭者核心"}
 {"k": "adaptive_protocol", "l": "simp_chinese", "t": 1711110939, "v0": "Adaptive Protocol", "v1": "自适应协议"}
 {"k": "adaptive_protocol_desc", "l": "simp_chinese", "t": 1711283663, "v0": "Our officer drones have been designed with more independent thought in order to adapt in different situations. This means that we can field more ships, with our officer drones able to manage their crews with more autonomy, but overall combat performance will suffer slightly from the lack of unified action.", "v1": "我们的军官无人机在设计时具有更加独立的思想，以适应不同的情况。这意味着我们可以部署更多的舰船，让我们的军官无人机能够以更大的自主权管理其人员，但由于缺乏统一行动，整体作战性能将受到轻微影响。"}
@@ -883,10 +883,10 @@
 {"k": "job_diagnostician", "l": "simp_chinese", "t": 1711368149, "v0": "Diagnostician", "v1": "诊断专家"}
 {"k": "job_diagnostician_desc", "l": "simp_chinese", "t": 1711368179, "v0": "These specialized workers in the Galactic Hospital are experts in manufacturing robots or increasing reproduction of organic life", "v1": "银河医院的这些专业的工作人员是制造机器人或增加有机生命繁殖的专家。"}
 {"k": "job_diagnostician_plural", "l": "simp_chinese", "t": 1711368150, "v0": "Diagnosticians", "v1": "诊断专家"}
-{"k": "light_ship_focus", "l": "simp_chinese", "t": 1711368190, "v0": "Light Ship Focus", "v1": "优化轻型舰船"}
+{"k": "light_ship_focus", "l": "simp_chinese", "t": 1712036497, "v0": "Light Ship Focus", "v1": "优化轻型军舰"}
 {"k": "light_ship_focus_desc", "l": "simp_chinese", "t": 1711368276, "v0": "Light ships are cheap and speedy, both in construction and in space. They're perfect for quashing pirates, protecting trade, defending wide swathes of space, screening larger vessels, and defending our nation on a budget. We need to prioritize the construction of these valuable vessels.", "v1": "轻型舰船的建造是相当廉价且快速的，它们非常适合镇压海盗、保护贸易、保卫大片太空、筛查大型舰船以及在有限预算内保卫我们的家园。我们需要优先建造这些有价值的舰船。"}
-{"k": "light_ship_focus_name", "l": "simp_chinese", "t": 1711368288, "v0": "Light Ship Focus", "v1": "优化轻型舰船"}
-{"k": "megastructures_nsc_flagship_shipyard", "l": "simp_chinese", "t": 1710841189, "v0": "Grand Shipyard", "v1": "星际船坞"}
+{"k": "light_ship_focus_name", "l": "simp_chinese", "t": 1712036503, "v0": "Light Ship Focus", "v1": "优化轻型军舰"}
+{"k": "megastructures_nsc_flagship_shipyard", "l": "simp_chinese", "t": 1712036333, "v0": "Grand Shipyard", "v1": "旗舰船坞"}
 {"k": "military_station_large", "l": "simp_chinese", "t": 1711368623, "v0": "Defense Fortress", "v1": "防御要塞"}
 {"k": "militia_crew", "l": "simp_chinese", "t": 1711368632, "v0": "Rapid Training", "v1": "快速培训"}
 {"k": "militia_crew_desc", "l": "simp_chinese", "t": 1711368749, "v0": "We must implement a rapid training program, focused on getting ship crews ready as soon as possible, without any advanced training. This will allow us to swell our ranks with many recruits to fill our ships, but will result in reduced combat performance.", "v1": "我们必须实施快速培训计划，重点是让船员尽快做好战斗准备，减少不必要的任何高级培训。这将使我们能够通过更多新兵来充实我们的舰队，从而扩大我们的队伍，但这会导致一定程度上的战斗力下降。"}
@@ -900,9 +900,9 @@
 {"k": "mod_country_resource_max_minerals_add", "l": "simp_chinese", "t": 1711369765, "v0": "Max Minerals", "v1": "最大矿物"}
 {"k": "mod_explosive_weapon_damage_mult", "l": "simp_chinese", "t": 1711368969, "v0": "Explosive Weapon Damage", "v1": "爆炸武器伤害"}
 {"k": "mod_gunship_weapon_damage_mult", "l": "simp_chinese", "t": 1711368974, "v0": "Gunship Weapon Damage", "v1": "能量武器伤害"}
-{"k": "mod_light_ship_focus", "l": "simp_chinese", "t": 1711369326, "v0": "Light Ship Focus", "v1": "优化轻型舰船"}
+{"k": "mod_light_ship_focus", "l": "simp_chinese", "t": 1712036516, "v0": "Light Ship Focus", "v1": "优化轻型军舰"}
 {"k": "mod_light_ship_focus_desc", "l": "simp_chinese", "t": 1711369360, "v0": "A policy that focuses on a fleet of fast, light combat ships. Provides +20% build speed and -20% build cost to Corvettes, Destroyers, and Cruisers, but since our shipyards will be focused on these specific ships, larger classes will build 20% slower and be 20% more expensive.", "v1": "一项优化快速、轻型舰船的政策。为护卫舰、驱逐舰和巡洋舰提供 +20% 的建造速度和 -20% 的建造成本，但由于我们的造船厂将专注于这些特定的舰艇，因此较大的舰船建造速度将慢 20%，造价高 20%。"}
-{"k": "mod_megastructures_nsc_flagship_shipyard_cost_mult", "l": "simp_chinese", "t": 1710841203, "v0": "Grand Shipyard Build Cost", "v1": "星际级船坞建造花费"}
+{"k": "mod_megastructures_nsc_flagship_shipyard_cost_mult", "l": "simp_chinese", "t": 1712036340, "v0": "Grand Shipyard Build Cost", "v1": "旗舰船坞建造花费"}
 {"k": "mod_ship_Battlecruiser_cost_mult", "l": "simp_chinese", "t": 1711369384, "v0": "Battlecruiser Build Cost", "v1": "战列巡洋舰建造花费"}
 {"k": "mod_ship_Carrier_cost_mult", "l": "simp_chinese", "t": 1711369390, "v0": "Carrier Build Cost", "v1": "母舰建造花费"}
 {"k": "mod_ship_Dreadnought_cost_mult", "l": "simp_chinese", "t": 1711369395, "v0": "Dreadnought Build Cost", "v1": "无畏舰建造花费"}
@@ -934,7 +934,7 @@
 {"k": "mod_shipsize_juggernaut_build_speed_mult", "l": "simp_chinese", "t": 1711433856, "v0": "Juggernaut Build Speed", "v1": "主宰建造时间"}
 {"k": "mod_shipsize_military_station_large_build_speed_mult", "l": "simp_chinese", "t": 1711433864, "v0": "Defense Fortress Build Speed", "v1": "防御要塞建造速度"}
 {"k": "mod_shipsize_military_station_medium_build_speed_mult", "l": "simp_chinese", "t": 1711433907, "v0": "Defense Station Build Speed", "v1": "防御站建造速度"}
-{"k": "mod_shipsize_titan_build_speed_mult", "l": "simp_chinese", "t": 1711433912, "v0": "Titan Build Speed", "v1": "泰坦建造时间"}
+{"k": "mod_shipsize_titan_build_speed_mult", "l": "simp_chinese", "t": 1712036632, "v0": "Titan Build Speed", "v1": "泰坦建造速度"}
 {"k": "mod_shipsize_titan_hull_mult", "l": "simp_chinese", "t": 1711433916, "v0": "Titan Hull Points", "v1": "泰坦船体值"}
 {"k": "mod_shipsize_titan_upkeep_mult", "l": "simp_chinese", "t": 1711433920, "v0": "Titan Upkeep", "v1": "泰坦维护费"}
 {"k": "mod_station_researchers_engineering_research_produces_mult", "l": "simp_chinese", "t": 1711434083, "v0": "Research Station Engineering £engineering  Output", "v1": "研究站工程学 £engineering 点数"}
@@ -954,10 +954,10 @@
 {"k": "nsc_events_flagship.3.a", "l": "simp_chinese", "t": 1711434529, "v0": "Disappointing, but not unexpected.", "v1": "令人失望，但并不意外。"}
 {"k": "nsc_flagship_aura", "l": "simp_chinese", "t": 1710781910, "v0": "Advanced Fleet Command Network", "v1": "先进舰队指挥网络"}
 {"k": "nsc_flagship_cannot_be_acquired_by_conventional_means.tooltip.fail", "l": "simp_chinese", "t": 1710781983, "v0": "§R$TRIGGER_FAIL$§! Due to its size and complexity, only the $nsc_flagship_shipyard$ Megastructure is capable of producing a Flagship-class vessel.", "v1": "§R$TRIGGER_FAIL$§! 考虑到它的规模和复杂程度, 只有 $nsc_flagship_shipyard$ 超级构造才能建造旗舰级军舰。"}
-{"k": "nsc_flagship_shipyard", "l": "simp_chinese", "t": 1710782006, "v0": "Grand Shipyard", "v1": "旗舰船坞"}
-{"k": "nsc_flagship_shipyard_DESC", "l": "simp_chinese", "t": 1710782021, "v0": "This massive space station is necessary to construct the largest and deadliest warship that the galaxy has ever seen.", "v1": "这个巨大的空间站是建造银河系有史以来最大、最致命的战舰所必需的。"}
+{"k": "nsc_flagship_shipyard", "l": "simp_chinese", "t": 1712036343, "v0": "Grand Shipyard", "v1": "旗舰船坞"}
+{"k": "nsc_flagship_shipyard_DESC", "l": "simp_chinese", "t": 1712036358, "v0": "This massive space station is necessary to construct the largest and deadliest warship that the galaxy has ever seen.", "v1": "这个巨大的空间站是建造全星系有史以来最大、最致命的战舰所必需的。"}
 {"k": "nsc_flagship_shipyard_MEGASTRUCTURE_DETAILS", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_flagship_shipyard_DESC$", "v1": ""}
-{"k": "nsc_flagship_shipyard_complete", "l": "simp_chinese", "t": 1711434564, "v0": "Grand Shipyard", "v1": "星际船坞"}
+{"k": "nsc_flagship_shipyard_complete", "l": "simp_chinese", "t": 1712036364, "v0": "Grand Shipyard", "v1": "旗舰船坞"}
 {"k": "nsc_flagship_shipyard_complete_DESC", "l": "simp_chinese", "t": 1711434595, "v0": "This massive shipyard is home to our Empire's mighty Flagship.", "v1": "这个巨大的船坞是我们帝国强大的旗舰的母港。"}
 {"k": "nsc_fleet_in_mothball_repair_timer_var_cleared", "l": "simp_chinese", "s": true, "t": 1711435509, "v0": "0", "v1": ""}
 {"k": "nsc_fleet_in_mothball_repair_timer_var_not_cleared", "l": "simp_chinese", "s": true, "t": 1711435513, "v0": "[This.nsc_fleet_in_mothball_repair_timer_var]", "v1": ""}
@@ -1018,9 +1018,6 @@
 {"k": "nsc_modmenu_go_page_mod_preset_effect_tooltip", "l": "simp_chinese", "t": 1711436984, "v0": "Click to go to §Y$nsc_modmenu_setting_page_mod_category_preset_name$§! Page.", "v1": "点击跳转到 §Y$nsc_modmenu_setting_page_mod_category_preset_name$§! 页面。"}
 {"k": "nsc_modmenu_go_page_ship_class_effect_tooltip", "l": "simp_chinese", "t": 1711436994, "v0": "Click to go to §Y$nsc_modmenu_setting_page_ship_category_class_name$§! Page.", "v1": "点击跳转到 §Y$nsc_modmenu_setting_page_ship_category_class_name$§! 页面。"}
 {"k": "nsc_modmenu_go_page_ship_component_effect_tooltip", "l": "simp_chinese", "t": 1711437007, "v0": "Click to go to §Y$nsc_modmenu_setting_page_ship_category_component_name$§! Page.", "v1": "点击跳转到 §Y$nsc_modmenu_setting_page_ship_category_component_name$§! 页面。"}
-{"k": "nsc_modmenu_go_page_starbase_building_effect_tooltip", "l": "simp_chinese", "t": 1711437017, "v0": "Click to go to §Y$nsc_modmenu_setting_page_starbase_category_building_name$§! Page.", "v1": "点击跳转到 §Y$nsc_modmenu_setting_page_starbase_category_building_name$§! 页面。"}
-{"k": "nsc_modmenu_go_page_starbase_class_effect_tooltip", "l": "simp_chinese", "t": 1711437027, "v0": "Click to go to §Y$nsc_modmenu_setting_page_starbase_category_class_name$§! Page.", "v1": "点击跳转到 §Y$nsc_modmenu_setting_page_starbase_category_class_name$§! 页面。"}
-{"k": "nsc_modmenu_go_page_starbase_module_effect_tooltip", "l": "simp_chinese", "t": 1711437038, "v0": "Click to go to §Y$nsc_modmenu_setting_page_starbase_category_module_name$§! Page.", "v1": "点击跳转到 §Y$nsc_modmenu_setting_page_starbase_category_module_name$§! 页面。"}
 {"k": "nsc_modmenu_megastructure_build_cost_down_effect_tooltip", "l": "simp_chinese", "t": 1711514091, "v0": "Click to change the Build Cost of this Megastructure by §G-5%§!.", "v1": "点击调整该巨构建造花费 §G-5%§!。"}
 {"k": "nsc_modmenu_megastructure_build_cost_down_trigger_tooltip.fail", "l": "simp_chinese", "t": 1711437163, "v0": "$nsc_modmenu_megastructure_build_cost_down_effect_tooltip$\n£trigger_no£ §RMinimum Limit Reached§!", "v1": "$nsc_modmenu_megastructure_build_cost_down_effect_tooltip$\n£trigger_no£ §R已达到最低限制§!"}
 {"k": "nsc_modmenu_megastructure_build_cost_up_effect_tooltip", "l": "simp_chinese", "t": 1711514084, "v0": "Click to change the Build Cost of this Megastructure by §R+5%§!.", "v1": "点击调整该巨构建造花费 §R+5%§!."}
@@ -1193,10 +1190,10 @@
 {"k": "nsc_modmenu_starbase_class_outpost_build_cost_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
 {"k": "nsc_modmenu_starbase_class_outpost_build_speed_mod", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$nsc_modmenu_ship_class_Battlecruiser_build_cost_mod$", "v1": ""}
 {"k": "nsc_mothball_stop_trigger.fail", "l": "simp_chinese", "t": 1711514246, "v0": "The Fleet is currently being Reactivated.", "v1": "该舰队正在解封中。"}
-{"k": "nsc_nanite_aura", "l": "simp_chinese", "t": 1711514252, "v0": "Nanite Dispensary", "v1": "纳米药房"}
+{"k": "nsc_nanite_aura", "l": "simp_chinese", "t": 1712036177, "v0": "Nanite Dispensary", "v1": "纳米力场"}
 {"k": "nsc_sec_power_core", "l": "simp_chinese", "t": 1711514264, "v0": "Secondary Reactor", "v1": "二级反应堆"}
 {"k": "nsc_sec_power_core_desc", "l": "simp_chinese", "t": 1711514271, "v0": "Secondary Reactor slot for Stations and Fortresses", "v1": "用于空间站和堡垒的二级反应堆插槽"}
-{"k": "nsc_starbase_nanite_aura", "l": "simp_chinese", "t": 1711514276, "v0": "Nanite Dispensary", "v1": "纳米药房"}
+{"k": "nsc_starbase_nanite_aura", "l": "simp_chinese", "t": 1712036181, "v0": "Nanite Dispensary", "v1": "纳米力场"}
 {"k": "nsc_starbase_nanite_aura_DESC", "l": "simp_chinese", "t": 1711514300, "v0": "Advanced nanites that eat away at the armor of hostile ships by disrupting molecular bonds.", "v1": "先进的纳米粒子通过破坏分子键来侵蚀敌方舰船的装甲。"}
 {"k": "nsc_steamworkshop_link_button_tooltip", "l": "simp_chinese", "t": 1711514317, "v0": "§HSteam Workshop§!", "v1": "§HSteam 创意工坊§!"}
 {"k": "nsc_strategic_resource_factory_0", "l": "simp_chinese", "t": 1711514332, "v0": "Strategic Resource Factory Construction Site", "v1": "战略资源工厂基址"}
@@ -1302,7 +1299,7 @@
 {"k": "sm_navcom_ai_desc", "l": "simp_chinese", "t": 1711606031, "v0": "An extremely advanced navigation system that can rapidly calculate coordinates for emergency jumps. Increases the chance for ships to successfully disengage from combat.\n", "v1": "极其先进的导航系统，可以快速计算紧急跳跃的坐标。增加舰队成功脱离战斗的机会。"}
 {"k": "sm_nightclub", "l": "simp_chinese", "t": 1711713937, "v0": "Nightclub", "v1": "夜店"}
 {"k": "sm_nightclub_desc", "l": "simp_chinese", "t": 1711713960, "v0": "Ain't no party like a Starbase party 'cause a Starbase party don't stop.", "v1": "没有哪个派对能像星际派对一样，因为星际派对永远不会停止。"}
-{"k": "sm_nsc_nanite_field", "l": "simp_chinese", "t": 1712035370, "v0": "Nanite Dispensary Field", "v1": "纳米场"}
+{"k": "sm_nsc_nanite_field", "l": "simp_chinese", "t": 1712036190, "v0": "Nanite Dispensary Field", "v1": "纳米力场"}
 {"k": "sm_nsc_nanite_field_desc", "l": "simp_chinese", "t": 1712035391, "v0": "This facility builds, houses, and deploys advanced nanites that eat away at the armor of hostile ships by disrupting molecular bonds.", "v1": "该设施建造、存储和部署先进的纳米粒子，通过破坏分子键来侵蚀敌方舰船的装甲。"}
 {"k": "sm_orbital_engineering_support_lab", "l": "simp_chinese", "t": 1711714187, "v0": "Engineering Support Lab", "v1": "工程专项实验室"}
 {"k": "sm_orbital_engineering_support_lab_desc", "l": "simp_chinese", "t": 1711714292, "v0": "A laboratory specializing in Egineering research. Will improve the output of every §GOrbital Research Lab§! by §Y2 Engineering Research§!.\n", "v1": "专门从事工程学研究的实验室。为每个 §G轨道研究实验室§! 提升 §Y2 工程学研究点数§!。"}
@@ -1396,12 +1393,12 @@
 {"k": "starbase_management_hive_limit", "l": "simp_chinese", "t": 1712028966, "v0": "§ROnly five §Y$sm_starbase_management_hive$§! may exist per empire.§!", "v1": "§R每个国家只允许拥有不超过5个 §Y$sm_starbase_management_hive$。§! §!"}
 {"k": "starbase_management_limit", "l": "simp_chinese", "t": 1712028985, "v0": "§ROnly five §Y$sm_starbase_management$§! may exist per empire.§!", "v1": "§R每个国家只允许拥有不超过5个 §Y$sm_starbase_management$。§! §!"}
 {"k": "starbase_management_machine_limit", "l": "simp_chinese", "t": 1712028998, "v0": "§ROnly five §Y$sm_starbase_management_machine$§! may exist per empire.§!", "v1": "§R每个国家只允许拥有不超过5个 §Y$sm_starbase_management_machine$。§! §!"}
-{"k": "starbase_stronghold", "l": "simp_chinese", "t": 1712029033, "v0": "Grand Citadel", "v1": "星际堡垒"}
-{"k": "starbase_stronghold_plural", "l": "simp_chinese", "t": 1712029038, "v0": "Grand Citadels", "v1": "星际堡垒"}
+{"k": "starbase_stronghold", "l": "simp_chinese", "t": 1712036086, "v0": "Grand Citadel", "v1": "巨型堡垒"}
+{"k": "starbase_stronghold_plural", "l": "simp_chinese", "t": 1712036091, "v0": "Grand Citadels", "v1": "巨型堡垒"}
 {"k": "starbase_t_limit.tooltip.fail", "l": "simp_chinese", "t": 1712029054, "v0": "You cannot build more than 2 Titanic weapons per starbase.", "v1": "每个恒星基地不能建造超过 2 个泰坦武器。"}
 {"k": "starbase_xl_limit.tooltip.fail", "l": "simp_chinese", "t": 1712029068, "v0": "You cannot build more than 6 XL weapons per starbase.", "v1": "每个恒星基地不能建造超过 6 个 XL 武器。"}
 {"k": "stb_shipyard", "l": "simp_chinese", "t": 1710866635, "v0": "Shipyard", "v1": "船坞"}
-{"k": "stb_shipyard_desc", "l": "simp_chinese", "t": 1710866651, "v0": "A starbase focused on ship construction.\n", "v1": "一个专注于舰船建造的星际基地。"}
+{"k": "stb_shipyard_desc", "l": "simp_chinese", "t": 1712036380, "v0": "A starbase focused on ship construction.\n", "v1": "一个专注于舰船建造的恒星基地。"}
 {"k": "strike_craft_focus", "l": "simp_chinese", "t": 1712029117, "v0": "Strike Craft Focus", "v1": "优化攻击巡洋舰"}
 {"k": "strike_craft_focus_desc", "l": "simp_chinese", "t": 1712029136, "v0": "Strike Craft, our valiant pilots will prove victorious", "v1": "攻击巡洋舰，我们英勇的飞行员将取得胜利"}
 {"k": "strike_craft_focus_name", "l": "simp_chinese", "t": 1712029122, "v0": "Strike Craft Focus", "v1": "优化攻击巡洋舰"}
@@ -1458,8 +1455,8 @@
 {"k": "tech_defense_platforms_3_desc", "l": "simp_chinese", "t": 1712030472, "v0": "Improved technologies allow us to construct more defense platforms for our starbases.", "v1": "新的技术使我们能够为我们的恒星基地建造更多的防御平台。"}
 {"k": "tech_defense_platforms_4", "l": "simp_chinese", "t": 1712030476, "v0": "Defense Platform Increase - Level 4", "v1": "防御平台强化 IV"}
 {"k": "tech_defense_platforms_4_desc", "l": "simp_chinese", "t": 1712030479, "v0": "Improved technologies allow us to construct more defense platforms for our starbases.", "v1": "新的技术使我们能够为我们的恒星基地建造更多的防御平台。"}
-{"k": "tech_dreadnought_build_speed", "l": "simp_chinese", "t": 1710825297, "v0": "Standardized Dreadnought Patterns", "v1": "标准化无畏舰生产线"}
-{"k": "tech_dreadnought_build_speed_desc", "l": "simp_chinese", "t": 1710825314, "v0": "Establishing new standards for the modeling and construction of Dreadnoughts greatly improves the efficiency of the production pipeline.", "v1": "为无畏舰建造建立新标准大大提高了生产流程的效率。"}
+{"k": "tech_dreadnought_build_speed", "l": "simp_chinese", "t": 1712036648, "v0": "Standardized Dreadnought Patterns", "v1": "标准化无畏舰模板"}
+{"k": "tech_dreadnought_build_speed_desc", "l": "simp_chinese", "t": 1712036657, "v0": "Establishing new standards for the modeling and construction of Dreadnoughts greatly improves the efficiency of the production pipeline.", "v1": "建立新的无畏舰模板和建造标准将会大大提高生产线的效率。"}
 {"k": "tech_dreadnought_hull_1", "l": "simp_chinese", "t": 1710825258, "v0": "Improved Dreadnought Hulls", "v1": "先进无畏舰船体 I"}
 {"k": "tech_dreadnought_hull_1_desc", "l": "simp_chinese", "t": 1710825271, "v0": "Advances in building techniques will allow for the construction of sturdier and more durable Dreadnoughts.", "v1": "建造技术的进步将允许建造更坚固、更耐用的无畏舰。"}
 {"k": "tech_dreadnought_hull_2", "l": "simp_chinese", "t": 1710825262, "v0": "Advanced Dreadnought Hulls", "v1": "先进无畏舰船体 II"}
@@ -1476,8 +1473,8 @@
 {"k": "tech_explorationship_3_desc", "l": "simp_chinese", "t": 1712033004, "v0": "Our intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers, pleased with the performance of the Explorer's upgraded form, suggest developing an even more powerful variant to further increase the protection available to our best and brightest Science Officers.", "v1": "我们勇敢的科学官员在探索银河系并揭开它所提供的所有秘密的过程中面临着难以置信的危险。我们的太空工程师对探索者升级版的性能感到满意，建议开发一种更强大的变体，以进一步增强对我们最优秀、最聪明的科学官员的保护。"}
 {"k": "tech_explorationship_4", "l": "simp_chinese", "t": 1712033006, "v0": "Explorer (Level 4)", "v1": "探索者 IV"}
 {"k": "tech_explorationship_4_desc", "l": "simp_chinese", "t": 1712033007, "v0": "Our intrepid Science Officers have faced incredible danger in their quest to explore the galaxy and uncover all the secrets it has to offer. Our naval engineers, pleased with the performance of the Explorer's upgraded form, suggest developing an even more powerful variant to further increase the protection available to our best and brightest Science Officers.", "v1": "我们勇敢的科学官员在探索银河系并揭开它所提供的所有秘密的过程中面临着难以置信的危险。我们的太空工程师对探索者升级版的性能感到满意，建议开发一种更强大的变体，以进一步增强对我们最优秀、最聪明的科学官员的保护。"}
-{"k": "tech_flagship_build_speed", "l": "simp_chinese", "t": 1710782107, "v0": "Standardized Flagship Patterns", "v1": "标准化旗舰生产线"}
-{"k": "tech_flagship_build_speed_desc", "l": "simp_chinese", "t": 1710782117, "v0": "Establishing new standards for the modeling and construction of the Flagship greatly improves the efficiency of the production pipeline.", "v1": "为旗舰的建模和建造建立新标准，大大提高了生产流水线的效率。"}
+{"k": "tech_flagship_build_speed", "l": "simp_chinese", "t": 1712036666, "v0": "Standardized Flagship Patterns", "v1": "标准化旗舰模板"}
+{"k": "tech_flagship_build_speed_desc", "l": "simp_chinese", "t": 1712036673, "v0": "Establishing new standards for the modeling and construction of the Flagship greatly improves the efficiency of the production pipeline.", "v1": "建立新的旗舰模板和建造标准将会大大提高生产线的效率。"}
 {"k": "tech_flagship_hull_1", "l": "simp_chinese", "t": 1710782132, "v0": "Improved Flagship Hulls", "v1": "先进旗舰船体 I"}
 {"k": "tech_flagship_hull_1_desc", "l": "simp_chinese", "t": 1710782141, "v0": "Advances in building techniques will allow for the construction of sturdier and more durable Flagships.", "v1": "建造技术的进步将允许建造更坚固、更耐用的旗舰。"}
 {"k": "tech_flagship_hull_2", "l": "simp_chinese", "t": 1710782154, "v0": "Advanced Flagship Hulls", "v1": "先进旗舰船体 II"}
@@ -1567,9 +1564,9 @@
 {"k": "triggered_opinion_of_nsc_hopsital_1", "l": "simp_chinese", "t": 1712035077, "v0": "Galactic Hospital", "v1": "星际医院"}
 {"k": "triggered_opinion_of_nsc_hopsital_2", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$triggered_opinion_of_nsc_hopsital_1$", "v1": ""}
 {"k": "triggered_opinion_of_nsc_hopsital_3", "l": "simp_chinese", "s": true, "t": 1710855055, "v0": "$triggered_opinion_of_nsc_hopsital_1$", "v1": ""}
-{"k": "uniform_focus", "l": "simp_chinese", "t": 1712035087, "v0": "Standard Defenses", "v1": "标准防御"}
+{"k": "uniform_focus", "l": "simp_chinese", "t": 1712036547, "v0": "Standard Defenses", "v1": "标准防卫模型"}
 {"k": "uniform_focus_desc", "l": "simp_chinese", "t": 1712035105, "v0": "We will focus on armor and shields in equal measure; there is no need to favor one over the other. They are strongest together.", "v1": "我们将同等重视装甲和护盾；没有必要偏袒其中之一。他们在一起是最强的。"}
-{"k": "uniform_focus_name", "l": "simp_chinese", "t": 1712035113, "v0": "Standard Defenses", "v1": "标准防御"}
+{"k": "uniform_focus_name", "l": "simp_chinese", "t": 1712036552, "v0": "Standard Defenses", "v1": "标准防卫模型"}
 {"k": "versatility_focus", "l": "simp_chinese", "t": 1712035123, "v0": "Cruiser Focus", "v1": "优化巡洋舰"}
 {"k": "versatility_focus_desc", "l": "simp_chinese", "t": 1712035189, "v0": "Cruisers, and their larger cousins, Strike Cruisers and Battlecruisers, are the most versatile ships we can build. They excel at all ranges, with a wide range of weapons, and are tough enough to withstand a hit, but don't take nearly as long to build, or cost nearly as much to produce and maintain, as capital ships. For a versatile fleet, we should focus on Cruisers to fill out our Navy.", "v1": "巡洋舰及其更强大的改进型攻击巡洋舰和战列巡洋舰是我们可以建造的最通用的军舰。它们在所有射程上都表现出色，拥有多种武器，并且足够坚韧，可以承受打击，同时建造时间不像主力舰那么长，生产和维护成本也不像主力舰那样高。对于一支多功能舰队，我们应该专注于巡洋舰来充实我们的舰队。"}
 {"k": "versatility_focus_name", "l": "simp_chinese", "t": 1712035197, "v0": "Cruiser Focus", "v1": "优化巡洋舰"}
