@@ -1,4 +1,4 @@
-name="极好的中文汉化模组"
+name="很棒的中文汉化模组集合"
 tags={
     "Gameplay"
 }

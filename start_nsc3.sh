@@ -16,7 +16,11 @@ fi
 
 python3 ${STELLARIS_TRANS_REPO_PATH}/scripts/server.py \
     --name nsc3 \
-    --source-path ${STELLARIS_NSC3_GIT_REPO_PATH}/localisation/english \
-    --source-language english \
-    --data-file ./data/ncs3.json \
-    --output-path ./mod/localisation
+    --source-path ${STELLARIS_NSC3_GIT_REPO_PATH}/localisation \
+    --load-language english \
+    --load-language simp_chinese \
+    --default-source-language english \
+    --default-target-language simp_chinese \
+    --data-file ./data/nsc3.json \
+    --output-path ./mod/localisation \
+    --build-mod-translated-key
