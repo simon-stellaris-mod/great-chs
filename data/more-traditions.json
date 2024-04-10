@@ -11,8 +11,8 @@
 {"k": "MT_Custodian_Alshigan_Effect", "l": "simp_chinese", "t": 1712379721, "v0": "\n§YAlshigan Engine§!: +1% Sublight Speed and Propulsion Research Speed", "v1": "§YAlshigan Engine§!：+1% 亚光速和推进技术研究速度（待校译）", "v2": "english"}
 {"k": "MT_Custodian_Astanine_Effect", "l": "simp_chinese", "t": 1712379722, "v0": "\n§YLast projector of the Astanine§!: +0.1 £stability£ Stability", "v1": "§YLast projector of the Astanine§!: +0.1 £stability£ 稳定度（待校译）", "v2": "english"}
 {"k": "MT_Custodian_Eztarta_Effect", "l": "simp_chinese", "t": 1712379810, "v0": "\n§YCrystallized Spacetime Fragment§!: + 0.1% Resources from jobs", "v1": "§Y结晶时空碎片§!: + 0.1% 岗位产出（待校译）", "v2": "english"}
-{"k": "MT_Custodian_FrozenEngine_Effect", "l": "simp_chinese", "t": 1712379874, "v0": "\n§YThe Frozen Engine§!: §G+10%§! $energy$ from jobs", "v1": "§Y冻结引擎§!： §G+10%§! 岗位生产的 $energy$", "v2": "english"}
-{"k": "MT_NO_RELIC_TEXT", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_Custodian_FrozenEngine_Effect", "l": "simp_chinese", "t": 1712558007, "v0": "\n§YThe Frozen Engine§!: §G+0.5%§! Monthly £energy£ $energy$", "v1": "§Y冻结引擎§!： §G+10%§! 岗位生产的 $energy$", "v2": "english"}
+{"k": "MT_NO_RELIC_TEXT", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
 {"k": "MT_disrupted_economy", "l": "simp_chinese", "t": 1712380006, "v0": "Market Manipulation", "v1": "市场操纵", "v2": "english"}
 {"k": "MT_disrupted_fleets", "l": "simp_chinese", "t": 1712380000, "v0": "Disrupted Fleet Communications", "v1": "舰队通讯中断", "v2": "english"}
 {"k": "MT_disrupted_research", "l": "simp_chinese", "t": 1712379981, "v0": "Corrupted Data", "v1": "数据损坏", "v2": "english"}
@@ -23,78 +23,78 @@
 {"k": "MT_envy_positive_desc", "l": "simp_chinese", "t": 1712379928, "v0": "We have managed to obtain data from a foreign empire, enhancing our scientific alternatives.", "v1": "我们成功地从其他国家获得了数据，增强了我们的科学项目。", "v2": "english"}
 {"k": "MT_error_log", "l": "simp_chinese", "s": true, "t": 1712379897, "v0": "Error Log", "v1": "", "v2": "english"}
 {"k": "MT_error_log_desc", "l": "simp_chinese", "s": true, "t": 1712379901, "v0": "Just a modifier to put modifiers that are not used so they don't show up in the error log", "v1": "", "v2": "english"}
-{"k": "MT_espionage_events.7.desc.hive", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_espionage_events.7.desc$", "v1": "", "v2": "english"}
-{"k": "MT_espionage_events.7.desc.machine", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_espionage_events.7.desc$", "v1": "", "v2": "english"}
-{"k": "MT_espionage_events.8.desc.hive", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_espionage_events.8.desc$", "v1": "", "v2": "english"}
-{"k": "MT_espionage_events.8.desc.machine", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_espionage_events.8.desc$", "v1": "", "v2": "english"}
-{"k": "MT_espionage_events.9.desc.machine", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_espionage_events.9.desc.hive$", "v1": "", "v2": "english"}
-{"k": "MT_espionage_events.999.desc.espionage_MT_caught_saboteurs", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_monument_megacorp", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$building_corporate_monument$", "v1": "", "v2": "english"}
-{"k": "MT_monument_regular", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$building_autochthon_monument$", "v1": "", "v2": "english"}
-{"k": "MT_situation_core_fast_communication", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_core_fast_communication$", "v1": "", "v2": "english"}
-{"k": "MT_situation_core_fast_communication_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_core_fast_communication_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_core_fast_communication_type", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_core_fast_communication$", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_demotion", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_evolution_demotion$", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_demotion_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_demotion_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_demotion_type", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_evolution_demotion$", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_farming", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_evolution_farmers_parental$", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_farming_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_farming_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_farming_type", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_evolution_farmers_parental$", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_predatory", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_evolution_predatory$", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_predatory_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_predatory_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_evolution_predatory_type", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_evolution_predatory$", "v1": "", "v2": "english"}
-{"k": "MT_situation_philosophy_entertainment", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_philosophy_entertainment$", "v1": "", "v2": "english"}
-{"k": "MT_situation_philosophy_entertainment_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_philosophy_entertainment$", "v1": "", "v2": "english"}
-{"k": "MT_situation_philosophy_entertainment_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_philosophy_entertainment$", "v1": "", "v2": "english"}
-{"k": "MT_situation_philosophy_entertainment_type", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_philosophy_entertainment$", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_cities_under_cities", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_ruination_cities_under_cities$", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_cities_under_cities_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_cities_under_cities_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_cities_under_cities_type", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_ruination_cities_under_cities$", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_couldrons_of_corrosion", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_ruination_couldrons_of_corrosion$", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_couldrons_of_corrosion_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_couldrons_of_corrosion_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_couldrons_of_corrosion_type", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_ruination_couldrons_of_corrosion$", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_revelry_in_ruin", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_ruination_revelry_in_ruin$", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_revelry_in_ruin_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_revelry_in_ruin_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_revelry_in_ruin_type", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_ruination_revelry_in_ruin$", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_spiteful_reclamations", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_ruination_spiteful_reclamations$", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_spiteful_reclamations_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_spiteful_reclamations_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "MT_situation_ruination_spiteful_reclamations_type", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_ruination_spiteful_reclamations$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_conquest_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_conquest_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_core_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_core_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_disruption_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_disruption_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_entrap_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_entrap_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_envy_gestalt_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_envy_gestal_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_exchange_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_exchange_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_greed_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_greed_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_greed_gestalt_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_greed_gestal_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_integration_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_integration_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_liberation_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_disruption_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_maritime_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_maritime_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_opulence_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_opulence_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_ruination_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_ruination_name$", "v1": "", "v2": "english"}
-{"k": "agenda_MT_veneration_finish", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$council_agenda_agenda_MT_veneration_name$", "v1": "", "v2": "english"}
-{"k": "job_MT_culture_worker_name_plural_with_icon", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "£job_culture_worker£ $job_culture_worker_plural$", "v1": "", "v2": "english"}
-{"k": "job_MT_organic_battery", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$job_organic_battery$", "v1": "", "v2": "english"}
-{"k": "job_MT_organic_battery_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$job_organic_battery_desc$", "v1": "", "v2": "english"}
-{"k": "job_MT_organic_battery_plural", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$job_organic_battery_plural$", "v1": "", "v2": "english"}
-{"k": "leader_trait_MT_royalty_keep", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_royalty_keep$", "v1": "", "v2": "english"}
-{"k": "leader_trait_MT_royalty_keep_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_royalty_keep_desc$", "v1": "", "v2": "english"}
-{"k": "mod_MT_bombardment_ethic_mult", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_bombardment_ethic_mult$", "v1": "", "v2": "english"}
-{"k": "mod_job_MT_organic_battery_add", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$mod_job_organic_battery_add$", "v1": "", "v2": "english"}
-{"k": "mod_job_MT_organic_battery_per_pop", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$mod_job_organic_battery_per_pop$", "v1": "", "v2": "english"}
-{"k": "mod_job_MT_organic_battery_per_pop_short", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$mod_job_organic_battery_per_pop_short$", "v1": "", "v2": "english"}
-{"k": "operation_MT_intel_sabotage_first_contact_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$operation_MT_intel_sabotage_desc$", "v1": "", "v2": "english"}
-{"k": "opinion_MT_exchange", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_exchange_winds_of_trade$", "v1": "", "v2": "english"}
-{"k": "opinion_MT_opulence", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_gilded_beacons$", "v1": "", "v2": "english"}
-{"k": "opinion_MT_vengeance", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_true_nemesis$", "v1": "", "v2": "english"}
+{"k": "MT_espionage_events.7.desc.hive", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_espionage_events.7.desc$", "v1": "", "v2": "english"}
+{"k": "MT_espionage_events.7.desc.machine", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_espionage_events.7.desc$", "v1": "", "v2": "english"}
+{"k": "MT_espionage_events.8.desc.hive", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_espionage_events.8.desc$", "v1": "", "v2": "english"}
+{"k": "MT_espionage_events.8.desc.machine", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_espionage_events.8.desc$", "v1": "", "v2": "english"}
+{"k": "MT_espionage_events.9.desc.machine", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_espionage_events.9.desc.hive$", "v1": "", "v2": "english"}
+{"k": "MT_espionage_events.999.desc.espionage_MT_caught_saboteurs", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_monument_megacorp", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$building_corporate_monument$", "v1": "", "v2": "english"}
+{"k": "MT_monument_regular", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$building_autochthon_monument$", "v1": "", "v2": "english"}
+{"k": "MT_situation_core_fast_communication", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_core_fast_communication$", "v1": "", "v2": "english"}
+{"k": "MT_situation_core_fast_communication_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_core_fast_communication_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_core_fast_communication_type", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_core_fast_communication$", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_demotion", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_evolution_demotion$", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_demotion_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_demotion_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_demotion_type", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_evolution_demotion$", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_farming", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_evolution_farmers_parental$", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_farming_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_farming_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_farming_type", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_evolution_farmers_parental$", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_predatory", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_evolution_predatory$", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_predatory_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_predatory_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_evolution_predatory_type", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_evolution_predatory$", "v1": "", "v2": "english"}
+{"k": "MT_situation_philosophy_entertainment", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_philosophy_entertainment$", "v1": "", "v2": "english"}
+{"k": "MT_situation_philosophy_entertainment_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_philosophy_entertainment$", "v1": "", "v2": "english"}
+{"k": "MT_situation_philosophy_entertainment_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_philosophy_entertainment$", "v1": "", "v2": "english"}
+{"k": "MT_situation_philosophy_entertainment_type", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_philosophy_entertainment$", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_cities_under_cities", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_ruination_cities_under_cities$", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_cities_under_cities_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_cities_under_cities_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_cities_under_cities_type", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_ruination_cities_under_cities$", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_couldrons_of_corrosion", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_ruination_couldrons_of_corrosion$", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_couldrons_of_corrosion_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_couldrons_of_corrosion_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_couldrons_of_corrosion_type", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_ruination_couldrons_of_corrosion$", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_revelry_in_ruin", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_ruination_revelry_in_ruin$", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_revelry_in_ruin_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_revelry_in_ruin_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_revelry_in_ruin_type", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_ruination_revelry_in_ruin$", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_spiteful_reclamations", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_ruination_spiteful_reclamations$", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_spiteful_reclamations_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_spiteful_reclamations_monthly_change_tooltip", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "MT_situation_ruination_spiteful_reclamations_type", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_ruination_spiteful_reclamations$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_conquest_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_conquest_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_core_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_core_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_disruption_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_disruption_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_entrap_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_entrap_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_envy_gestalt_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_envy_gestal_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_exchange_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_exchange_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_greed_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_greed_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_greed_gestalt_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_greed_gestal_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_integration_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_integration_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_liberation_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_disruption_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_maritime_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_maritime_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_opulence_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_opulence_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_ruination_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_ruination_name$", "v1": "", "v2": "english"}
+{"k": "agenda_MT_veneration_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_veneration_name$", "v1": "", "v2": "english"}
+{"k": "job_MT_culture_worker_name_plural_with_icon", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "£job_culture_worker£ $job_culture_worker_plural$", "v1": "", "v2": "english"}
+{"k": "job_MT_organic_battery", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$job_organic_battery$", "v1": "", "v2": "english"}
+{"k": "job_MT_organic_battery_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$job_organic_battery_desc$", "v1": "", "v2": "english"}
+{"k": "job_MT_organic_battery_plural", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$job_organic_battery_plural$", "v1": "", "v2": "english"}
+{"k": "leader_trait_MT_royalty_keep", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_royalty_keep$", "v1": "", "v2": "english"}
+{"k": "leader_trait_MT_royalty_keep_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_royalty_keep_desc$", "v1": "", "v2": "english"}
+{"k": "mod_MT_bombardment_ethic_mult", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_bombardment_ethic_mult$", "v1": "", "v2": "english"}
+{"k": "mod_job_MT_organic_battery_add", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$mod_job_organic_battery_add$", "v1": "", "v2": "english"}
+{"k": "mod_job_MT_organic_battery_per_pop", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$mod_job_organic_battery_per_pop$", "v1": "", "v2": "english"}
+{"k": "mod_job_MT_organic_battery_per_pop_short", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$mod_job_organic_battery_per_pop_short$", "v1": "", "v2": "english"}
+{"k": "operation_MT_intel_sabotage_first_contact_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$operation_MT_intel_sabotage_desc$", "v1": "", "v2": "english"}
+{"k": "opinion_MT_exchange", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_exchange_winds_of_trade$", "v1": "", "v2": "english"}
+{"k": "opinion_MT_opulence", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_gilded_beacons$", "v1": "", "v2": "english"}
+{"k": "opinion_MT_vengeance", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_true_nemesis$", "v1": "", "v2": "english"}
 {"k": "tr_mt_advisor_adopt", "l": "simp_chinese", "t": 1712380068, "v0": "Bureaucracy Traditions", "v1": "官僚传统", "v2": "english"}
 {"k": "tr_mt_advisor_emergency_powers", "l": "simp_chinese", "t": 1712381316, "v0": "Emergency Powers", "v1": "紧急状态", "v2": "english"}
 {"k": "tr_mt_advisor_emergency_powers_delayed", "l": "simp_chinese", "t": 1712381316, "v0": "The normal procedures will be ignored during times of need, when time is more valuable than adhering to policy.", "v1": "时间紧迫，没有时间来循规蹈矩了，冗长的决策流程将被忽略。", "v2": "english"}
@@ -103,21 +103,26 @@
 {"k": "tr_mt_advisor_emergency_powers_hive_delayed", "l": "simp_chinese", "t": 1712381450, "v0": "Special nodes are set in place to override normal thought processes during duress in order to speed up decision-making.", "v1": "建立特别紧急状态对策小组，加快决策速度。", "v2": "english"}
 {"k": "tr_mt_advisor_emergency_powers_machine", "l": "simp_chinese", "t": 1712381472, "v0": "Automated Responses", "v1": "自动化对策", "v2": "english"}
 {"k": "tr_mt_advisor_emergency_powers_machine_delayed", "l": "simp_chinese", "t": 1712381540, "v0": "Special code has been implemented to override normal runtime processes when a fast response is needed.", "v1": "正常决策流程已经被特别对策代码覆盖，执行速度大幅提升。", "v2": "english"}
-{"k": "tr_mt_advisor_extra_papers", "l": "simp_chinese", "t": 1712381574, "v0": "Extra Documentation", "v1": "冗余文档", "v2": "english"}
-{"k": "tr_mt_advisor_extra_papers_hive", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_advisor_extra_papers_machine$", "v1": "", "v2": "english"}
-{"k": "tr_mt_advisor_extra_papers_hive_delayed", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_advisor_extra_papers_machine_delayed$", "v1": "", "v2": "english"}
-{"k": "tr_mt_advisor_information_collection_hive", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_advisor_information_collection$", "v1": "", "v2": "english"}
-{"k": "tr_mt_advisor_information_collection_hive_delayed", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_advisor_information_collection_delayed$", "v1": "", "v2": "english"}
-{"k": "tr_mt_advisor_information_collection_machine", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_advisor_information_collection$", "v1": "", "v2": "english"}
-{"k": "tr_mt_advisor_information_collection_machine_delayed", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_advisor_information_collection_delayed$", "v1": "", "v2": "english"}
-{"k": "tr_mt_archeology_archeological_training_modifier_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "", "v1": "", "v2": "english"}
-{"k": "tr_mt_benevolence_open_borders_xenophile_delayed", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_benevolence_open_borders_delayed$", "v1": "", "v2": "english"}
-{"k": "tr_mt_guidance_trusted_caretaker_hive_delayed", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_guidance_trusted_caretaker_delayed$", "v1": "", "v2": "english"}
-{"k": "tr_mt_industry_pillars_of_creation_hive", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_industry_pillars_of_creation$", "v1": "", "v2": "english"}
-{"k": "tr_mt_manipulation_mandatory_voting_dictatorial", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_manipulation_mandatory_voting$", "v1": "", "v2": "english"}
-{"k": "tr_mt_manipulation_mandatory_voting_dictatorial_delayed", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_manipulation_mandatory_voting_delayed$", "v1": "", "v2": "english"}
-{"k": "tr_mt_royalty_mandate_inwards_perfection", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_royalty_mandate$", "v1": "", "v2": "english"}
-{"k": "tr_mt_vigilance_no_cloaking_adopt", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$Vigilance Traditions$", "v1": "", "v2": "english"}
-{"k": "triggered_opinion_MT_exchange", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$tr_mt_exchange_winds_of_trade$", "v1": "", "v2": "english"}
-{"k": "triggered_opinion_MT_opulence", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_gilded_beacons$", "v1": "", "v2": "english"}
-{"k": "triggered_opinion_MT_vengeance", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$MT_true_nemesis$", "v1": "", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers", "l": "simp_chinese", "t": 1712566218, "v0": "Extra Documentation", "v1": "明细文档", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers_delayed", "l": "simp_chinese", "t": 1712566181, "v0": "All actions in our empire is recorded and stored by an army of office workers, without which our entire way of life would collapse.", "v1": "帝国的所有政策都由官僚人员记录和存储，没有他们，我们的社会就会崩溃。", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers_hive", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_extra_papers_machine$", "v1": "", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers_hive_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_extra_papers_machine_delayed$", "v1": "", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers_machine", "l": "simp_chinese", "t": 1712568561, "v0": "Extra Data Points", "v1": "数据增强", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers_machine_delayed", "l": "simp_chinese", "t": 1712568590, "v0": "It is not enough to simply store data. All information collected by our drones will be run through simulations to create extra data points for further use in simulated simulations.", "v1": "仅仅存储数据是不够的。我们的无人机收集的所有信息都将通过模拟运行获得新的数据，这些增强数据对我们的帝国大有益处。", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers_megacorp", "l": "simp_chinese", "t": 1712568631, "v0": "Verified Contracts", "v1": "验证协议", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers_megacorp_delayed", "l": "simp_chinese", "t": 1712568623, "v0": "All agreements must be validated by a mandated official and at least two other witnesses.", "v1": "所有协议必须经过一名授权官员和至少两名其他证人的验证。", "v2": "english"}
+{"k": "tr_mt_advisor_information_collection_hive", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_information_collection$", "v1": "", "v2": "english"}
+{"k": "tr_mt_advisor_information_collection_hive_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_information_collection_delayed$", "v1": "", "v2": "english"}
+{"k": "tr_mt_advisor_information_collection_machine", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_information_collection$", "v1": "", "v2": "english"}
+{"k": "tr_mt_advisor_information_collection_machine_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_information_collection_delayed$", "v1": "", "v2": "english"}
+{"k": "tr_mt_archeology_archeological_training_modifier_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
+{"k": "tr_mt_benevolence_open_borders_xenophile_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_benevolence_open_borders_delayed$", "v1": "", "v2": "english"}
+{"k": "tr_mt_guidance_trusted_caretaker_hive_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_guidance_trusted_caretaker_delayed$", "v1": "", "v2": "english"}
+{"k": "tr_mt_industry_pillars_of_creation_hive", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_industry_pillars_of_creation$", "v1": "", "v2": "english"}
+{"k": "tr_mt_manipulation_mandatory_voting_dictatorial", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_manipulation_mandatory_voting$", "v1": "", "v2": "english"}
+{"k": "tr_mt_manipulation_mandatory_voting_dictatorial_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_manipulation_mandatory_voting_delayed$", "v1": "", "v2": "english"}
+{"k": "tr_mt_royalty_mandate_inwards_perfection", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_royalty_mandate$", "v1": "", "v2": "english"}
+{"k": "tr_mt_vigilance_no_cloaking_adopt", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$Vigilance Traditions$", "v1": "", "v2": "english"}
+{"k": "triggered_opinion_MT_exchange", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_exchange_winds_of_trade$", "v1": "", "v2": "english"}
+{"k": "triggered_opinion_MT_opulence", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_gilded_beacons$", "v1": "", "v2": "english"}
+{"k": "triggered_opinion_MT_vengeance", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$MT_true_nemesis$", "v1": "", "v2": "english"}

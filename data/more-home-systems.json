@@ -1,7 +1,7 @@
 {"k": "d_mhs_asteroid_crater", "l": "simp_chinese", "t": 1712209711, "v0": "£blocker  Asteroid Crater", "v1": "£blocker 小行星陨石坑", "v2": "english"}
 {"k": "d_mhs_asteroid_crater_desc", "l": "simp_chinese", "t": 1712209759, "v0": "This reminder of a large scale impact event marks the surrounding landscape.", "v1": "这种大规模撞击事件的改变了周边的地貌。", "v2": "english"}
-{"k": "d_mhs_city_ruins", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$d_city_ruins$", "v1": "", "v2": "english"}
-{"k": "d_mhs_city_ruins_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$d_city_ruins_desc$", "v1": "", "v2": "english"}
+{"k": "d_mhs_city_ruins", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$d_city_ruins$", "v1": "", "v2": "english"}
+{"k": "d_mhs_city_ruins_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$d_city_ruins_desc$", "v1": "", "v2": "english"}
 {"k": "d_mhs_durins_mines", "l": "simp_chinese", "t": 1712209786, "v0": "Mines of Durin", "v1": "都林矿井", "v2": "english"}
 {"k": "d_mhs_durins_mines_desc", "l": "simp_chinese", "t": 1712209852, "v0": "A vast and ancient network of underground mines, vaults and production facilities stretching over the whole planet.", "v1": "一个由地下矿井、仓库和生产设施组成的庞大而古老的网络，遍布整个行星。", "v2": "english"}
 {"k": "mhs_durin.21.a", "l": "simp_chinese", "t": 1712222415, "v0": "A strange material.", "v1": "奇异材料", "v2": "english"}
@@ -37,7 +37,7 @@
 {"k": "mhs_durinsforge_no_quest_system_NAME", "l": "simp_chinese", "t": 1712220137, "v0": "Durin's Forge (-)", "v1": "都林的熔炉 (-)", "v2": "english"}
 {"k": "mhs_durinsforge_system_DESC", "l": "simp_chinese", "t": 1712220169, "v0": "The Durin's Forge system is a trinary star system with a few planets and many asteroids.\n\nHomeworld - Size 16-20\n\n3 Suns, 1 Molten Worlds, 1 Gas Giant, 1 Frozen World, 12 Asteroids\n\nThis version has a quest.\n\n$system_initializer_DESC$", "v1": "都林熔炉星系是一个三星系统，拥有少量行星和许多小行星。包含一个16-20大小的母星、3 个太阳、1 个熔火世界、1 个气态巨行星、1 个冰冻世界、12 个小行星。此版本包含任务。 $system_initializer_DESC$", "v2": "english"}
 {"k": "mhs_durinsforge_system_NAME", "l": "simp_chinese", "t": 1712220152, "v0": "Durin's Forge (+)", "v1": "都林的熔炉 (+)", "v2": "english"}
-{"k": "mhs_sc_binary_1", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$sc_binary_1$", "v1": "", "v2": "english"}
-{"k": "mhs_sc_trinary_1", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$sc_trinary_1$", "v1": "", "v2": "english"}
-{"k": "planetary_ring_nuked_tile", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$pc_ringworld_habitable_tile$", "v1": "", "v2": "english"}
-{"k": "planetary_ring_nuked_tile_desc", "l": "simp_chinese", "s": true, "t": 1712483713, "v0": "$pc_ringworld_habitable_tile_desc$", "v1": "", "v2": "english"}
+{"k": "mhs_sc_binary_1", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$sc_binary_1$", "v1": "", "v2": "english"}
+{"k": "mhs_sc_trinary_1", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$sc_trinary_1$", "v1": "", "v2": "english"}
+{"k": "planetary_ring_nuked_tile", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$pc_ringworld_habitable_tile$", "v1": "", "v2": "english"}
+{"k": "planetary_ring_nuked_tile_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$pc_ringworld_habitable_tile_desc$", "v1": "", "v2": "english"}
