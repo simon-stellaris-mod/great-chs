@@ -87,6 +87,10 @@
 {"k": "agenda_MT_opulence_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_opulence_name$", "v1": "", "v2": "english"}
 {"k": "agenda_MT_ruination_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_ruination_name$", "v1": "", "v2": "english"}
 {"k": "agenda_MT_veneration_finish", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$council_agenda_agenda_MT_veneration_name$", "v1": "", "v2": "english"}
+{"k": "ap_MT_archeology_tradition_perk", "l": "simp_chinese", "t": 1713064012, "v0": "Marvels of the Past", "v1": "过去的奇迹", "v2": "english"}
+{"k": "ap_MT_archeology_tradition_perk_desc", "l": "simp_chinese", "t": 1713064142, "v0": "The exhibitions on our museums benefits greatly from the occasional special event where our empires most valuable relics are displayed for a limited time. By increasing the security around them we can increase the time our population can appriciate these unique wonders.", "v1": "我们的博物馆偶尔举办展览活动，在有限的时间内展示我们帝国最有价值的文物。通过加强博物馆的安保措施，我们可以提供更好的观摩体验。", "v2": "english"}
+{"k": "artifact_MT_buy_collector", "l": "simp_chinese", "t": 1713064155, "v0": "Buy from Private Collectors", "v1": "从私人收藏家处购买", "v2": "english"}
+{"k": "artifact_MT_buy_collector_desc", "l": "simp_chinese", "t": 1713064204, "v0": "Start a campaign were we offer to buy minor artifacts from collectors at a higher rate than normal.", "v1": "如果我们愿意以高于正常价格的价格从收藏家那里购买小型文物，就可以发起一项活动。（待校译）", "v2": "english"}
 {"k": "job_MT_culture_worker_name_plural_with_icon", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "£job_culture_worker£ $job_culture_worker_plural$", "v1": "", "v2": "english"}
 {"k": "job_MT_organic_battery", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$job_organic_battery$", "v1": "", "v2": "english"}
 {"k": "job_MT_organic_battery_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$job_organic_battery_desc$", "v1": "", "v2": "english"}

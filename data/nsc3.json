@@ -43,13 +43,13 @@
 {"k": "BATTLECRUISER_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$SHIP_THRUSTER_5$", "v1": "", "v2": "english"}
 {"k": "BATTLECRUISER_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": "", "v2": "english"}
 {"k": "BATTLECRUISER_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710578721, "v0": "Singularity Reactor", "v1": "奇点反应堆", "v2": "english"}
-{"k": "BATTLECRUISER_STERN_G6", "l": "simp_chinese", "t": 1710578765, "v0": "Missile Stern", "v1": "导弹舰艉", "v2": "english"}
+{"k": "BATTLECRUISER_STERN_G6", "l": "simp_chinese", "t": 1713083232, "v0": "Missile Stern", "v1": "鱼雷舰艉", "v2": "english"}
 {"k": "BATTLECRUISER_STERN_M8", "l": "simp_chinese", "t": 1710578775, "v0": "Broadside Stern", "v1": "平台舰艉", "v2": "english"}
 {"k": "BATTLECRUISER_STERN_S8P8", "l": "simp_chinese", "t": 1710578781, "v0": "Interceptor Stern", "v1": "拦截舰艉", "v2": "english"}
 {"k": "BATTLECRUISER_TORPEDO_1", "l": "simp_chinese", "t": 1710578792, "v0": "Minuteman Torpedo", "v1": "民兵鱼雷", "v2": "english"}
 {"k": "BATTLECRUISER_TORPEDO_1_DESC", "l": "simp_chinese", "t": 1710865143, "v0": "Named after its ability to fire more rapidly than most other torpedoes, the Minuteman is a special variant designed for the Battlecruiser class to execute devastating strikes on larger enemy capital ships. It can also be equipped on starbases and defense platforms for long-range capital ship defense.", "v1": "民兵鱼雷因其发射速度比大多数其他鱼雷更快而得名，是专为战列巡洋舰级设计的特殊型号，可对敌方主力舰进行毁灭性打击。它还可以装备在星际基地和防御平台上，用于防御远程主力舰。", "v2": "english"}
 {"k": "BATTLECRUISER_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$ZERO_POINT_REACTOR$", "v1": "", "v2": "english"}
-{"k": "BATTLESHIP_BOW_G4M10P4", "l": "simp_chinese", "t": 1710578826, "v0": "Fullisade Bow", "v1": "Fullisade舰艏", "v2": "english"}
+{"k": "BATTLESHIP_BOW_G4M10P4", "l": "simp_chinese", "t": 1713083582, "v0": "Fullisade Bow", "v1": "多功能舰艏", "v2": "english"}
 {"k": "BATTLESHIP_BOW_L7", "l": "simp_chinese", "t": 1710578835, "v0": "Artillery Bow", "v1": "火炮舰艏", "v2": "english"}
 {"k": "BATTLESHIP_BOW_S6M4L4", "l": "simp_chinese", "t": 1710578842, "v0": "Salvo Bow", "v1": "齐射舰艏", "v2": "english"}
 {"k": "BATTLESHIP_BOW_SF", "l": "simp_chinese", "t": 1710866026, "v0": "Spitfire Bow", "v1": "集火舰艏", "v2": "english"}
@@ -73,7 +73,7 @@
 {"k": "Battlecruiser_plural", "l": "simp_chinese", "t": 1710577689, "v0": "Battlecruisers", "v1": "战列巡洋舰", "v2": "english"}
 {"k": "CARRIER", "l": "simp_chinese", "t": 1710575391, "v0": "Carrier", "v1": "母舰", "v2": "english"}
 {"k": "CARRIER_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$ANTIMATTER_REACTOR$", "v1": "", "v2": "english"}
-{"k": "CARRIER_BOW_L1M3P4", "l": "simp_chinese", "t": 1710866092, "v0": "Carronade Bow", "v1": "Carronade舰艏", "v2": "english"}
+{"k": "CARRIER_BOW_L1M3P4", "l": "simp_chinese", "t": 1713086358, "v0": "Carronade Bow", "v1": "哨戒舰艏", "v2": "english"}
 {"k": "CARRIER_CLOAKING_3", "l": "simp_chinese", "t": 1710911375, "v0": "Carrier Elite Cloak", "v1": "母舰精英隐形场发生器", "v2": "english"}
 {"k": "CARRIER_CLOAKING_3_DESC", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$CLOAKING_3_DESC$", "v1": "", "v2": "english"}
 {"k": "CARRIER_CLOAKING_3_TOOLTIP", "l": "simp_chinese", "t": 1710911498, "v0": "While Cloaked:\n\nShield Hit Points: §R-100%§!\nSublight Speed: §R-50%§!\nStrike Craft Damage: §R-50%§!\nStrike Craft Fire Rate: §R-50%§!\nStrike Craft Speed: §R-50%§!", "v1": "隐形时：\n护盾值: §R-100%§! 亚光速: §R-50%§! 无人机伤害: §R-50%§! 无人机开火速度: §R-50%§! 无人机飞行速度: §R-50%§!", "v2": "english"}
@@ -148,7 +148,7 @@
 {"k": "CRUISER_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710866533, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆", "v2": "english"}
 {"k": "CRUISER_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710866542, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆", "v2": "english"}
 {"k": "CRUISER_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710866550, "v0": "Singularity Reactor", "v1": "奇点反应堆", "v2": "english"}
-{"k": "CRUISER_STERN_G2", "l": "simp_chinese", "t": 1710866557, "v0": "Missile Stern", "v1": "导弹舰艉", "v2": "english"}
+{"k": "CRUISER_STERN_G2", "l": "simp_chinese", "t": 1713083384, "v0": "Missile Stern", "v1": "鱼雷舰艉", "v2": "english"}
 {"k": "CRUISER_STERN_M2", "l": "simp_chinese", "t": 1710866562, "v0": "Broadside Stern", "v1": "平台舰艉", "v2": "english"}
 {"k": "CRUISER_STERN_P4", "l": "simp_chinese", "t": 1710927851, "v0": "Pinpoint Stern", "v1": "点防舰艉", "v2": "english"}
 {"k": "CRUISER_STERN_S4", "l": "simp_chinese", "t": 1710866577, "v0": "Interceptor Stern", "v1": "拦截舰艉", "v2": "english"}
@@ -175,9 +175,9 @@
 {"k": "DREADNOUGHT", "l": "simp_chinese", "t": 1710575427, "v0": "Dreadnought", "v1": "无畏舰", "v2": "english"}
 {"k": "DREADNOUGHT_ANTIMATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$ANTIMATTER_REACTOR$", "v1": "", "v2": "english"}
 {"k": "DREADNOUGHT_BOW_L10", "l": "simp_chinese", "t": 1710929760, "v0": "Artillery Bow", "v1": "巨炮舰艏", "v2": "english"}
-{"k": "DREADNOUGHT_BOW_S2P2G13", "l": "simp_chinese", "t": 1710929765, "v0": "Missile Bow", "v1": "导弹舰艏", "v2": "english"}
+{"k": "DREADNOUGHT_BOW_S2P2G13", "l": "simp_chinese", "t": 1713083312, "v0": "Missile Bow", "v1": "鱼雷舰艏", "v2": "english"}
 {"k": "DREADNOUGHT_BOW_S4P4M4L4", "l": "simp_chinese", "t": 1710929795, "v0": "Coverage Bow", "v1": "多功能舰艏", "v2": "english"}
-{"k": "DREADNOUGHT_BOW_XL4", "l": "simp_chinese", "t": 1710929805, "v0": "Devastator Bow", "v1": "毁灭者", "v2": "english"}
+{"k": "DREADNOUGHT_BOW_XL4", "l": "simp_chinese", "t": 1713083281, "v0": "Devastator Bow", "v1": "毁灭者舰艏", "v2": "english"}
 {"k": "DREADNOUGHT_COLD_FUSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$COLD_FUSION_REACTOR$", "v1": "", "v2": "english"}
 {"k": "DREADNOUGHT_DARK_MATTER_REACTOR", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$DARK_MATTER_REACTOR$", "v1": "", "v2": "english"}
 {"k": "DREADNOUGHT_FISSION_REACTOR", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$FISSION_REACTOR$", "v1": "", "v2": "english"}
@@ -209,7 +209,7 @@
 {"k": "DREADNOUGHT_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$SHIP_THRUSTER_5$", "v1": "", "v2": "english"}
 {"k": "DREADNOUGHT_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": "", "v2": "english"}
 {"k": "DREADNOUGHT_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927948, "v0": "Singularity Reactor", "v1": "奇点反应堆", "v2": "english"}
-{"k": "DREADNOUGHT_STERN_G9", "l": "simp_chinese", "t": 1710929874, "v0": "Missile Stern", "v1": "导弹舰艉", "v2": "english"}
+{"k": "DREADNOUGHT_STERN_G9", "l": "simp_chinese", "t": 1713083399, "v0": "Missile Stern", "v1": "鱼雷舰艉", "v2": "english"}
 {"k": "DREADNOUGHT_STERN_L5", "l": "simp_chinese", "t": 1710929878, "v0": "Artillery Stern", "v1": "巨炮舰艉", "v2": "english"}
 {"k": "DREADNOUGHT_STERN_M14", "l": "simp_chinese", "t": 1710929883, "v0": "Broadside Stern", "v1": "平台舰艉", "v2": "english"}
 {"k": "DREADNOUGHT_ZERO_POINT_REACTOR", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$ZERO_POINT_REACTOR$", "v1": "", "v2": "english"}
@@ -319,12 +319,12 @@
 {"k": "EXPLORATION_SLOT_SURVEY_LAB", "l": "simp_chinese", "t": 1710934606, "v0": "Survey Laboratory", "v1": "调查实验室", "v2": "english"}
 {"k": "EXPLORATION_SLOT_SURVEY_LAB_DESC", "l": "simp_chinese", "t": 1710934678, "v0": "There are so many planets and systems out there, waiting, begging to be discovered, and each one might hold the key to new discoveries. There's no time to waste, and this specialized laboratory will allow us to conduct our surveys much, much faster - which means we'll be able to survey more and more space in the same amount of time. More surveys means more discovery, more adventure, and more knowledge about the galaxy.", "v1": "广阔的星系包含如此多的等待被发现的行星和恒星系，每一颗都可能掌握着新发现的钥匙。没有时间可以浪费了，这个专业实验室将使我们能够更快地进行调查——这意味着我们将能够在相同的时间内调查越来越多的空间。更多的调查意味着更多的发现、更多的冒险以及更多关于银河系的知识。", "v2": "english"}
 {"k": "EXTRA_LARGE_STARBASE_SECTION", "l": "simp_chinese", "t": 1710934732, "v0": "XL Section", "v1": "超大号（待校译）", "v2": "english"}
-{"k": "FIGHTERS_HANGAR_PD_1", "l": "simp_chinese", "t": 1711336359, "v0": "Basic Fighter Wing (PD)", "v1": "基础战斗机机翼（点防御）I", "v2": "english"}
-{"k": "FIGHTERS_HANGAR_PD_1_DESC", "l": "simp_chinese", "t": 1711336572, "v0": "Basic Fighter-class strike craft will deploy to engage nearby hostiles when the mothership enters battle. Will stay close to its carrier to intercept bombers and missiles.", "v1": "当母舰进入战斗时，战斗机将部署以与附近的敌方交战，拦截靠近其母舰的轰炸机和导弹。", "v2": "english"}
-{"k": "FIGHTERS_HANGAR_PD_2", "l": "simp_chinese", "t": 1711336355, "v0": "Improved Fighter Wing (PD)", "v1": "改进战斗机机翼（点防御）II", "v2": "english"}
-{"k": "FIGHTERS_HANGAR_PD_2_DESC", "l": "simp_chinese", "t": 1711336567, "v0": "Improved Fighters target smaller enemy vessels as well as bombers and strike craft in coordinated maneuvers. Will stay close to its carrier to intercept bombers and missiles.", "v1": "改进型战斗机可以协调机动，瞄准较小的敌方舰艇以及轰炸机和攻击机，拦截靠近其母舰的轰炸机和导弹。", "v2": "english"}
-{"k": "FIGHTERS_HANGAR_PD_3", "l": "simp_chinese", "t": 1711336362, "v0": "Advanced Fighter Wing (PD)", "v1": "先进战斗机机翼（点防御）III", "v2": "english"}
-{"k": "FIGHTERS_HANGAR_PD_3_DESC", "l": "simp_chinese", "t": 1711336607, "v0": "An Advanced Fighter Wing is capable of doing significant damage to smaller enemy vessels and hold its own against hostile strike craft. Will stay close to its carrier to intercept bombers and missiles.", "v1": "先进战斗机联队能够对较小的敌方舰船造成重大伤害，并能抵御敌方舰船的攻击，拦截靠近其母舰的轰炸机和导弹。", "v2": "english"}
+{"k": "FIGHTERS_HANGAR_PD_1", "l": "simp_chinese", "t": 1713109031, "v0": "Basic Fighter Wing (PD)", "v1": "基础舰载机（点防御）", "v2": "english"}
+{"k": "FIGHTERS_HANGAR_PD_1_DESC", "l": "simp_chinese", "t": 1713109136, "v0": "Basic Fighter-class strike craft will deploy to engage nearby hostiles when the mothership enters battle. Will stay close to its carrier to intercept bombers and missiles.", "v1": "当母舰进入战斗时，基础舰载机（点防御）将部署以与附近的敌方交战，拦截靠近其母舰的轰炸机和导弹。", "v2": "english"}
+{"k": "FIGHTERS_HANGAR_PD_2", "l": "simp_chinese", "t": 1713109136, "v0": "Improved Fighter Wing (PD)", "v1": "改良型舰载机（点防御）", "v2": "english"}
+{"k": "FIGHTERS_HANGAR_PD_2_DESC", "l": "simp_chinese", "t": 1713109140, "v0": "Improved Fighters target smaller enemy vessels as well as bombers and strike craft in coordinated maneuvers. Will stay close to its carrier to intercept bombers and missiles.", "v1": "改良型舰载机（点防御）编队可以协调机动，瞄准较小的敌方舰艇以及轰炸机和攻击机，拦截靠近其母舰的轰炸机和导弹。", "v2": "english"}
+{"k": "FIGHTERS_HANGAR_PD_3", "l": "simp_chinese", "t": 1713109141, "v0": "Advanced Fighter Wing (PD)", "v1": "先进型舰载机（点防御）", "v2": "english"}
+{"k": "FIGHTERS_HANGAR_PD_3_DESC", "l": "simp_chinese", "t": 1713109143, "v0": "An Advanced Fighter Wing is capable of doing significant damage to smaller enemy vessels and hold its own against hostile strike craft. Will stay close to its carrier to intercept bombers and missiles.", "v1": "先进型舰载机（点防御）编队能够对较小的敌方舰船造成重大伤害，并能抵御敌方舰船的攻击，拦截靠近其母舰的轰炸机和导弹。", "v2": "english"}
 {"k": "FLAGSHIP", "l": "simp_chinese", "t": 1710575489, "v0": "Flagship", "v1": "旗舰", "v2": "english"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_1", "l": "simp_chinese", "t": 1710577803, "v0": "Black Hole Reactor", "v1": "黑洞反应堆", "v2": "english"}
 {"k": "FLAGSHIP_BLACK_HOLE_REACTOR_1_DESC", "l": "simp_chinese", "t": 1710577811, "v0": "Reactor powered by an artificial black hole.", "v1": "由人造黑洞提供动力的反应堆。", "v2": "english"}
@@ -385,7 +385,7 @@
 {"k": "FLAGSHIP_SHIP_THRUSTER_4_DESC", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$SHIP_THRUSTER_4_DESC$", "v1": "", "v2": "english"}
 {"k": "FLAGSHIP_SHIP_THRUSTER_5", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$SHIP_THRUSTER_5$", "v1": "", "v2": "english"}
 {"k": "FLAGSHIP_SHIP_THRUSTER_5_DESC", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$SHIP_THRUSTER_5_DESC$", "v1": "", "v2": "english"}
-{"k": "FLAGSHIP_STERN_G20", "l": "simp_chinese", "t": 1710944445, "v0": "Missile Stern", "v1": "导弹舰艉", "v2": "english"}
+{"k": "FLAGSHIP_STERN_G20", "l": "simp_chinese", "t": 1713083412, "v0": "Missile Stern", "v1": "鱼雷舰艉", "v2": "english"}
 {"k": "FLAGSHIP_STERN_L20", "l": "simp_chinese", "t": 1710944449, "v0": "Artillery Stern", "v1": "巨炮舰艉", "v2": "english"}
 {"k": "FLAGSHIP_STERN_M20", "l": "simp_chinese", "t": 1710944454, "v0": "Broadside Stern", "v1": "平台舰艉", "v2": "english"}
 {"k": "FLAGSHIP_STERN_P10H10", "l": "simp_chinese", "t": 1710944461, "v0": "PD Stern", "v1": "点防舰艉", "v2": "english"}
@@ -434,9 +434,9 @@
 {"k": "JUGGERNAUT_NAQUADRIA_REACTOR", "l": "simp_chinese", "t": 1710928264, "v0": "Naquadria Reactor", "v1": "Naquadria反应堆", "v2": "english"}
 {"k": "JUGGERNAUT_OPTIMIZED_ENIGMATIC_REACTOR", "l": "simp_chinese", "t": 1710928314, "v0": "Optimized Dark Matter Reactor", "v1": "先进暗物质反应堆", "v2": "english"}
 {"k": "JUGGERNAUT_SINGULARITY_REACTOR", "l": "simp_chinese", "t": 1710927952, "v0": "Singularity Reactor", "v1": "奇点反应堆", "v2": "english"}
-{"k": "LARGE_FIGHTERS_HANGAR_PD_1", "l": "simp_chinese", "t": 1711336685, "v0": "Basic Fighter Wing (PD)", "v1": "基础战斗机机翼（点防御）I", "v2": "english"}
-{"k": "LARGE_FIGHTERS_HANGAR_PD_2", "l": "simp_chinese", "t": 1711336691, "v0": "Improved Fighter Wing (PD)", "v1": "改进战斗机机翼（点防御）II", "v2": "english"}
-{"k": "LARGE_FIGHTERS_HANGAR_PD_3", "l": "simp_chinese", "t": 1711336696, "v0": "Advanced Fighter Wing (PD)", "v1": "先进战斗机机翼（点防御）III", "v2": "english"}
+{"k": "LARGE_FIGHTERS_HANGAR_PD_1", "l": "simp_chinese", "t": 1713109108, "v0": "Basic Fighter Wing (PD)", "v1": "基础舰载机（点防御）", "v2": "english"}
+{"k": "LARGE_FIGHTERS_HANGAR_PD_2", "l": "simp_chinese", "t": 1713109114, "v0": "Improved Fighter Wing (PD)", "v1": "改良型舰载机（点防御）", "v2": "english"}
+{"k": "LARGE_FIGHTERS_HANGAR_PD_3", "l": "simp_chinese", "t": 1713109122, "v0": "Advanced Fighter Wing (PD)", "v1": "先进型舰载机（点防御）", "v2": "english"}
 {"k": "LARGE_STARBASE_SECTION", "l": "simp_chinese", "t": 1711336701, "v0": "Large Section", "v1": "大型区段", "v2": "english"}
 {"k": "LIGHT_MILITARY_STATION_SECTION_2", "l": "simp_chinese", "t": 1711336712, "v0": "Light Station Section", "v1": "轻型区段 III", "v2": "english"}
 {"k": "LIGHT_MILITARY_STATION_SECTION_3", "l": "simp_chinese", "t": 1711336710, "v0": "Light Station Section", "v1": "轻型区段 II", "v2": "english"}
@@ -509,14 +509,14 @@
 {"k": "OFFSPRING_BATTLESHIP_STERN_L3", "l": "simp_chinese", "t": 1711093492, "v0": "Artillery Stern", "v1": "巨炮舰艉", "v2": "english"}
 {"k": "OFFSPRING_BATTLESHIP_STERN_M8", "l": "simp_chinese", "t": 1711093494, "v0": "Broadside Stern", "v1": "平台舰艉", "v2": "english"}
 {"k": "OFFSPRING_BATTLESHIP_STERN_SF", "l": "simp_chinese", "t": 1711093497, "v0": "Spitfire Stern", "v1": "集火舰艉", "v2": "english"}
-{"k": "OFFSPRING_CRUISER_BOW_G3", "l": "simp_chinese", "t": 1711093500, "v0": "Missile Bow", "v1": "导弹舰艉", "v2": "english"}
+{"k": "OFFSPRING_CRUISER_BOW_G3", "l": "simp_chinese", "t": 1713083330, "v0": "Missile Bow", "v1": "鱼雷舰艉", "v2": "english"}
 {"k": "OFFSPRING_CRUISER_BOW_L2", "l": "simp_chinese", "t": 1711093503, "v0": "Artillery Bow", "v1": "巨炮舰艏", "v2": "english"}
 {"k": "OFFSPRING_CRUISER_BOW_S3M3", "l": "simp_chinese", "t": 1711093518, "v0": "Volley Bow", "v1": "机枪舰艏", "v2": "english"}
 {"k": "OFFSPRING_CRUISER_MID_M2L2", "l": "simp_chinese", "t": 1711093524, "v0": "Artillery Core", "v1": "巨炮核心", "v2": "english"}
 {"k": "OFFSPRING_CRUISER_MID_P2M6", "l": "simp_chinese", "t": 1711093526, "v0": "Broadside Core", "v1": "平台核心", "v2": "english"}
 {"k": "OFFSPRING_CRUISER_MID_S4M4", "l": "simp_chinese", "t": 1711093530, "v0": "Volley Core", "v1": "机枪核心", "v2": "english"}
 {"k": "OFFSPRING_CRUISER_MID_S4P2H1", "l": "simp_chinese", "t": 1711093536, "v0": "Hangar Core", "v1": "机库核心", "v2": "english"}
-{"k": "OFFSPRING_CRUISER_STERN_G2", "l": "simp_chinese", "t": 1711093539, "v0": "Missile Stern", "v1": "导弹舰艉", "v2": "english"}
+{"k": "OFFSPRING_CRUISER_STERN_G2", "l": "simp_chinese", "t": 1713083349, "v0": "Missile Stern", "v1": "鱼雷舰艉", "v2": "english"}
 {"k": "OFFSPRING_CRUISER_STERN_M2", "l": "simp_chinese", "t": 1711093543, "v0": "Broadside Stern", "v1": "平台舰艉", "v2": "english"}
 {"k": "OFFSPRING_CRUISER_STERN_P4", "l": "simp_chinese", "t": 1711093547, "v0": "Pinpoint Stern", "v1": "点防舰艉", "v2": "english"}
 {"k": "OFFSPRING_CRUISER_STERN_S4", "l": "simp_chinese", "t": 1711093550, "v0": "Interceptor Stern", "v1": "拦截舰艉", "v2": "english"}
@@ -525,7 +525,7 @@
 {"k": "OFFSPRING_DESTROYER_BOW_M2P4", "l": "simp_chinese", "t": 1711093580, "v0": "PD Destroyer Bow", "v1": "点防舰艏", "v2": "english"}
 {"k": "OFFSPRING_DESTROYER_BOW_S3", "l": "simp_chinese", "t": 1711093586, "v0": "Picket Bow", "v1": "哨戒舰艏", "v2": "english"}
 {"k": "OFFSPRING_DESTROYER_BOW_S4", "l": "simp_chinese", "t": 1711093589, "v0": "Interceptor Bow", "v1": "拦截舰艏", "v2": "english"}
-{"k": "OFFSPRING_DESTROYER_STERN_G1", "l": "simp_chinese", "t": 1711093592, "v0": "Missile Stern", "v1": "导弹舰艉", "v2": "english"}
+{"k": "OFFSPRING_DESTROYER_STERN_G1", "l": "simp_chinese", "t": 1713083362, "v0": "Missile Stern", "v1": "鱼雷舰艉", "v2": "english"}
 {"k": "OFFSPRING_DESTROYER_STERN_M1", "l": "simp_chinese", "t": 1711093595, "v0": "Gunship Stern", "v1": "机枪舰艉", "v2": "english"}
 {"k": "OFFSPRING_DESTROYER_STERN_P4", "l": "simp_chinese", "t": 1711093599, "v0": "PD Destroyer Stern", "v1": "点防舰艉", "v2": "english"}
 {"k": "OFFSPRING_DESTROYER_STERN_S2", "l": "simp_chinese", "t": 1711093604, "v0": "Interceptor Stern", "v1": "拦截舰艉", "v2": "english"}
@@ -753,9 +753,9 @@
 {"k": "XL_BEAM_STARBASE", "l": "simp_chinese", "t": 1711110911, "v0": "Polarized Electron Modulator", "v1": "偏振电子调制器", "v2": "english"}
 {"k": "XL_BEAM_STARBASE_DESC", "l": "simp_chinese", "t": 1712036275, "v0": "Twice the Dakka, Half the Size.", "v1": "超大型恒星基地（待校译）", "v2": "english"}
 {"k": "XL_CANNON_CORE", "l": "simp_chinese", "t": 1711110932, "v0": "Annihilator Cannon Core", "v1": "歼灭者核心", "v2": "english"}
-{"k": "adaptive_protocol", "l": "simp_chinese", "t": 1711110939, "v0": "Adaptive Protocol", "v1": "自适应协议", "v2": "english"}
-{"k": "adaptive_protocol_desc", "l": "simp_chinese", "t": 1711283663, "v0": "Our officer drones have been designed with more independent thought in order to adapt in different situations. This means that we can field more ships, with our officer drones able to manage their crews with more autonomy, but overall combat performance will suffer slightly from the lack of unified action.", "v1": "我们的军官无人机在设计时具有更加独立的思想，以适应不同的情况。这意味着我们可以部署更多的舰船，让我们的军官无人机能够以更大的自主权管理其人员，但由于缺乏统一行动，整体作战性能将受到轻微影响。", "v2": "english"}
-{"k": "adaptive_protocol_name", "l": "simp_chinese", "t": 1711110960, "v0": "Adaptive Protocol", "v1": "自适应协议", "v2": "english"}
+{"k": "adaptive_protocol", "l": "simp_chinese", "t": 1713084739, "v0": "Adaptive Protocol", "v1": "适应性训练", "v2": "english"}
+{"k": "adaptive_protocol_desc", "l": "simp_chinese", "t": 1713084806, "v0": "Our officer drones have been designed with more independent thought in order to adapt in different situations. This means that we can field more ships, with our officer drones able to manage their crews with more autonomy, but overall combat performance will suffer slightly from the lack of unified action.", "v1": "我们在训练中鼓励军官基于战场态势灵活自主决策，以适应不同的战场环境。", "v2": "english"}
+{"k": "adaptive_protocol_name", "l": "simp_chinese", "t": 1713084741, "v0": "Adaptive Protocol", "v1": "适应性训练", "v2": "english"}
 {"k": "ai_behaviour", "l": "simp_chinese", "t": 1710575600, "v0": "AI Tactic", "v1": "智能战术", "v2": "english"}
 {"k": "ai_behaviour_DESC", "l": "simp_chinese", "t": 1710575595, "v0": "AI Tactic slot.", "v1": "智能战术槽位", "v2": "english"}
 {"k": "ai_behaviour_charge", "l": "simp_chinese", "t": 1710575628, "v0": "Charge Tactic", "v1": "冲锋", "v2": "english"}
@@ -811,15 +811,15 @@
 {"k": "armor_focus_name", "l": "simp_chinese", "t": 1711362812, "v0": "Armor Focus", "v1": "优化装甲防卫", "v2": "english"}
 {"k": "aura_starbase_ship_amplifier", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$defensive_aura$ - $STARBASE_AURA_SHIP_AMPLIFIER$", "v1": "", "v2": "english"}
 {"k": "aura_starbase_ship_disruptor", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$offensive_aura$ - $STARBASE_AURA_SHIP_DISRUPTOR$", "v1": "", "v2": "english"}
-{"k": "balanced_focus", "l": "simp_chinese", "t": 1711362499, "v0": "Standard Armament", "v1": "平衡模式", "v2": "english"}
+{"k": "balanced_focus", "l": "simp_chinese", "t": 1713085598, "v0": "Standard Armament", "v1": "标准武器模式", "v2": "english"}
 {"k": "balanced_focus_desc", "l": "simp_chinese", "t": 1711342799, "v0": "We will spread our focus evenly across the weapon types; there is no need to specialize in one to the detriment of the others.", "v1": "我们将把重点均匀地分布在不同的武器类型上，没有必要专门研究某一方面而损害其他方面。", "v2": "english"}
-{"k": "balanced_focus_name", "l": "simp_chinese", "t": 1711342803, "v0": "Standard Armament", "v1": "平衡模型", "v2": "english"}
-{"k": "black_sky", "l": "simp_chinese", "t": 1712986277, "v0": "Black Sky Operations", "v1": "“黑天”作战战术", "v2": "english"}
-{"k": "black_sky_desc", "l": "simp_chinese", "t": 1712986282, "v0": "Our Navy must be able to project power far away from home--to protect our allies, punish our enemies, and respond to crises wherever they may arise. We cannot rely on Starbases to support our fleet; we must be able to fight anywhere, even across the galaxy. A Black Sky fleet is a tool of diplomacy, just like any other.", "v1": "我们的海军必须能够向远离家乡的地方投射力量——保护我们的盟友，惩罚我们的敌人，并对任何可能出现的危机做出反应。我们不能依靠星际基地来支持我们的舰队；我们必须能够在任何地方作战，甚至跨越银河系。", "v2": "english"}
-{"k": "black_sky_name", "l": "simp_chinese", "t": 1712986286, "v0": "Black Sky Operations", "v1": "“黑天”作战战术", "v2": "english"}
-{"k": "blue_sky", "l": "simp_chinese", "t": 1712986290, "v0": "Blue Sky Operations", "v1": "”蓝天“作战战术", "v2": "english"}
-{"k": "blue_sky_desc", "l": "simp_chinese", "t": 1712986294, "v0": "Nothing is more important than the defense of our planets and our people. Our Navy exists purely to defend our nation, and we should plan to keep our campaigns limited to space we control, and fight primarily with our mighty Starbases in support of our fleets.", "v1": "没有什么比保卫我们的星球和人民更重要的了。我们海军存在的意义是为了保卫我们的国家，我们应该计划将我们的战役限制在我们控制的星系内，并主要利用我们强大的星际基地来支持我们的舰队。", "v2": "english"}
-{"k": "blue_sky_name", "l": "simp_chinese", "t": 1712986298, "v0": "Blue Sky Operations", "v1": "”蓝天“作战战术", "v2": "english"}
+{"k": "balanced_focus_name", "l": "simp_chinese", "t": 1713085602, "v0": "Standard Armament", "v1": "标准武器模式", "v2": "english"}
+{"k": "black_sky", "l": "simp_chinese", "t": 1713085215, "v0": "Black Sky Operations", "v1": "侵略作战战术", "v2": "english"}
+{"k": "black_sky_desc", "l": "simp_chinese", "t": 1713085238, "v0": "Our Navy must be able to project power far away from home--to protect our allies, punish our enemies, and respond to crises wherever they may arise. We cannot rely on Starbases to support our fleet; we must be able to fight anywhere, even across the galaxy. A Black Sky fleet is a tool of diplomacy, just like any other.", "v1": "我们的海军必须能够向远离家乡的地方投射力量 —— 保护我们的盟友，惩罚我们的敌人，并对任何可能出现的危机做出反应。我们不能依靠星际基地来支持我们的舰队；我们必须能够在任何地方作战，甚至跨越银河系。", "v2": "english"}
+{"k": "black_sky_name", "l": "simp_chinese", "t": 1713085239, "v0": "Black Sky Operations", "v1": "侵略作战战术", "v2": "english"}
+{"k": "blue_sky", "l": "simp_chinese", "t": 1713085239, "v0": "Blue Sky Operations", "v1": "防御作战战术", "v2": "english"}
+{"k": "blue_sky_desc", "l": "simp_chinese", "t": 1713085241, "v0": "Nothing is more important than the defense of our planets and our people. Our Navy exists purely to defend our nation, and we should plan to keep our campaigns limited to space we control, and fight primarily with our mighty Starbases in support of our fleets.", "v1": "没有什么比保卫我们的星球和人民更重要的了。我们海军存在的意义是为了保卫我们的国家，我们应该计划将我们的战役限制在我们控制的星系内，并主要利用我们强大的星际基地来支持我们的舰队。", "v2": "english"}
+{"k": "blue_sky_name", "l": "simp_chinese", "t": 1713085243, "v0": "Blue Sky Operations", "v1": "防御作战战术", "v2": "english"}
 {"k": "brawler", "l": "simp_chinese", "t": 1711362798, "v0": "Brawler Focus", "v1": "优化动能武器", "v2": "english"}
 {"k": "brawler_desc", "l": "simp_chinese", "t": 1711362799, "v0": "Kinetic weapons have a long and storied history. Our Kinetic weapons will tear through enemy shields and hulls and bring glory to our nation.", "v1": "动能武器有着悠久而传奇的历史。我们的动能武器将撕裂敌人的护盾和船体，为我们的国家带来荣耀。", "v2": "english"}
 {"k": "brawler_name", "l": "simp_chinese", "t": 1711362802, "v0": "Brawler Focus", "v1": "优化动能武器", "v2": "english"}
@@ -854,9 +854,9 @@
 {"k": "guided_munitions_focus", "l": "simp_chinese", "t": 1711366616, "v0": "Missile Focus", "v1": "优化导弹武器", "v2": "english"}
 {"k": "guided_munitions_focus_desc", "l": "simp_chinese", "t": 1711366649, "v0": "Explosive weapons . Our powerful missiles will secure victory for our people.", "v1": "伤害巨大的爆炸性武器，我们强大的导弹将为我们的人民确保胜利。", "v2": "english"}
 {"k": "guided_munitions_focus_name", "l": "simp_chinese", "t": 1711366655, "v0": "Missile Focus", "v1": "优先导弹武器", "v2": "english"}
-{"k": "gunship_focus", "l": "simp_chinese", "t": 1711366711, "v0": "Gunship Focus", "v1": "优先能量武器", "v2": "english"}
+{"k": "gunship_focus", "l": "simp_chinese", "t": 1713083082, "v0": "Gunship Focus", "v1": "优化能量武器", "v2": "english"}
 {"k": "gunship_focus_desc", "l": "simp_chinese", "t": 1711366704, "v0": "There is a certain majesty to the manipulation of direct energy to destroy one's foes. Our Energy weapons will burn through enemy ships and melt away their fleets.", "v1": "直接操纵能量来摧毁敌人是相当令人畏惧的能力，我们的能源武器将烧毁敌方舰船并融化他们的舰队。", "v2": "english"}
-{"k": "gunship_focus_name", "l": "simp_chinese", "t": 1711366756, "v0": "Gunship Focus", "v1": "优先能量武器", "v2": "english"}
+{"k": "gunship_focus_name", "l": "simp_chinese", "t": 1713083093, "v0": "Gunship Focus", "v1": "优化能量武器", "v2": "english"}
 {"k": "hardening_focus", "l": "simp_chinese", "t": 1711366793, "v0": "Defensive Hardening", "v1": "优化防御系统", "v2": "english"}
 {"k": "hardening_focus_desc", "l": "simp_chinese", "t": 1711366793, "v0": "If we focus on hardening our shields and armor plating we can resist penetration weapon systems to make our ships tougher", "v1": "如果我们专注于强化我们的护盾和装甲，我们就可以抵抗穿透武器系统，从而使我们的舰船变得更坚固。", "v2": "english"}
 {"k": "hardening_focus_name", "l": "simp_chinese", "t": 1711366794, "v0": "Defensive Hardening", "v1": "优化防御系统", "v2": "english"}
@@ -1336,10 +1336,10 @@
 {"k": "policy_armament_doctrine_desc", "l": "simp_chinese", "t": 1712985621, "v0": "This Fleet Doctrine determines what armaments our ship designs should emphasize, at the expense of reduced efficiency with other weapons.", "v1": "军备理论决定了我们的舰船设计应强化哪些武器，但以降低其他武器的效率为代价。", "v2": "english"}
 {"k": "policy_composition_doctrine", "l": "simp_chinese", "t": 1712985630, "v0": "Fleet Composition Doctrine", "v1": "舰队主力", "v2": "english"}
 {"k": "policy_composition_doctrine_desc", "l": "simp_chinese", "t": 1712985670, "v0": "This Fleet Doctrine determines which types of ships should make up the bulk of our naval forces, allowing us to construct our favored vessels more quickly at a lower cost, at the expense of taking longer and costing more to build ships that we are not emphasizing.", "v1": "舰队主力政策决定了哪些类型的舰船应该构成我们海军的主体，使我们能够以更低的成本更快地建造我们的主力舰队，但代价是建造非主力舰队时需要更长时间和更多的成本。", "v2": "english"}
-{"k": "policy_crew_doctrine", "l": "simp_chinese", "t": 1712985722, "v0": "Crew Training Doctrine", "v1": "军队培训", "v2": "english"}
-{"k": "policy_crew_doctrine_desc", "l": "simp_chinese", "t": 1712985737, "v0": "The training of a Navy's crews and officers is one of the most important aspect it ever undertakes. We should carefully tailor our training programs to fit our circumstances; outdated or maladapted training programs are worse than useless, and will cripple our Navy. We must decide how to train our crews and officers.", "v1": "舰队船员和军官的培训是海军最重要的工作之一。我们应该根据我们的具体情况仔细调整我们的培训计划；过时或不适用的训练计划会带来严重的负面效果、削弱我们的军队。我们必须决定如何培训我们的船员和军官。", "v2": "english"}
-{"k": "policy_crew_doctrine_gestalt", "l": "simp_chinese", "t": 1712985749, "v0": "Drone Crew Doctrine", "v1": "无人机", "v2": "english"}
-{"k": "policy_crew_doctrine_gestalt_desc", "l": "simp_chinese", "t": 1711537982, "v0": "The training of a Navy's drones is one of the most important aspect it ever undertakes. We should carefully tailor our training programs to fit our circumstances; outdated or maladapted training programs are worse than useless, and will cripple our Navy. We must decide how to train our drones.", "v1": "无人机的训练是所有船员培训中非常重要的一部分。我们应该根据我们的具体情况仔细调整我们的培训计划；过时或不适用的训练计划会带来严重的负面效果、削弱我们的军队。我们必须决定如何培训我们的船员和军官。", "v2": "english"}
+{"k": "policy_crew_doctrine", "l": "simp_chinese", "t": 1713084406, "v0": "Crew Training Doctrine", "v1": "军队训练理论", "v2": "english"}
+{"k": "policy_crew_doctrine_desc", "l": "simp_chinese", "t": 1713084435, "v0": "The training of a Navy's crews and officers is one of the most important aspect it ever undertakes. We should carefully tailor our training programs to fit our circumstances; outdated or maladapted training programs are worse than useless, and will cripple our Navy. We must decide how to train our crews and officers.", "v1": "舰队船员和军官的培训是海军最重要的工作之一。我们应该根据我们的具体情况仔细调整我们的训练计划；过时或不适用的训练计划会带来严重的负面效果、削弱我们的军队。我们必须决定如何训练我们的船员和军官。", "v2": "english"}
+{"k": "policy_crew_doctrine_gestalt", "l": "simp_chinese", "t": 1713084465, "v0": "Drone Crew Doctrine", "v1": "军队训练理论", "v2": "english"}
+{"k": "policy_crew_doctrine_gestalt_desc", "l": "simp_chinese", "t": 1713084471, "v0": "The training of a Navy's drones is one of the most important aspect it ever undertakes. We should carefully tailor our training programs to fit our circumstances; outdated or maladapted training programs are worse than useless, and will cripple our Navy. We must decide how to train our drones.", "v1": "舰队船员和军官的培训是海军最重要的工作之一。我们应该根据我们的具体情况仔细调整我们的训练计划；过时或不适用的训练计划会带来严重的负面效果、削弱我们的军队。我们必须决定如何训练我们的船员和军官。", "v2": "english"}
 {"k": "policy_defense_doctrine", "l": "simp_chinese", "t": 1712985764, "v0": "Defense Doctrine", "v1": "防御理论", "v2": "english"}
 {"k": "policy_defense_doctrine_desc", "l": "simp_chinese", "t": 1712985788, "v0": "This Fleet Doctrine determines which type of ship defenses our ships should emphasize, at the cost of reduced efficiency with the other defensive option.", "v1": "防御理论决定了我们的舰船应该重视哪种类型的防御，但代价是降低其他防御类型的效果。", "v2": "english"}
 {"k": "policy_operations_doctrine", "l": "simp_chinese", "t": 1712985795, "v0": "Fleet Operations Doctrine", "v1": "舰队作战理论", "v2": "english"}
@@ -1349,9 +1349,9 @@
 {"k": "privateer_operation", "l": "simp_chinese", "t": 1712986204, "v0": "Anti-Piracy Operations", "v1": "反海盗作战战术", "v2": "english"}
 {"k": "privateer_operation_desc", "l": "simp_chinese", "t": 1711538700, "v0": "Our fleets are more than sufficient to defend us and our way of life, but they are also instrumental in protecting our internal trade. Trade is the lifeblood of our Empire, and we must do everything we can to protect it.", "v1": "我们的舰队足以保卫我们的家园和我们的生活方式，但它们也有助于保护我们的内部贸易。贸易是我们帝国的命脉，我们必须尽一切努力保护它。", "v2": "english"}
 {"k": "privateer_operation_name", "l": "simp_chinese", "t": 1712986217, "v0": "Anti-Piracy Operations", "v1": "反海盗作战战术", "v2": "english"}
-{"k": "quality_protocol", "l": "simp_chinese", "t": 1711539303, "v0": "Quality Protocol", "v1": "高质量协议", "v2": "english"}
-{"k": "quality_protocol_desc", "l": "simp_chinese", "t": 1711539303, "v0": "Our drones must be of the highest quality, to make our ships fight at peak efficiency. We will be unable to fill as many ships as we might have with more lax standards, but this is the price we pay for excellence.", "v1": "我们的无人机必须具有最高质量，才能使我们的舰队以最高效率作战，但是在这种情况下我们可能无法尽可能得利用舰船的无人机空间，这就是我们为追求卓越而付出的代价。", "v2": "english"}
-{"k": "quality_protocol_name", "l": "simp_chinese", "t": 1711539306, "v0": "Quality Protocol", "v1": "高质量协议", "v2": "english"}
+{"k": "quality_protocol", "l": "simp_chinese", "t": 1713084662, "v0": "Quality Protocol", "v1": "严格训练", "v2": "english"}
+{"k": "quality_protocol_desc", "l": "simp_chinese", "t": 1713084718, "v0": "Our drones must be of the highest quality, to make our ships fight at peak efficiency. We will be unable to fill as many ships as we might have with more lax standards, but this is the price we pay for excellence.", "v1": "我们的军队必须经过最严格的训练，才能使我们的舰队以最高效率作战，但是严格的训练需要花费额外的时间成本，这就是我们为追求卓越而付出的代价。", "v2": "english"}
+{"k": "quality_protocol_name", "l": "simp_chinese", "t": 1713084666, "v0": "Quality Protocol", "v1": "严格训练", "v2": "english"}
 {"k": "requires_colony", "l": "simp_chinese", "t": 1711539313, "v0": "Requires Colonized planet", "v1": "需要殖民星球", "v2": "english"}
 {"k": "requires_discovery_tree", "l": "simp_chinese", "t": 1711539332, "v0": "Requires completing the §MDiscovery Tradition§!", "v1": "需要完成 §M发现 传统§!", "v2": "english"}
 {"k": "requires_existing_generator_emisor", "l": "simp_chinese", "t": 1711539670, "v0": "$TRIGGER_FAIL$Requires existing §YHyperlane Generator (Emitter)§! in the Empire in a system not connected by an hyperlane to §Y[Root.GetName]§!.", "v1": "$TRIGGER_FAIL$需要在领地内的没有连接 §Y[Root.GetName]§! 超空间航道的星系中存在 §Y超空间航道发生器（发射端）§!。（待校译）", "v2": "english"}
@@ -1391,8 +1391,8 @@
 {"k": "sm_armor_module_desc", "l": "simp_chinese", "t": 1711540197, "v0": "Adds more armor to the Starbase.\n", "v1": "为恒星基地添加更多装甲。", "v2": "english"}
 {"k": "sm_artifact_silo", "l": "simp_chinese", "t": 1711540216, "v0": "Minor Artifacts Storage", "v1": "小型文物仓库", "v2": "english"}
 {"k": "sm_artifact_silo_desc", "l": "simp_chinese", "t": 1711540235, "v0": "This specialized silo can be used to store Minor Artifacts on a starbase.\n", "v1": "这个专门的仓库可用于在恒星基地上存储小型文物。", "v2": "english"}
-{"k": "sm_assembly_line_manufacturing", "l": "simp_chinese", "t": 1711540250, "v0": "Assembly Line Manufacturing", "v1": "装配线制造", "v2": "english"}
-{"k": "sm_assembly_line_manufacturing_desc", "l": "simp_chinese", "t": 1711540383, "v0": "Helps in the production of alloys and consumer goods both in space and on planets. Will also improve the output of every §GSpace Foundry§! by §Y1 Alloy§!  £alloys  and §GSpace Factory§! by §Y2 Consumer Goods§!  £consumer_goods.\n", "v1": "帮助在太空和行星上生产合金和消费品，还将提高每个§G太空工厂§的产量，增加§Y1合金§! £合金和§Y2 消费品§! £consumer_goods。", "v2": "english"}
+{"k": "sm_assembly_line_manufacturing", "l": "simp_chinese", "t": 1713083956, "v0": "Assembly Line Manufacturing", "v1": "制造流水线", "v2": "english"}
+{"k": "sm_assembly_line_manufacturing_desc", "l": "simp_chinese", "t": 1713084156, "v0": "Helps in the production of alloys and consumer goods both in space and on planets. Will also improve the output of every §GSpace Foundry§! by §Y1 Alloy§!  £alloys  and §GSpace Factory§! by §Y2 Consumer Goods§!  £consumer_goods.\n", "v1": "提升恒星系内工厂生产合金和消费品的能力", "v2": "english"}
 {"k": "sm_asteroid_mining", "l": "simp_chinese", "t": 1711540402, "v0": "Asteroid Mining Team", "v1": "小行星采矿队", "v2": "english"}
 {"k": "sm_asteroid_mining_desc", "l": "simp_chinese", "t": 1711540506, "v0": "A team which mines stray asteroids that are too small to be targeted by a standard mining station. Having an §GAsteroid Mining Manager§! will improve the output by §Y2 Minerals§! £minerals.\n", "v1": "一个开采流浪小行星的团队，这些小行星太小，无法被标准采矿站锚定。建设 §G小行星采矿经理§! 增加 §Y2 矿物§! £minerals.", "v2": "english"}
 {"k": "sm_cloning_facilities", "l": "simp_chinese", "t": 1711540514, "v0": "Cloning Facilities", "v1": "克隆设施", "v2": "english"}
@@ -1404,8 +1404,8 @@
 {"k": "sm_drydock", "l": "simp_chinese", "t": 1711540665, "v0": "Drydock", "v1": "封闭式船坞", "v2": "english"}
 {"k": "sm_drydock_desc", "l": "simp_chinese", "t": 1711540681, "v0": "This specially-designed facility makes use of advanced technology to maintain atmospheric pressures within the Shipyards, allowing workers to more easily build, maintain, upgrade, and repair warships.\n", "v1": "这个专门设计的设施利用先进技术来维持造船厂内的大气压力，使工人能够更轻松地建造、维护、升级和修理军舰。", "v2": "english"}
 {"k": "sm_drydock_desc_modifier", "l": "simp_chinese", "t": 1711605652, "v0": "Increases the build capacity of each §Y$sm_shipyard$§! by §G1§!\n", "v1": "每个 §Y$sm_shipyard$§! 提升 §G1§ 建造容量！", "v2": "english"}
-{"k": "sm_farming_base", "l": "simp_chinese", "t": 1711605664, "v0": "System Agriculture Terminal", "v1": "星系农业终端（待校译）", "v2": "english"}
-{"k": "sm_farming_base_desc", "l": "simp_chinese", "t": 1711605701, "v0": "Some systems are specialized towards producing vast quantities of food to sustain our ever-growing population. A System Agriculture Terminal coordinates the efforts of all agricultural enterprises in the star system, increasing crop yields on all affected planets.\n", "v1": "有些星系专门生产大量食物来维持不断增长的人口。星系农业终端协调恒星系中所有农业生成过程，提高所有受影响星球上的农作物产量。", "v2": "english"}
+{"k": "sm_farming_base", "l": "simp_chinese", "t": 1713083804, "v0": "System Agriculture Terminal", "v1": "星系农场", "v2": "english"}
+{"k": "sm_farming_base_desc", "l": "simp_chinese", "t": 1713083814, "v0": "Some systems are specialized towards producing vast quantities of food to sustain our ever-growing population. A System Agriculture Terminal coordinates the efforts of all agricultural enterprises in the star system, increasing crop yields on all affected planets.\n", "v1": "有些星系专门生产大量食物来维持不断增长的人口，星系农场协调恒星系中所有农业生成过程，提高所有受影响星球上的农作物产量。", "v2": "english"}
 {"k": "sm_federal_reserve_bank", "l": "simp_chinese", "t": 1711542048, "v0": "Federal Reserve Bank", "v1": "联邦储备银行", "v2": "english"}
 {"k": "sm_federal_reserve_bank_desc", "l": "simp_chinese", "t": 1711542057, "v0": "A large financial bank that helps to improve trade within the system.\n", "v1": "帮助改善星系内贸易的大型金融银行。", "v2": "english"}
 {"k": "sm_fleet_club", "l": "simp_chinese", "t": 1711542065, "v0": "Fleet Officer's Club", "v1": "舰队军官俱乐部", "v2": "english"}
@@ -1476,9 +1476,9 @@
 {"k": "sm_starbase_management_machine_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "01000101 01110010 01110010 01101111 01110010 00100000 00110100 00110000 00110100 0001010\n", "v1": "", "v2": "english"}
 {"k": "sm_storage_room", "l": "simp_chinese", "t": 1711715285, "v0": "Storage Room", "v1": "储存仓库", "v2": "english"}
 {"k": "sm_storage_room_desc", "l": "simp_chinese", "t": 1711715303, "v0": "A small storage area for various resources.", "v1": "小型资源存储仓库。", "v2": "english"}
-{"k": "sm_strategic_defenses", "l": "simp_chinese", "t": 1711715325, "v0": "Strategic Starbase Defenses", "v1": "恒信基地战略防御", "v2": "english"}
+{"k": "sm_strategic_defenses", "l": "simp_chinese", "t": 1713083846, "v0": "Strategic Starbase Defenses", "v1": "恒星基地战略防御", "v2": "english"}
 {"k": "sm_strategic_defenses_desc", "l": "simp_chinese", "t": 1711715334, "v0": "Improves the shields and weapons of the Starbase.\n", "v1": "提升星际基地的护盾和武器。", "v2": "english"}
-{"k": "sm_synthetic_crystal_fabricator", "l": "simp_chinese", "t": 1711715484, "v0": "Synthetic Crystals Fabricator", "v1": "水晶合成厂", "v2": "english"}
+{"k": "sm_synthetic_crystal_fabricator", "l": "simp_chinese", "t": 1713084163, "v0": "Synthetic Crystals Fabricator", "v1": "稀有水晶合成厂", "v2": "english"}
 {"k": "sm_synthetic_crystal_fabricator_desc", "l": "simp_chinese", "t": 1711715489, "v0": "A special refinery that transforms minerals into rare crystals.\n", "v1": "一个特殊的精炼厂，将矿物转化为稀有水晶。", "v2": "english"}
 {"k": "sm_synthetic_gase_fabricator", "l": "simp_chinese", "t": 1711715533, "v0": "Synthetic Gases Fabricator", "v1": "异星天然气精炼厂", "v2": "english"}
 {"k": "sm_synthetic_gase_fabricator_desc", "l": "simp_chinese", "t": 1711715538, "v0": "A special refinery that transforms minerals into exotic gases.\n", "v1": "一个特殊的精炼厂，将矿物质转化为异星天然气。", "v2": "english"}
@@ -1500,15 +1500,15 @@
 {"k": "spower", "l": "simp_chinese", "t": 1711715799, "v0": "Power Station", "v1": "发电站", "v2": "english"}
 {"k": "srefinery", "l": "simp_chinese", "t": 1711715808, "v0": "Orbital Refinery", "v1": "轨道合金精炼厂", "v2": "english"}
 {"k": "ssensor", "l": "simp_chinese", "t": 1711715814, "v0": "Observatory", "v1": "天文台", "v2": "english"}
-{"k": "standard_composition", "l": "simp_chinese", "t": 1712035233, "v0": "Standard Composition", "v1": "标准构成", "v2": "english"}
-{"k": "standard_composition_desc", "l": "simp_chinese", "t": 1712035305, "v0": "Every ship has its place; we should not retool our shipyards to favor one type of construction over another. A wide-ranging fleet is the best option.", "v1": "每型军舰都有适合它的位置，我们不应该重建我们的造船厂以倾向于一种军舰而不是另一种，不同军舰的组合是舰队最佳选择。", "v2": "english"}
-{"k": "standard_composition_name", "l": "simp_chinese", "t": 1712035311, "v0": "Standard Composition", "v1": "标准构成", "v2": "english"}
+{"k": "standard_composition", "l": "simp_chinese", "t": 1713085665, "v0": "Standard Composition", "v1": "平衡性舰队", "v2": "english"}
+{"k": "standard_composition_desc", "l": "simp_chinese", "t": 1713083168, "v0": "Every ship has its place; we should not retool our shipyards to favor one type of construction over another. A wide-ranging fleet is the best option.", "v1": "每型军舰都有适合它的位置，我们不应该重建我们的造船厂以倾向于一种军舰而不是另一种，不同军舰的组合是舰队最佳选择。", "v2": "english"}
+{"k": "standard_composition_name", "l": "simp_chinese", "t": 1713085669, "v0": "Standard Composition", "v1": "平衡性舰队", "v2": "english"}
 {"k": "standard_crew", "l": "simp_chinese", "t": 1712028355, "v0": "Standard Training", "v1": "标准培训", "v2": "english"}
 {"k": "standard_crew_desc", "l": "simp_chinese", "t": 1712028425, "v0": "A standard level of training, without any specialized focus, will allow us to best maintain operational readiness.", "v1": "标准普适的培训将使我们为各种类型的任务做好准备。", "v2": "english"}
 {"k": "standard_crew_name", "l": "simp_chinese", "t": 1712028429, "v0": "Standard Training", "v1": "标准培训", "v2": "english"}
-{"k": "standard_drones", "l": "simp_chinese", "t": 1712028442, "v0": "Standard Drones", "v1": "标准无人机", "v2": "english"}
-{"k": "standard_drones_desc", "l": "simp_chinese", "t": 1712028793, "v0": "Our drones are sufficient at the moment; we do not require either higher quality drones, independent drones, or a swarm of naval drones.", "v1": "我们在使用的无人机已经足够优秀了，不需要更高质量的无人机、独立的无人机或无人机群。", "v2": "english"}
-{"k": "standard_drones_name", "l": "simp_chinese", "t": 1712028797, "v0": "Standard Drones", "v1": "标准无人机", "v2": "english"}
+{"k": "standard_drones", "l": "simp_chinese", "t": 1713084583, "v0": "Standard Drones", "v1": "标准训练", "v2": "english"}
+{"k": "standard_drones_desc", "l": "simp_chinese", "t": 1713084618, "v0": "Our drones are sufficient at the moment; we do not require either higher quality drones, independent drones, or a swarm of naval drones.", "v1": "我们当前的训练计划足够应对各种战场环境下的作战要求。", "v2": "english"}
+{"k": "standard_drones_name", "l": "simp_chinese", "t": 1713084623, "v0": "Standard Drones", "v1": "标准训练", "v2": "english"}
 {"k": "standard_operations", "l": "simp_chinese", "t": 1712986207, "v0": "Standard Operations", "v1": "标准作战战术", "v2": "english"}
 {"k": "standard_operations_desc", "l": "simp_chinese", "t": 1712986222, "v0": "We shouldn't over-specialize our Fleet Operations. We must be ready for any and all duties at all times, and never neglect one aspect of naval planning.", "v1": "我们不应该过度专业化我们的舰队作战战术，必须随时准备好执行任何和所有职责、不要忽视任何可能得军事行动。", "v2": "english"}
 {"k": "standard_operations_name", "l": "simp_chinese", "t": 1712986213, "v0": "Standard Operations", "v1": "标准作战战术", "v2": "english"}
@@ -1533,9 +1533,9 @@
 {"k": "super_carrier_desc", "l": "simp_chinese", "t": 1710866673, "v0": "Super Carrier Configuration", "v1": "超级母舰配置", "v2": "english"}
 {"k": "supportship", "l": "simp_chinese", "t": 1712161912, "v0": "Fleet Support Ship", "v1": "舰队支援驱逐舰", "v2": "english"}
 {"k": "supportship_plural", "l": "simp_chinese", "t": 1712161917, "v0": "Fleet Support Ships", "v1": "舰队支援驱逐舰", "v2": "english"}
-{"k": "swarm_protocol", "l": "simp_chinese", "t": 1710866728, "v0": "Swarm Protocol", "v1": "蜂群协议", "v2": "english"}
-{"k": "swarm_protocol_desc", "l": "simp_chinese", "t": 1712029372, "v0": "Our drones require only minimal training. Our ships must be fast, and blot out the stars with their numbers; it does not take much training to do this. Each ship is a negligible loss; there are two more to take its place. The Swarm will overwhelm with sheer numbers.", "v1": "我们的无人机只需要最基础必要的训练。它们必须速度快且数量足以遮蔽星辰，无穷无尽的机群让损失可以忽略不计 —— 虫群将以绝对数量压倒一切。", "v2": "english"}
-{"k": "swarm_protocol_name", "l": "simp_chinese", "t": 1712029384, "v0": "Swarm Protocol", "v1": "虫群协议", "v2": "english"}
+{"k": "swarm_protocol", "l": "simp_chinese", "t": 1713084832, "v0": "Swarm Protocol", "v1": "炮灰训练", "v2": "english"}
+{"k": "swarm_protocol_desc", "l": "simp_chinese", "t": 1713085079, "v0": "Our drones require only minimal training. Our ships must be fast, and blot out the stars with their numbers; it does not take much training to do this. Each ship is a negligible loss; there are two more to take its place. The Swarm will overwhelm with sheer numbers.", "v1": "我们的军队只需要最基础、必要的训练，因为我们将以绝对数量消灭一切敌人 —— 遮天盖日般无穷无尽的数量配合无以轮比的速度和灵活性足以消灭任何阻挡在我们前进路上的障碍，而代价不过是损失炮灰。", "v2": "english"}
+{"k": "swarm_protocol_name", "l": "simp_chinese", "t": 1713084836, "v0": "Swarm Protocol", "v1": "炮灰训练", "v2": "english"}
 {"k": "tech10_option", "l": "simp_chinese", "t": 1712029500, "v0": "Research Initiative 10", "v1": "研究计划 - 10", "v2": "english"}
 {"k": "tech10_option_desc", "l": "simp_chinese", "t": 1712029485, "v0": "This option will increase the number of research alternatives to 10 and will cost approximately 15% of our monthly research production.", "v1": "此选项会将备选科技的数量增加到 10 个，但会减少每月 15% 的研究点数。", "v2": "english"}
 {"k": "tech10_option_name", "l": "simp_chinese", "t": 1712029505, "v0": "Research Initiative 10", "v1": "研究计划 - 10", "v2": "english"}
@@ -1640,8 +1640,8 @@
 {"k": "tech_pd_frigate_1_desc", "l": "simp_chinese", "t": 1712033962, "v0": "Missiles, torpedoes, and strike craft all pose a grave threat to our fleets. Our naval engineers suggest re-designing our Frigates to mount an array of numerous point-defense weapons to shoot down these targets before they can reach our ships.", "v1": "导弹、鱼雷和攻击机都对我们的舰队构成严重威胁。我们的太空工程师建议重新设计护卫舰，安装一系列点防御武器，以便在这些武器击中我们的舰船之前将其击落。", "v2": "english"}
 {"k": "tech_power_station", "l": "simp_chinese", "t": 1712033970, "v0": "System Energy Grid", "v1": "星系能量网络", "v2": "english"}
 {"k": "tech_power_station_desc", "l": "simp_chinese", "t": 1712034039, "v0": "An expanding star empire requires ever-greater Energy production to sustain it. Creating specialized, space-based Energy-creation facilities will allow us to centralize our Energy production in key systems to better supply our nation's Energy needs.", "v1": "不断扩张的领地需要越来越多的能源来维护。建造专门的太空能源生产设施将使我们能够将能源生产集中在核心系统中，以更好地满足我们国家的能源需求。", "v2": "english"}
-{"k": "tech_sensorstation_1", "l": "simp_chinese", "t": 1712034045, "v0": "Sensor Station", "v1": "传感器站", "v2": "english"}
-{"k": "tech_sensorstation_1_desc", "l": "simp_chinese", "t": 1712034063, "v0": "The starbase sensor station uses advanced sensor arrays to extend our intelligence gathering capabilities across several star systems, giving us advanced warning of any possible threats near our borders.", "v1": "恒星基地传感器站使用先进的传感器阵列将我们的情报收集能力扩展到多个恒星系统，为我们边境附近的任何可能的威胁提供预先警告。", "v2": "english"}
+{"k": "tech_sensorstation_1", "l": "simp_chinese", "t": 1713084304, "v0": "Sensor Station", "v1": "监听传感器", "v2": "english"}
+{"k": "tech_sensorstation_1_desc", "l": "simp_chinese", "t": 1713084299, "v0": "The starbase sensor station uses advanced sensor arrays to extend our intelligence gathering capabilities across several star systems, giving us advanced warning of any possible threats near our borders.", "v1": "恒星基地监听传感器使用先进的传感器阵列将我们的情报收集能力扩展到多个恒星系统，为我们边境附近的任何可能的威胁提供预先警告。", "v2": "english"}
 {"k": "tech_ship_upkeep_1", "l": "simp_chinese", "t": 1712034194, "v0": "Efficient Fleet Supply Lines", "v1": "高效舰队补给线", "v2": "english"}
 {"k": "tech_ship_upkeep_1_desc", "l": "simp_chinese", "t": 1712034217, "v0": "Advancements in technology and logistics allow us to operate much more efficient supply lines to our fleets, thereby significantly reducing our ship upkeep costs.", "v1": "技术和物流的进步使我们能够为我们的舰队运营更高效的供应线，从而显着降低我们的舰队维护成本。", "v2": "english"}
 {"k": "tech_singularity_power", "l": "simp_chinese", "t": 1712034242, "v0": "Singularity Power", "v1": "奇点反应堆", "v2": "english"}
@@ -1691,7 +1691,7 @@
 {"k": "triggered_opinion_of_nsc_hopsital_1", "l": "simp_chinese", "t": 1712035077, "v0": "Galactic Hospital", "v1": "星际医院", "v2": "english"}
 {"k": "triggered_opinion_of_nsc_hopsital_2", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$triggered_opinion_of_nsc_hopsital_1$", "v1": "", "v2": "english"}
 {"k": "triggered_opinion_of_nsc_hopsital_3", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$triggered_opinion_of_nsc_hopsital_1$", "v1": "", "v2": "english"}
-{"k": "uniform_focus", "l": "simp_chinese", "t": 1712036547, "v0": "Standard Defenses", "v1": "标准防卫模型", "v2": "english"}
+{"k": "uniform_focus", "l": "simp_chinese", "t": 1713082602, "v0": "Standard Defenses", "v1": "标准防卫模式", "v2": "english"}
 {"k": "uniform_focus_desc", "l": "simp_chinese", "t": 1712035105, "v0": "We will focus on armor and shields in equal measure; there is no need to favor one over the other. They are strongest together.", "v1": "我们将同等重视装甲和护盾；没有必要偏袒其中之一。他们在一起是最强的。", "v2": "english"}
 {"k": "uniform_focus_name", "l": "simp_chinese", "t": 1712036552, "v0": "Standard Defenses", "v1": "标准防卫模型", "v2": "english"}
 {"k": "versatility_focus", "l": "simp_chinese", "t": 1712035123, "v0": "Cruiser Focus", "v1": "优化巡洋舰", "v2": "english"}
