@@ -6,8 +6,8 @@ if [ -z "${STELLARIS_TRANS_REPO_PATH}" ]; then
     exit 1
 fi
 
-if [ -z "${STELLARIS_NSC3_GIT_REPO_PATH}" ]; then
-    echo Require nsc git repo path. Please read README.md >&2
+if [ -z "${STELLARIS_NSC3_MOD_PATH}" ]; then
+    echo Require nsc mod path. Please read README.md >&2
     exit 1
 fi
 

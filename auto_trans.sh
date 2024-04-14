@@ -8,7 +8,7 @@ set -e
 echo Run auto-trans \[NSC3\] >&2
 python3 ${STELLARIS_TRANS_REPO_PATH}/scripts/translation.py \
     auto-trans \
-    --source-path ${STELLARIS_NSC3_GIT_REPO_PATH}/localisation \
+    --source-path ${STELLARIS_NSC3_MOD_PATH}/localisation \
     --load-language english \
     --source-language english \
     --target-language simp_chinese \

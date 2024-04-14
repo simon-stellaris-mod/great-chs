@@ -10,8 +10,14 @@
 {"k": "MESSAGE_TYPE_MT_STOLEN_RELIC_DESC", "l": "simp_chinese", "t": 1712379656, "v0": "Relic gained: [Owner.GetLastReceivedRelic]", "v1": "获得遗珍：[Owner.GetLastReceivedRelic]", "v2": "english"}
 {"k": "MT_Custodian_Alshigan_Effect", "l": "simp_chinese", "t": 1712379721, "v0": "\n§YAlshigan Engine§!: +1% Sublight Speed and Propulsion Research Speed", "v1": "§YAlshigan Engine§!：+1% 亚光速和推进技术研究速度（待校译）", "v2": "english"}
 {"k": "MT_Custodian_Astanine_Effect", "l": "simp_chinese", "t": 1712379722, "v0": "\n§YLast projector of the Astanine§!: +0.1 £stability£ Stability", "v1": "§YLast projector of the Astanine§!: +0.1 £stability£ 稳定度（待校译）", "v2": "english"}
+{"k": "MT_Custodian_ContingencyCore_Effect", "l": "simp_chinese", "t": 1712987035, "v0": "\n§YIsolated Contingency Core§!: +5 £unity£", "v1": "§Y独立应急核心§!: +5 £unity£", "v2": "english"}
+{"k": "MT_Custodian_CryoCore_Effect", "l": "simp_chinese", "t": 1712987063, "v0": "\n§YYuht Cryo Core§!: +0.05 £energy£ from Technicians", "v1": "§YYuht Cryo Core§!: -5% 人口维护费", "v2": "english"}
+{"k": "MT_Custodian_EzentianCore_Effect", "l": "simp_chinese", "t": 1712987076, "v0": "\n§YColossus Core§!: +1 Tracking", "v1": "§Y巨像核心§!: +6 £engineering£", "v2": "english"}
 {"k": "MT_Custodian_Eztarta_Effect", "l": "simp_chinese", "t": 1712379810, "v0": "\n§YCrystallized Spacetime Fragment§!: + 0.1% Resources from jobs", "v1": "§Y结晶时空碎片§!: + 0.1% 岗位产出（待校译）", "v2": "english"}
 {"k": "MT_Custodian_FrozenEngine_Effect", "l": "simp_chinese", "t": 1712558007, "v0": "\n§YThe Frozen Engine§!: §G+0.5%§! Monthly £energy£ $energy$", "v1": "§Y冻结引擎§!： §G+10%§! 岗位生产的 $energy$", "v2": "english"}
+{"k": "MT_Custodian_Innovo_Effect", "l": "simp_chinese", "t": 1712987119, "v0": "\n§YInnovo's Diary§!: +1 £opinion£ with normal empires", "v1": "§Y创新日记§!：普通帝国 +1 £opinion£", "v2": "english"}
+{"k": "MT_Custodian_IxardianDatabase_Effect", "l": "simp_chinese", "t": 1712987137, "v0": "\n§YIxardian Database§!: +1% £trade_value£", "v1": "§YIxardian Database§!: +4 £trade_value£", "v2": "english"}
+{"k": "MT_Custodian_Plexi_Log_Effect", "l": "simp_chinese", "t": 1712987152, "v0": "\n§YGlubdrag's Log§!: +0.5% £physics£ £society£ £engineering£", "v1": "§YGlubdrag's Log§!: +0.5% £physics£ £society£ £engineering£", "v2": "english"}
 {"k": "MT_NO_RELIC_TEXT", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
 {"k": "MT_disrupted_economy", "l": "simp_chinese", "t": 1712380006, "v0": "Market Manipulation", "v1": "市场操纵", "v2": "english"}
 {"k": "MT_disrupted_fleets", "l": "simp_chinese", "t": 1712380000, "v0": "Disrupted Fleet Communications", "v1": "舰队通讯中断", "v2": "english"}
@@ -111,10 +117,28 @@
 {"k": "tr_mt_advisor_extra_papers_machine_delayed", "l": "simp_chinese", "t": 1712568590, "v0": "It is not enough to simply store data. All information collected by our drones will be run through simulations to create extra data points for further use in simulated simulations.", "v1": "仅仅存储数据是不够的。我们的无人机收集的所有信息都将通过模拟运行获得新的数据，这些增强数据对我们的帝国大有益处。", "v2": "english"}
 {"k": "tr_mt_advisor_extra_papers_megacorp", "l": "simp_chinese", "t": 1712568631, "v0": "Verified Contracts", "v1": "验证协议", "v2": "english"}
 {"k": "tr_mt_advisor_extra_papers_megacorp_delayed", "l": "simp_chinese", "t": 1712568623, "v0": "All agreements must be validated by a mandated official and at least two other witnesses.", "v1": "所有协议必须经过一名授权官员和至少两名其他证人的验证。", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers_spiritualist", "l": "simp_chinese", "t": 1712986595, "v0": "Prayer Documentation", "v1": "祷告文件", "v2": "english"}
+{"k": "tr_mt_advisor_extra_papers_spiritualist_delayed", "l": "simp_chinese", "t": 1712986618, "v0": "Citizens who attend public temples will be marked as true believers. Documents may be retrieved by anyone who files the correct documents to the correct department.", "v1": "参加公共寺庙的公民将被标记为真正的信徒。任何将正确文件提交给正确部门的人都可以检索文件。（待校译）", "v2": "english"}
+{"k": "tr_mt_advisor_fast_procedures", "l": "simp_chinese", "t": 1712986623, "v0": "Fast Procedures", "v1": "快速程序", "v2": "english"}
+{"k": "tr_mt_advisor_fast_procedures_delayed", "l": "simp_chinese", "t": 1712986656, "v0": "All projects in our empire gets approved faster than ever before, enabling them to be completed much earlier than once thought possible.", "v1": "我们帝国的所有项目都比以往更快地获得批准，使它们能够比以前想象的更早完成。", "v2": "english"}
+{"k": "tr_mt_advisor_fast_procedures_hive", "l": "simp_chinese", "t": 1712986663, "v0": "Initiative Overdrive", "v1": "主动超速", "v2": "english"}
+{"k": "tr_mt_advisor_fast_procedures_hive_delayed", "l": "simp_chinese", "t": 1712986671, "v0": "All new initiatives are given priority over current projects in order to keep the flow of our empire in a high momentum.", "v1": "所有新举措都优先于当前项目，以保持我们帝国的高速发展。", "v2": "english"}
+{"k": "tr_mt_advisor_fast_procedures_machine", "l": "simp_chinese", "t": 1712986676, "v0": "Overclocked Algorithms", "v1": "超频算法", "v2": "english"}
+{"k": "tr_mt_advisor_fast_procedures_machine_delayed", "l": "simp_chinese", "t": 1712986692, "v0": "Our newest generation of automated algorithms make it possible to roll our new initiatives at ever-increasing speeds.", "v1": "我们最新一代的自动化算法使我们能够以不断加快的速度推出新举措。", "v2": "english"}
+{"k": "tr_mt_advisor_finish", "l": "simp_chinese", "t": 1712986709, "v0": "Bureaucracy Traditions Finished", "v1": "完成官僚传统", "v2": "english"}
+{"k": "tr_mt_advisor_information_collection", "l": "simp_chinese", "t": 1712986718, "v0": "Applied Statistics", "v1": "应用统计", "v2": "english"}
+{"k": "tr_mt_advisor_information_collection_delayed", "l": "simp_chinese", "t": 1712986789, "v0": "Everything can be reduced to numbers, and numbers is everything about having enough numbers to figure out which are missing.", "v1": "一切都可以将数字化，这意味着我们拥有足够的信息来找出缺失的数据。", "v2": "english"}
 {"k": "tr_mt_advisor_information_collection_hive", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_information_collection$", "v1": "", "v2": "english"}
 {"k": "tr_mt_advisor_information_collection_hive_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_information_collection_delayed$", "v1": "", "v2": "english"}
 {"k": "tr_mt_advisor_information_collection_machine", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_information_collection$", "v1": "", "v2": "english"}
 {"k": "tr_mt_advisor_information_collection_machine_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_advisor_information_collection_delayed$", "v1": "", "v2": "english"}
+{"k": "tr_mt_advisor_standard_legal_language", "l": "simp_chinese", "t": 1712986794, "v0": "Standardized Legal Documents", "v1": "标准化法律文件", "v2": "english"}
+{"k": "tr_mt_advisor_standard_legal_language_delayed", "l": "simp_chinese", "t": 1712986814, "v0": "Legal Documents have been standardized across our empire, improving cross-sector efficiency and making archive-retrival much faster.", "v1": "我们整个帝国的法律文件已经标准化，提高了跨部门效率并使档案检索速度更快。", "v2": "english"}
+{"k": "tr_mt_advisor_standard_legal_language_hive", "l": "simp_chinese", "t": 1712986819, "v0": "Subspace Synapses", "v1": "子空间突触", "v2": "english"}
+{"k": "tr_mt_advisor_standard_legal_language_hive_delayed", "l": "simp_chinese", "t": 1712986856, "v0": "New growths designed to transmit large amounts of information across our empire has been mandated on all of our worlds.", "v1": "所有我们的世界都强制要求在我们的帝国范围内传输大量信息的新增节点。", "v2": "english"}
+{"k": "tr_mt_advisor_standard_legal_language_machine", "l": "simp_chinese", "t": 1712986862, "v0": "Code Compression", "v1": "代码压缩", "v2": "english"}
+{"k": "tr_mt_advisor_standard_legal_language_machine_delayed", "l": "simp_chinese", "t": 1712986881, "v0": "Information not currently in use will be compressed and stored in special data centers that are not accessed much.", "v1": "当前不使用的信息将被压缩并降级存储在不常访问的特殊数据中心中。", "v2": "english"}
+{"k": "tr_mt_annihilation_adopt", "l": "simp_chinese", "t": 1712986887, "v0": "Malevolence Traditions", "v1": "恶意传统", "v2": "english"}
 {"k": "tr_mt_archeology_archeological_training_modifier_desc", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "", "v1": "", "v2": "english"}
 {"k": "tr_mt_benevolence_open_borders_xenophile_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_benevolence_open_borders_delayed$", "v1": "", "v2": "english"}
 {"k": "tr_mt_guidance_trusted_caretaker_hive_delayed", "l": "simp_chinese", "s": true, "t": 1712557945, "v0": "$tr_mt_guidance_trusted_caretaker_delayed$", "v1": "", "v2": "english"}

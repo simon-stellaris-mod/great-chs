@@ -11,7 +11,7 @@ echo Build \[NSC3\] >&2
 python3 ${STELLARIS_TRANS_REPO_PATH}/scripts/translation.py \
     build \
     --name nsc3 \
-    --source-path ${STELLARIS_NSC3_GIT_REPO_PATH}/localisation \
+    --source-path ${STELLARIS_NSC3_MOD_PATH}/localisation \
     --load-language english \
     --source-language english \
     --data-file ./data/nsc3.json \
