@@ -161,7 +161,7 @@ cython_debug/
 #.idea/
 
 # Mod build
-mod/localisation/replace/
+mod/localisation/replace/*/
 
 # Mac
 .DS_Store
